@@ -1,0 +1,4 @@
+﻿*.py
+__pycache__/
+_caratulas_test.py
+
