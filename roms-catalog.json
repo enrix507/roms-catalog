@@ -10959,17 +10959,6 @@
    "fileName": "airwolf.nes"
   },
   {
-   "id": "nes-akumajou_special_boku_dracula_kun",
-   "name": "Akumajou Special - Boku Dracula-kun",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/akumajou_special_boku_dracula_kun.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/akumajou_special_boku_dracula_kun.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "akumajou_special_boku_dracula_kun.nes"
-  },
-  {
    "id": "nes-aladdin",
    "name": "Aladdin",
    "console": "nes",
@@ -12235,17 +12224,6 @@
    "fileName": "dragon_buster.nes"
   },
   {
-   "id": "nes-dragon_buster_ii_yami_no_fuuin",
-   "name": "Dragon Buster II - Yami no Fuuin",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dragon_buster_ii_yami_no_fuuin.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dragon_buster_ii_yami_no_fuuin.webp",
-   "description": "",
-   "size": "192 KB",
-   "category": "",
-   "fileName": "dragon_buster_ii_yami_no_fuuin.nes"
-  },
-  {
    "id": "nes-dragon_fighter",
    "name": "Dragon Fighter",
    "console": "nes",
@@ -12321,17 +12299,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "dropzone.nes"
-  },
-  {
-   "id": "nes-druaga_no_tou",
-   "name": "Druaga no Tou",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/druaga_no_tou.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/druaga_no_tou.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "druaga_no_tou.nes"
   },
   {
    "id": "nes-duck_hunt",
