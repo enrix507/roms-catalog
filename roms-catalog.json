@@ -1,5 +1,5 @@
 {
- "version": "2.2.0",
+ "version": "3.0.0",
  "updated": "2026-06-15",
  "roms": [
   {
@@ -36,17 +36,6 @@
    "fileName": "adventure_island.gb"
   },
   {
-   "id": "gb-adventure_island_ii",
-   "name": "Adventure Island II",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/adventure_island_ii.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "adventure_island_ii.gb"
-  },
-  {
    "id": "gb-adventures_of_lolo",
    "name": "Adventures of Lolo",
    "console": "gb",
@@ -56,17 +45,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "adventures_of_lolo.gb"
-  },
-  {
-   "id": "gb-adventures_of_pinocchio_the",
-   "name": "Adventures of Pinocchio, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/adventures_of_pinocchio_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "adventures_of_pinocchio_the.gb"
   },
   {
    "id": "gb-adventures_of_rocky_and_bullwinkle_the",
@@ -135,17 +113,6 @@
    "fileName": "alien_3.gb"
   },
   {
-   "id": "gb-alien_olympics_2044_ad",
-   "name": "Alien Olympics 2044 AD",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/alien_olympics_2044_ad.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "alien_olympics_2044_ad.gb"
-  },
-  {
    "id": "gb-alien_vs_predator_the_last_of_his_clan",
    "name": "Alien vs Predator - The Last of His Clan",
    "console": "gb",
@@ -168,17 +135,6 @@
    "fileName": "all_star_baseball_99.gb"
   },
   {
-   "id": "gb-altered_space",
-   "name": "Altered Space",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/altered_space.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "altered_space.gb"
-  },
-  {
    "id": "gb-amazing_penguin",
    "name": "Amazing Penguin",
    "console": "gb",
@@ -188,17 +144,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "amazing_penguin.gb"
-  },
-  {
-   "id": "gb-amazing_spider_man_2_the",
-   "name": "Amazing Spider-Man 2, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/amazing_spider_man_2_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "amazing_spider_man_2_the.gb"
   },
   {
    "id": "gb-amazing_spider_man_3_the_invasion_of_the_spider_slayers",
@@ -276,17 +221,6 @@
    "size": "32 KB",
    "category": "",
    "fileName": "asteroids.gb"
-  },
-  {
-   "id": "gb-asteroids_missile_command",
-   "name": "Asteroids & Missile Command",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/asteroids_missile_command.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "asteroids_missile_command.gb"
   },
   {
    "id": "gb-atomic_punk",
@@ -388,17 +322,6 @@
    "fileName": "bases_loaded.gb"
   },
   {
-   "id": "gb-batman",
-   "name": "Batman",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/batman.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "batman.gb"
-  },
-  {
    "id": "gb-batman_return_of_the_joker",
    "name": "Batman - Return of the Joker",
    "console": "gb",
@@ -487,17 +410,6 @@
    "fileName": "battle_unit_zeoth.gb"
   },
   {
-   "id": "gb-battle_zone_super_breakout",
-   "name": "Battle Zone & Super Breakout",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/battle_zone_super_breakout.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "battle_zone_super_breakout.gb"
-  },
-  {
    "id": "gb-battleship",
    "name": "Battleship",
    "console": "gb",
@@ -520,17 +432,6 @@
    "fileName": "battletoads.gb"
   },
   {
-   "id": "gb-battletoads_double_dragon_the_ultimate_team",
-   "name": "Battletoads Double Dragon - The Ultimate Team",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/battletoads_double_dragon_the_ultimate_team.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "battletoads_double_dragon_the_ultimate_team.gb"
-  },
-  {
    "id": "gb-battletoads_in_ragnarok_s_world",
    "name": "Battletoads in Ragnarok's World",
    "console": "gb",
@@ -540,39 +441,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "battletoads_in_ragnarok_s_world.gb"
-  },
-  {
-   "id": "gb-beavis_and_butt_head",
-   "name": "Beavis and Butt-Head",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/beavis_and_butt_head.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "beavis_and_butt_head.gb"
-  },
-  {
-   "id": "gb-beavis_and_butthead",
-   "name": "Beavis and Butthead",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/beavis_and_butthead.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "beavis_and_butthead.gb"
-  },
-  {
-   "id": "gb-beethoven_s_2nd",
-   "name": "Beethoven's 2nd",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/beethoven_s_2nd.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "beethoven_s_2nd.gb"
   },
   {
    "id": "gb-beetlejuice",
@@ -586,28 +454,6 @@
    "fileName": "beetlejuice.gb"
   },
   {
-   "id": "gb-berlitz_french_language_translator",
-   "name": "Berlitz French Language Translator",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/berlitz_french_language_translator.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "berlitz_french_language_translator.gb"
-  },
-  {
-   "id": "gb-berlitz_spanish_language_translator",
-   "name": "Berlitz Spanish Language Translator",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/berlitz_spanish_language_translator.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "berlitz_spanish_language_translator.gb"
-  },
-  {
    "id": "gb-best_of_the_best_championship_karate",
    "name": "Best of the Best - Championship Karate",
    "console": "gb",
@@ -617,17 +463,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "best_of_the_best_championship_karate.gb"
-  },
-  {
-   "id": "gb-bill_ted_s_excellent_gameboy_adventure",
-   "name": "Bill & Ted's Excellent Gameboy Adventure",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/bill_ted_s_excellent_gameboy_adventure.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "bill_ted_s_excellent_gameboy_adventure.gb"
   },
   {
    "id": "gb-bill_elliott_s_nascar_fast_tracks",
@@ -729,17 +564,6 @@
    "fileName": "blues_brothers_the_jukebox_adventure.gb"
   },
   {
-   "id": "gb-bo_jackson_hit_and_run",
-   "name": "Bo Jackson Hit and Run",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/bo_jackson_hit_and_run.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "bo_jackson_hit_and_run.gb"
-  },
-  {
    "id": "gb-boggle_plus",
    "name": "Boggle Plus",
    "console": "gb",
@@ -839,17 +663,6 @@
    "fileName": "boxxle_2.gb"
   },
   {
-   "id": "gb-boy_and_his_blob_a_the_rescue_of_princess_blobette",
-   "name": "Boy and His Blob, A - The Rescue of Princess Blobette",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/boy_and_his_blob_a_the_rescue_of_princess_blobette.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "boy_and_his_blob_a_the_rescue_of_princess_blobette.gb"
-  },
-  {
    "id": "gb-brain_drain",
    "name": "Brain Drain",
    "console": "gb",
@@ -936,17 +749,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "bubsy_2.gb"
-  },
-  {
-   "id": "gb-bugs_bunny",
-   "name": "Bugs Bunny",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/bugs_bunny.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "bugs_bunny.gb"
   },
   {
    "id": "gb-bugs_bunny_crazy_castle_ii",
@@ -1279,17 +1081,6 @@
    "fileName": "cosmo_tank.gb"
   },
   {
-   "id": "gb-crystal_depths_v1_2",
-   "name": "Crystal Depths v1.2",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/crystal_depths_v1_2.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "crystal_depths_v1_2.gb"
-  },
-  {
    "id": "gb-crystal_quest",
    "name": "Crystal Quest",
    "console": "gb",
@@ -1334,17 +1125,6 @@
    "fileName": "daedalean_opus.gb"
   },
   {
-   "id": "gb-daffy_duck_the_marvin_missions",
-   "name": "Daffy Duck - The Marvin Missions",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/daffy_duck_the_marvin_missions.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "daffy_duck_the_marvin_missions.gb"
-  },
-  {
    "id": "gb-darkman",
    "name": "Darkman",
    "console": "gb",
@@ -1367,17 +1147,6 @@
    "fileName": "darkwing_duck.gb"
   },
   {
-   "id": "gb-david_crane_s_the_rescue_of_princess_blobette_starring_a_boy_and_his_blob",
-   "name": "David Crane's The Rescue of Princess Blobette Starring A Boy and His Blob",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/david_crane_s_the_rescue_of_princess_blobette_starring_a_boy_and_his_blob.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "david_crane_s_the_rescue_of_princess_blobette_starring_a_boy_and_his_blob.gb"
-  },
-  {
    "id": "gb-days_of_thunder",
    "name": "Days of Thunder",
    "console": "gb",
@@ -1398,17 +1167,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "dead_heat_scramble.gb"
-  },
-  {
-   "id": "gb-defender_joust",
-   "name": "Defender-Joust",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/defender_joust.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "defender_joust.gb"
   },
   {
    "id": "gb-dennis",
@@ -1554,17 +1312,6 @@
    "fileName": "double_dragon_2.gb"
   },
   {
-   "id": "gb-double_dragon_3",
-   "name": "Double Dragon 3",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/double_dragon_3.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "double_dragon_3.gb"
-  },
-  {
    "id": "gb-double_dragon_3_the_arcade_game",
    "name": "Double Dragon 3 - The Arcade Game",
    "console": "gb",
@@ -1651,28 +1398,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "dragon_s_lair_the_legend.gb"
-  },
-  {
-   "id": "gb-dreaming_sarah",
-   "name": "Dreaming Sarah",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/dreaming_sarah.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "dreaming_sarah.gb"
-  },
-  {
-   "id": "gb-dreamland_story_v_1_0",
-   "name": "Dreamland Story v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/dreamland_story_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "dreamland_story_v_1_0.gb"
   },
   {
    "id": "gb-dropzone",
@@ -1895,28 +1620,6 @@
    "fileName": "fifa_soccer_97.gb"
   },
   {
-   "id": "gb-fifa_soccer_98_road_to_the_world_cup",
-   "name": "FIFA Soccer '98 - Road to the World Cup",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fifa_soccer_98_road_to_the_world_cup.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "fifa_soccer_98_road_to_the_world_cup.gb"
-  },
-  {
-   "id": "gb-fighting_simulator_2in1_flying_warriors",
-   "name": "Fighting Simulator 2in1 - Flying Warriors",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fighting_simulator_2in1_flying_warriors.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "fighting_simulator_2in1_flying_warriors.gb"
-  },
-  {
    "id": "gb-final_fantasy_adventure",
    "name": "Final Fantasy Adventure",
    "console": "gb",
@@ -2038,17 +1741,6 @@
    "fileName": "flipull.gb"
   },
   {
-   "id": "gb-flipull_4_color_v_1_0",
-   "name": "Flipull 4 Color v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/flipull_4_color_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "flipull_4_color_v_1_0.gb"
-  },
-  {
    "id": "gb-football_international",
    "name": "Football International",
    "console": "gb",
@@ -2093,39 +1785,6 @@
    "fileName": "frank_thomas_big_hurt_baseball.gb"
   },
   {
-   "id": "gb-fridgequest",
-   "name": "FridgeQuest",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fridgequest.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "fridgequest.gb"
-  },
-  {
-   "id": "gb-frommer_s_personal_organizer",
-   "name": "Frommer's Personal Organizer",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/frommer_s_personal_organizer.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "frommer_s_personal_organizer.gb"
-  },
-  {
-   "id": "gb-frommer_s_travel_guide",
-   "name": "Frommer's Travel Guide",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/frommer_s_travel_guide.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "frommer_s_travel_guide.gb"
-  },
-  {
    "id": "gb-galaga_galaxian",
    "name": "Galaga & Galaxian",
    "console": "gb",
@@ -2148,17 +1807,6 @@
    "fileName": "game_watch_gallery.gb"
   },
   {
-   "id": "gb-game_watch_gallery_2",
-   "name": "Game & Watch Gallery 2",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/game_watch_gallery_2.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "game_watch_gallery_2.gb"
-  },
-  {
    "id": "gb-game_of_harmony_the",
    "name": "Game of Harmony, The",
    "console": "gb",
@@ -2179,17 +1827,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "gameboy_camera.gb"
-  },
-  {
-   "id": "gb-gameboy_camera_gold_zelda_edition",
-   "name": "Gameboy Camera Gold - Zelda Edition",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/gameboy_camera_gold_zelda_edition.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "gameboy_camera_gold_zelda_edition.gb"
   },
   {
    "id": "gb-gameboy_gallery",
@@ -2225,17 +1862,6 @@
    "fileName": "gargoyle_s_quest.gb"
   },
   {
-   "id": "gb-gargoyle_s_quest_ghosts_n_goblins",
-   "name": "Gargoyle's Quest - Ghosts'n Goblins",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/gargoyle_s_quest_ghosts_n_goblins.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "gargoyle_s_quest_ghosts_n_goblins.gb"
-  },
-  {
    "id": "gb-gauntlet_ii",
    "name": "Gauntlet II",
    "console": "gb",
@@ -2267,17 +1893,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "george_foreman_s_ko_boxing.gb"
-  },
-  {
-   "id": "gb-getaway_the",
-   "name": "Getaway, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/getaway_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "getaway_the.gb"
   },
   {
    "id": "gb-ghostbusters_ii",
@@ -2346,17 +1961,6 @@
    "fileName": "golf_classic.gb"
   },
   {
-   "id": "gb-gourmet_paradise",
-   "name": "Gourmet Paradise",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/gourmet_paradise.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "gourmet_paradise.gb"
-  },
-  {
    "id": "gb-gradius_the_interstellar_assault",
    "name": "Gradius - The Interstellar Assault",
    "console": "gb",
@@ -2366,17 +1970,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "gradius_the_interstellar_assault.gb"
-  },
-  {
-   "id": "gb-grand_prix",
-   "name": "Grand Prix",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/grand_prix.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "grand_prix.gb"
   },
   {
    "id": "gb-great_greed",
@@ -2410,17 +2003,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "hal_wrestling.gb"
-  },
-  {
-   "id": "gb-hammerin_harry_ghost_building_company",
-   "name": "Hammerin' Harry - Ghost Building Company",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/hammerin_harry_ghost_building_company.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "hammerin_harry_ghost_building_company.gb"
   },
   {
    "id": "gb-harvest_moon_gb",
@@ -2489,17 +2071,6 @@
    "fileName": "high_stakes_gambling.gb"
   },
   {
-   "id": "gb-hit_the_ice",
-   "name": "Hit the Ice",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/hit_the_ice.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "hit_the_ice.gb"
-  },
-  {
    "id": "gb-home_alone",
    "name": "Home Alone",
    "console": "gb",
@@ -2511,17 +2082,6 @@
    "fileName": "home_alone.gb"
   },
   {
-   "id": "gb-home_alone_2",
-   "name": "Home Alone 2",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/home_alone_2.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "home_alone_2.gb"
-  },
-  {
    "id": "gb-hook",
    "name": "Hook",
    "console": "gb",
@@ -2531,17 +2091,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "hook.gb"
-  },
-  {
-   "id": "gb-houghton_mifflin_spell_checker_and_calculator",
-   "name": "Houghton Mifflin Spell Checker and Calculator",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/houghton_mifflin_spell_checker_and_calculator.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "houghton_mifflin_spell_checker_and_calculator.gb"
   },
   {
    "id": "gb-hudson_hawk",
@@ -2575,17 +2124,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "humans_the.gb"
-  },
-  {
-   "id": "gb-hunchback_of_notre_dame_the_topsy_turvy_games",
-   "name": "Hunchback of Notre Dame, The - Topsy Turvy Games",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/hunchback_of_notre_dame_the_topsy_turvy_games.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "hunchback_of_notre_dame_the_topsy_turvy_games.gb"
   },
   {
    "id": "gb-hunt_for_red_october_the",
@@ -2676,17 +2214,6 @@
    "fileName": "ironman_x_o_manowar_in_heavy_metal.gb"
   },
   {
-   "id": "gb-ishido",
-   "name": "Ishido",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/ishido.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "ishido.gb"
-  },
-  {
    "id": "gb-itchy_scratchy_miniature_golf_madness",
    "name": "Itchy & Scratchy - Miniature Golf Madness",
    "console": "gb",
@@ -2707,17 +2234,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "jack_nicklaus_golf.gb"
-  },
-  {
-   "id": "gb-jeep_jamboree",
-   "name": "Jeep Jamboree",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/jeep_jamboree.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "jeep_jamboree.gb"
   },
   {
    "id": "gb-jelly_boy",
@@ -2762,28 +2278,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "jeopardy_teen_tournament.gb"
-  },
-  {
-   "id": "gb-jetsons_the",
-   "name": "Jetsons, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/jetsons_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "jetsons_the.gb"
-  },
-  {
-   "id": "gb-jetsons_the_robot_panic",
-   "name": "Jetsons, The - Robot Panic",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/jetsons_the_robot_panic.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "jetsons_the_robot_panic.gb"
   },
   {
    "id": "gb-jimmy_connors_tennis",
@@ -2872,17 +2366,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "jurassic_park.gb"
-  },
-  {
-   "id": "gb-jurassic_park_lost_world_the",
-   "name": "Jurassic Park - Lost World, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/jurassic_park_lost_world_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "jurassic_park_lost_world_the.gb"
   },
   {
    "id": "gb-jurassic_park_2_the_chaos_continues",
@@ -3039,17 +2522,6 @@
    "fileName": "kung_fu_master.gb"
   },
   {
-   "id": "gb-kwirk",
-   "name": "Kwirk",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/kwirk.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "kwirk.gb"
-  },
-  {
    "id": "gb-lamborghini_american_challenge",
    "name": "Lamborghini American Challenge",
    "console": "gb",
@@ -3149,17 +2621,6 @@
    "fileName": "lemmings_2_the_tribes.gb"
   },
   {
-   "id": "gb-les_aventures_de_tintin_le_temple_du_soleil",
-   "name": "Les Aventures De TinTin - Le Temple du Soleil",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/les_aventures_de_tintin_le_temple_du_soleil.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "les_aventures_de_tintin_le_temple_du_soleil.gb"
-  },
-  {
    "id": "gb-lethal_weapon",
    "name": "Lethal Weapon",
    "console": "gb",
@@ -3182,39 +2643,6 @@
    "fileName": "lion_king_the.gb"
   },
   {
-   "id": "gb-little_indian_in_big_city",
-   "name": "Little Indian in Big City",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/little_indian_in_big_city.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "little_indian_in_big_city.gb"
-  },
-  {
-   "id": "gb-little_master_raikuban_no_densetsu_v_1_0",
-   "name": "Little Master - Raikuban no Densetsu v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/little_master_raikuban_no_densetsu_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "little_master_raikuban_no_densetsu_v_1_0.gb"
-  },
-  {
-   "id": "gb-little_master_v_1_0",
-   "name": "Little Master v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/little_master_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "little_master_v_1_0.gb"
-  },
-  {
    "id": "gb-little_mermaid_the",
    "name": "Little Mermaid, The",
    "console": "gb",
@@ -3224,17 +2652,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "little_mermaid_the.gb"
-  },
-  {
-   "id": "gb-lock_n_chase",
-   "name": "Lock 'N Chase",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/lock_n_chase.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "lock_n_chase.gb"
   },
   {
    "id": "gb-looney_tunes",
@@ -3457,17 +2874,6 @@
    "fileName": "mega_man_v.gb"
   },
   {
-   "id": "gb-mega_man_world_4_ldx_v_1_1",
-   "name": "Mega Man World 4 LDX v.1.1",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/mega_man_world_4_ldx_v_1_1.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "mega_man_world_4_ldx_v_1_1.gb"
-  },
-  {
    "id": "gb-megalit",
    "name": "Megalit",
    "console": "gb",
@@ -3477,17 +2883,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "megalit.gb"
-  },
-  {
-   "id": "gb-megamemory_v1_0_by_interact",
-   "name": "MegaMemory V1.0 by Interact",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/megamemory_v1_0_by_interact.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "megamemory_v1_0_by_interact.gb"
   },
   {
    "id": "gb-mercenary_force",
@@ -3578,17 +2973,6 @@
    "fileName": "micro_machines.gb"
   },
   {
-   "id": "gb-micro_machines_2",
-   "name": "Micro Machines 2",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/micro_machines_2.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "micro_machines_2.gb"
-  },
-  {
    "id": "gb-mighty_morphin_power_rangers",
    "name": "Mighty Morphin Power Rangers",
    "console": "gb",
@@ -3611,17 +2995,6 @@
    "fileName": "mighty_morphin_power_rangers_the_movie.gb"
   },
   {
-   "id": "gb-millipede_centipede",
-   "name": "Millipede - Centipede",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/millipede_centipede.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "millipede_centipede.gb"
-  },
-  {
    "id": "gb-milon_s_secret_castle",
    "name": "Milon's Secret Castle",
    "console": "gb",
@@ -3631,17 +3004,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "milon_s_secret_castle.gb"
-  },
-  {
-   "id": "gb-miner_2049er",
-   "name": "Miner 2049er",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/miner_2049er.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "miner_2049er.gb"
   },
   {
    "id": "gb-missile_command",
@@ -3820,17 +3182,6 @@
    "fileName": "ms_pac_man.gb"
   },
   {
-   "id": "gb-muhammad_ali_s_boxing",
-   "name": "Muhammad Ali's Boxing",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/muhammad_ali_s_boxing.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "muhammad_ali_s_boxing.gb"
-  },
-  {
    "id": "gb-mysterium",
    "name": "Mysterium",
    "console": "gb",
@@ -3873,17 +3224,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "nail_n_scale.gb"
-  },
-  {
-   "id": "gb-nanoloop_music_generator",
-   "name": "NanoLoop Music Generator",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/nanoloop_music_generator.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "nanoloop_music_generator.gb"
   },
   {
    "id": "gb-navy_seals",
@@ -4040,39 +3380,6 @@
    "fileName": "nhl_hockey_95.gb"
   },
   {
-   "id": "gb-nhl_hockey_96",
-   "name": "NHL Hockey '96",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/nhl_hockey_96.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "nhl_hockey_96.gb"
-  },
-  {
-   "id": "gb-nigel_mansell_s_world_championship_92",
-   "name": "Nigel Mansell's World Championship '92",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/nigel_mansell_s_world_championship_92.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "nigel_mansell_s_world_championship_92.gb"
-  },
-  {
-   "id": "gb-nigel_mansell_s_world_championship_93",
-   "name": "Nigel Mansell's World Championship '93",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/nigel_mansell_s_world_championship_93.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "nigel_mansell_s_world_championship_93.gb"
-  },
-  {
    "id": "gb-ninja_boy",
    "name": "Ninja Boy",
    "console": "gb",
@@ -4093,17 +3400,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "ninja_boy_2.gb"
-  },
-  {
-   "id": "gb-ninja_gaiden_black_shadow_v_1_0",
-   "name": "Ninja Gaiden Black Shadow v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/ninja_gaiden_black_shadow_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "ninja_gaiden_black_shadow_v_1_0.gb"
   },
   {
    "id": "gb-ninja_gaiden_shadow",
@@ -4150,17 +3446,6 @@
    "fileName": "nobunaga_s_ambition.gb"
   },
   {
-   "id": "gb-obelix",
-   "name": "Obelix",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/obelix.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "obelix.gb"
-  },
-  {
    "id": "gb-olympic_summer_games",
    "name": "Olympic Summer Games",
    "console": "gb",
@@ -4170,17 +3455,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "olympic_summer_games.gb"
-  },
-  {
-   "id": "gb-on_the_tiles_franky_joe_dirk",
-   "name": "On the Tiles - Franky, Joe & Dirk",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/on_the_tiles_franky_joe_dirk.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "on_the_tiles_franky_joe_dirk.gb"
   },
   {
    "id": "gb-operation_c",
@@ -4203,28 +3477,6 @@
    "size": "32 KB",
    "category": "",
    "fileName": "othello.gb"
-  },
-  {
-   "id": "gb-otto_s_ottifanten",
-   "name": "Otto's Ottifanten",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/otto_s_ottifanten.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "otto_s_ottifanten.gb"
-  },
-  {
-   "id": "gb-otto_s_ottifanten_baby_bruno_s_nightmare",
-   "name": "Otto's Ottifanten - Baby Bruno's Nightmare",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/otto_s_ottifanten_baby_bruno_s_nightmare.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "otto_s_ottifanten_baby_bruno_s_nightmare.gb"
   },
   {
    "id": "gb-out_of_gas",
@@ -4258,17 +3510,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "pac_man.gb"
-  },
-  {
-   "id": "gb-pac_man_escape_v_1_0",
-   "name": "Pac-Man Escape v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/pac_man_escape_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "pac_man_escape_v_1_0.gb"
   },
   {
    "id": "gb-pagemaster_the",
@@ -4700,17 +3941,6 @@
    "fileName": "q_billion.gb"
   },
   {
-   "id": "gb-q_bert_ii",
-   "name": "Q-bert II",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/q_bert_ii.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "q_bert_ii.gb"
-  },
-  {
    "id": "gb-qix",
    "name": "Qix",
    "console": "gb",
@@ -4909,17 +4139,6 @@
    "fileName": "robocop_2.gb"
   },
   {
-   "id": "gb-robocop_versus_the_terminator",
-   "name": "Robocop Versus The Terminator",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/robocop_versus_the_terminator.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "robocop_versus_the_terminator.gb"
-  },
-  {
    "id": "gb-rodland",
    "name": "Rodland",
    "console": "gb",
@@ -4995,17 +4214,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "sea_battle.gb"
-  },
-  {
-   "id": "gb-seaquest_dsv",
-   "name": "SeaQuest DSV",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/seaquest_dsv.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "seaquest_dsv.gb"
   },
   {
    "id": "gb-serpent",
@@ -5096,17 +4304,6 @@
    "fileName": "simpsons_the_escape_from_camp_deadly.gb"
   },
   {
-   "id": "gb-simpsons_the_krusty_s_funhouse",
-   "name": "Simpsons, The - Krusty's Funhouse",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/simpsons_the_krusty_s_funhouse.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "simpsons_the_krusty_s_funhouse.gb"
-  },
-  {
    "id": "gb-skate_or_die_bad_n_rad",
    "name": "Skate or Die - Bad 'N Rad",
    "console": "gb",
@@ -5138,28 +4335,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "small_soldiers.gb"
-  },
-  {
-   "id": "gb-smurfs_2_the",
-   "name": "Smurfs 2, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/smurfs_2_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "smurfs_2_the.gb"
-  },
-  {
-   "id": "gb-smurfs_3_the",
-   "name": "Smurfs 3, The",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/smurfs_3_the.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "smurfs_3_the.gb"
   },
   {
    "id": "gb-smurfs_nightmare_the",
@@ -5503,17 +4678,6 @@
    "fileName": "star_wars.gb"
   },
   {
-   "id": "gb-star_wars_super_return_of_the_jedi",
-   "name": "Star Wars - Super Return of the Jedi",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/star_wars_super_return_of_the_jedi.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "star_wars_super_return_of_the_jedi.gb"
-  },
-  {
    "id": "gb-star_wars_the_empire_strikes_back",
    "name": "Star Wars - The Empire Strikes Back",
    "console": "gb",
@@ -5666,17 +4830,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "super_mario_land_2_6_golden_coins.gb"
-  },
-  {
-   "id": "gb-super_mario_trap_v_1_0",
-   "name": "Super Mario Trap v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/super_mario_trap_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "super_mario_trap_v_1_0.gb"
   },
   {
    "id": "gb-super_off_road",
@@ -5866,17 +5019,6 @@
    "fileName": "tecmo_bowl.gb"
   },
   {
-   "id": "gb-teenage_mutant_hero_turtles_back_from_the_sewers",
-   "name": "Teenage Mutant Hero Turtles - Back from the Sewers",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/teenage_mutant_hero_turtles_back_from_the_sewers.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "teenage_mutant_hero_turtles_back_from_the_sewers.gb"
-  },
-  {
    "id": "gb-teenage_mutant_hero_turtles_fall_of_the_foot_clan",
    "name": "Teenage Mutant Hero Turtles - Fall of the Foot Clan",
    "console": "gb",
@@ -5908,17 +5050,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "teenage_mutant_hero_turtles_iii_radical_rescue.gb"
-  },
-  {
-   "id": "gb-teenage_mutant_ninja_turtles_back_from_the_sewers",
-   "name": "Teenage Mutant Ninja Turtles - Back From the Sewers",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/teenage_mutant_ninja_turtles_back_from_the_sewers.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "teenage_mutant_ninja_turtles_back_from_the_sewers.gb"
   },
   {
    "id": "gb-teenage_mutant_ninja_turtles_fall_of_the_foot_clan",
@@ -6029,17 +5160,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "tetris_plus.gb"
-  },
-  {
-   "id": "gb-the_2nd_super_super_mario_land_v_1_0",
-   "name": "The 2nd Super Super Mario Land v.1.0",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/the_2nd_super_super_mario_land_v_1_0.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "the_2nd_super_super_mario_land_v_1_0.gb"
   },
   {
    "id": "gb-tintin_in_tibet",
@@ -6251,17 +5371,6 @@
    "fileName": "tumble_pop.gb"
   },
   {
-   "id": "gb-turn_and_burn",
-   "name": "Turn and Burn",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/turn_and_burn.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "turn_and_burn.gb"
-  },
-  {
    "id": "gb-turok_battle_of_the_bionosaurs",
    "name": "Turok - Battle of the Bionosaurs",
    "console": "gb",
@@ -6370,28 +5479,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "wario_land_super_mario_land_3.gb"
-  },
-  {
-   "id": "gb-wario_land_super_mario_land_3_color_edition_v_1_11",
-   "name": "Wario Land Super Mario Land 3 Color Edition v.1.11",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/wario_land_super_mario_land_3_color_edition_v_1_11.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "wario_land_super_mario_land_3_color_edition_v_1_11.gb"
-  },
-  {
-   "id": "gb-wario_land_super_mario_land_3_color_edition_v_1_2",
-   "name": "Wario Land Super Mario Land 3 Color Edition v.1.2",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/wario_land_super_mario_land_3_color_edition_v_1_2.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "wario_land_super_mario_land_3_color_edition_v_1_2.gb"
   },
   {
    "id": "gb-water_world",
@@ -6669,17 +5756,6 @@
    "fileName": "xenon_2_megablast.gb"
   },
   {
-   "id": "gb-xvii_olympic_winter_games_the_lillehammer_1994",
-   "name": "XVII Olympic Winter Games, The - Lillehammer 1994",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/xvii_olympic_winter_games_the_lillehammer_1994.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "xvii_olympic_winter_games_the_lillehammer_1994.gb"
-  },
-  {
    "id": "gb-yogi_bear_in_yogi_bear_s_goldrush",
    "name": "Yogi Bear in Yogi Bear's Goldrush",
    "console": "gb",
@@ -6711,17 +5787,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "yoshi_s_cookie.gb"
-  },
-  {
-   "id": "gb-zelda_fantasy_adventure_v_1_02",
-   "name": "Zelda Fantasy Adventure v.1.02",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/zelda_fantasy_adventure_v_1_02.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "zelda_fantasy_adventure_v_1_02.gb"
   },
   {
    "id": "gb-zen_intergalactic_ninja",
@@ -6799,17 +5864,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "3d_pocket_pool.gbc"
-  },
-  {
-   "id": "gbc-3d_ultra_pinball_thrillride",
-   "name": "3D Ultra Pinball - Thrillride",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/3d_ultra_pinball_thrillride.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "3d_ultra_pinball_thrillride.gbc"
   },
   {
    "id": "gbc-720_degrees",
@@ -6977,17 +6031,6 @@
    "fileName": "armada_fx_racers.gbc"
   },
   {
-   "id": "gbc-armorines",
-   "name": "Armorines",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/armorines.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "armorines.gbc"
-  },
-  {
    "id": "gbc-army_men_air_combat",
    "name": "Army Men - Air Combat",
    "console": "gbc",
@@ -7096,17 +6139,6 @@
    "size": "4.0 MB",
    "category": "",
    "fileName": "austin_powers_oh_behave.gbc"
-  },
-  {
-   "id": "gbc-austin_powers_underground_lair",
-   "name": "Austin Powers -Underground Lair!",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/austin_powers_underground_lair.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "austin_powers_underground_lair.gbc"
   },
   {
    "id": "gbc-azure_dreams",
@@ -7219,17 +6251,6 @@
    "fileName": "barbie_pet_rescue.gbc"
   },
   {
-   "id": "gbc-barbie_shelly_club",
-   "name": "Barbie - Shelly Club",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/barbie_shelly_club.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "barbie_shelly_club.gbc"
-  },
-  {
    "id": "gbc-barca_total_2000",
    "name": "Barca Total 2000",
    "console": "gbc",
@@ -7294,39 +6315,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "battleship.gbc"
-  },
-  {
-   "id": "gbc-bear_in_the_big_blue_house",
-   "name": "Bear in the Big Blue House",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/bear_in_the_big_blue_house.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "bear_in_the_big_blue_house.gbc"
-  },
-  {
-   "id": "gbc-benjamin_bluemchen",
-   "name": "Benjamin Bluemchen",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/benjamin_bluemchen.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "benjamin_bluemchen.gbc"
-  },
-  {
-   "id": "gbc-bibi_blocksbergim_bann",
-   "name": "Bibi BlocksbergIm Bann",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/bibi_blocksbergim_bann.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "bibi_blocksbergim_bann.gbc"
   },
   {
    "id": "gbc-billy_bob_s_huntin_n_fishin",
@@ -7450,17 +6438,6 @@
    "fileName": "bomberman_quest.gbc"
   },
   {
-   "id": "gbc-bubble_bobble",
-   "name": "Bubble Bobble",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/bubble_bobble.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "bubble_bobble.gbc"
-  },
-  {
    "id": "gbc-buffy_the_vampire_slayer",
    "name": "Buffy The Vampire Slayer",
    "console": "gbc",
@@ -7470,17 +6447,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "buffy_the_vampire_slayer.gbc"
-  },
-  {
-   "id": "gbc-bugs_bunny_carrot_crazy",
-   "name": "Bugs Bunny - Carrot Crazy",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/bugs_bunny_carrot_crazy.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "bugs_bunny_carrot_crazy.gbc"
   },
   {
    "id": "gbc-bugs_bunny_crazy_castle_iii",
@@ -7560,17 +6526,6 @@
    "fileName": "cannon_fodder.gbc"
   },
   {
-   "id": "gbc-card_sharks",
-   "name": "Card Sharks",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/card_sharks.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "card_sharks.gbc"
-  },
-  {
    "id": "gbc-carl_lewis_athletics_2000",
    "name": "Carl Lewis Athletics 2000",
    "console": "gbc",
@@ -7580,17 +6535,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "carl_lewis_athletics_2000.gbc"
-  },
-  {
-   "id": "gbc-carmageddon",
-   "name": "Carmageddon",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/carmageddon.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "carmageddon.gbc"
   },
   {
    "id": "gbc-casper",
@@ -7626,17 +6570,6 @@
    "fileName": "catwoman.gbc"
   },
   {
-   "id": "gbc-catz_your_virtual_petz_palz",
-   "name": "Catz - Your Virtual Petz Palz",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/catz_your_virtual_petz_palz.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "catz_your_virtual_petz_palz.gbc"
-  },
-  {
    "id": "gbc-centipede",
    "name": "Centipede",
    "console": "gbc",
@@ -7646,17 +6579,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "centipede.gbc"
-  },
-  {
-   "id": "gbc-championship_motocross_2001",
-   "name": "Championship Motocross 2001",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/championship_motocross_2001.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "championship_motocross_2001.gbc"
   },
   {
    "id": "gbc-chase_hq_secret_police",
@@ -7703,17 +6625,6 @@
    "fileName": "colin_mcrae_rally.gbc"
   },
   {
-   "id": "gbc-columns_gb",
-   "name": "Columns GB",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/columns_gb.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "columns_gb.gbc"
-  },
-  {
    "id": "gbc-commander_keen",
    "name": "Commander Keen",
    "console": "gbc",
@@ -7747,17 +6658,6 @@
    "fileName": "cool_bricks.gbc"
   },
   {
-   "id": "gbc-croc_i_legend_of_the_gobbos",
-   "name": "Croc I - Legend of the Gobbos",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/croc_i_legend_of_the_gobbos.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "croc_i_legend_of_the_gobbos.gbc"
-  },
-  {
    "id": "gbc-croc_ii",
    "name": "Croc II",
    "console": "gbc",
@@ -7789,28 +6689,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "crystalis.gbc"
-  },
-  {
-   "id": "gbc-cubix_robots_for_everyone",
-   "name": "Cubix - Robots For Everyone",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/cubix_robots_for_everyone.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "cubix_robots_for_everyone.gbc"
-  },
-  {
-   "id": "gbc-cyber_tiger_wood_s_golf",
-   "name": "Cyber Tiger Wood's Golf",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/cyber_tiger_wood_s_golf.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "cyber_tiger_wood_s_golf.gbc"
   },
   {
    "id": "gbc-daffy_duck_fowl_play",
@@ -7890,17 +6768,6 @@
    "fileName": "dancing_furby.gbc"
   },
   {
-   "id": "gbc-das_geheimnis_der_happy",
-   "name": "Das Geheimnis der Happy",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/das_geheimnis_der_happy.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "das_geheimnis_der_happy.gbc"
-  },
-  {
    "id": "gbc-dave_mirra_freestyle_bmx",
    "name": "Dave Mirra Freestyle BMX",
    "console": "gbc",
@@ -7956,28 +6823,6 @@
    "fileName": "denki_blocks.gbc"
   },
   {
-   "id": "gbc-dexter_s_laboratory",
-   "name": "Dexter's Laboratory",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dexter_s_laboratory.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "dexter_s_laboratory.gbc"
-  },
-  {
-   "id": "gbc-die_maus",
-   "name": "Die Maus",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/die_maus.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "die_maus.gbc"
-  },
-  {
    "id": "gbc-die_original_moorhuhn_jagd",
    "name": "Die Original Moorhuhn Jagd",
    "console": "gbc",
@@ -8000,149 +6845,6 @@
    "fileName": "dinosaur_us.gbc"
   },
   {
-   "id": "gbc-disney_s_102_dalmatians",
-   "name": "Disney's 102 Dalmatians",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_102_dalmatians.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_s_102_dalmatians.gbc"
-  },
-  {
-   "id": "gbc-disney_s_a_bug_s_life",
-   "name": "Disney's A Bug's Life",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_a_bug_s_life.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_s_a_bug_s_life.gbc"
-  },
-  {
-   "id": "gbc-disney_s_aladdin",
-   "name": "Disney's Aladdin",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_aladdin.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_s_aladdin.gbc"
-  },
-  {
-   "id": "gbc-disney_s_alice_in_wonderland",
-   "name": "Disney's Alice in Wonderland",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_alice_in_wonderland.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "disney_s_alice_in_wonderland.gbc"
-  },
-  {
-   "id": "gbc-disney_s_atlantis_lost_empire",
-   "name": "Disney's Atlantis - Lost Empire",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_atlantis_lost_empire.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "disney_s_atlantis_lost_empire.gbc"
-  },
-  {
-   "id": "gbc-disney_s_beauty_and_the_beast",
-   "name": "Disney's Beauty and the Beast",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_beauty_and_the_beast.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_s_beauty_and_the_beast.gbc"
-  },
-  {
-   "id": "gbc-disney_s_dinosaur",
-   "name": "Disney's Dinosaur",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_dinosaur.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "disney_s_dinosaur.gbc"
-  },
-  {
-   "id": "gbc-disney_s_emperor_s_new_groove",
-   "name": "Disney's Emperor's New Groove",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_emperor_s_new_groove.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "disney_s_emperor_s_new_groove.gbc"
-  },
-  {
-   "id": "gbc-disney_s_jungle_book",
-   "name": "Disney's Jungle Book",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_jungle_book.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "disney_s_jungle_book.gbc"
-  },
-  {
-   "id": "gbc-disney_s_lion_king",
-   "name": "Disney's Lion King",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_lion_king.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_s_lion_king.gbc"
-  },
-  {
-   "id": "gbc-disney_s_snow_white",
-   "name": "Disney's Snow White",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_snow_white.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_s_snow_white.gbc"
-  },
-  {
-   "id": "gbc-disney_s_tarzan",
-   "name": "Disney's Tarzan",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_s_tarzan.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "disney_s_tarzan.gbc"
-  },
-  {
-   "id": "gbc-disney_pixar_monsters_inc",
-   "name": "Disney-Pixar Monsters Inc",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/disney_pixar_monsters_inc.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "disney_pixar_monsters_inc.gbc"
-  },
-  {
    "id": "gbc-diva_starz_mall_mania",
    "name": "Diva Starz - Mall Mania",
    "console": "gbc",
@@ -8152,17 +6854,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "diva_starz_mall_mania.gbc"
-  },
-  {
-   "id": "gbc-dogz_your_virtual_petz_palz",
-   "name": "Dogz - Your Virtual Petz Palz",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dogz_your_virtual_petz_palz.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "dogz_your_virtual_petz_palz.gbc"
   },
   {
    "id": "gbc-donald_duck_goin_quackers",
@@ -8185,17 +6876,6 @@
    "size": "4.0 MB",
    "category": "",
    "fileName": "donkey_kong_country.gbc"
-  },
-  {
-   "id": "gbc-donkey_kong_gb",
-   "name": "Donkey Kong GB",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/donkey_kong_gb.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "donkey_kong_gb.gbc"
   },
   {
    "id": "gbc-doug_s_big_game",
@@ -8297,28 +6977,6 @@
    "fileName": "dragon_warrior_monsters_i.gbc"
   },
   {
-   "id": "gbc-dragon_warrior_monsters_ii_cj",
-   "name": "Dragon Warrior Monsters II - CJ",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dragon_warrior_monsters_ii_cj.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "dragon_warrior_monsters_ii_cj.gbc"
-  },
-  {
-   "id": "gbc-dragon_warrior_monsters_ii_ta",
-   "name": "Dragon Warrior Monsters II - TA",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dragon_warrior_monsters_ii_ta.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "dragon_warrior_monsters_ii_ta.gbc"
-  },
-  {
    "id": "gbc-dragon_s_lair",
    "name": "Dragon's Lair",
    "console": "gbc",
@@ -8352,17 +7010,6 @@
    "fileName": "dropzone.gbc"
   },
   {
-   "id": "gbc-drymouth",
-   "name": "Drymouth",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/drymouth.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "drymouth.gbc"
-  },
-  {
    "id": "gbc-duke_nukem",
    "name": "Duke Nukem",
    "console": "gbc",
@@ -8372,28 +7019,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "duke_nukem.gbc"
-  },
-  {
-   "id": "gbc-dukes_of_hazzard",
-   "name": "Dukes of Hazzard",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dukes_of_hazzard.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dukes_of_hazzard.gbc"
-  },
-  {
-   "id": "gbc-dynamike",
-   "name": "DynaMike",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dynamike.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "dynamike.gbc"
   },
   {
    "id": "gbc-earthworm_jim_menace_2_galaxy",
@@ -8429,39 +7054,6 @@
    "fileName": "elevator_action_ex.gbc"
   },
   {
-   "id": "gbc-elmo_in_grouchland",
-   "name": "Elmo in Grouchland",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/elmo_in_grouchland.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "elmo_in_grouchland.gbc"
-  },
-  {
-   "id": "gbc-elmo_s_123s",
-   "name": "Elmo's 123s",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/elmo_s_123s.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "elmo_s_123s.gbc"
-  },
-  {
-   "id": "gbc-elmo_s_abcs",
-   "name": "Elmo's ABCs",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/elmo_s_abcs.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "elmo_s_abcs.gbc"
-  },
-  {
    "id": "gbc-espn_international_track_field",
    "name": "ESPN International Track & Field",
    "console": "gbc",
@@ -8482,39 +7074,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "espn_national_hockey_night.gbc"
-  },
-  {
-   "id": "gbc-et_digital_companion",
-   "name": "ET - Digital Companion",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/et_digital_companion.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "et_digital_companion.gbc"
-  },
-  {
-   "id": "gbc-et_escape_from_planet_earth",
-   "name": "ET - Escape From Planet Earth",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/et_escape_from_planet_earth.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "et_escape_from_planet_earth.gbc"
-  },
-  {
-   "id": "gbc-et_and_the_cosmic_garden",
-   "name": "ET and the Cosmic Garden",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/et_and_the_cosmic_garden.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "et_and_the_cosmic_garden.gbc"
   },
   {
    "id": "gbc-european_super_league",
@@ -8561,28 +7120,6 @@
    "fileName": "extreme_sports_berenstein_bears.gbc"
   },
   {
-   "id": "gbc-f_1_championship_season_2000",
-   "name": "F-1 Championship Season 2000",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/f_1_championship_season_2000.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "f_1_championship_season_2000.gbc"
-  },
-  {
-   "id": "gbc-f_1_racing_championship",
-   "name": "F-1 Racing Championship",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/f_1_racing_championship.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "f_1_racing_championship.gbc"
-  },
-  {
    "id": "gbc-f_1_world_grand_prix_i",
    "name": "F-1 World Grand Prix I",
    "console": "gbc",
@@ -8592,17 +7129,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "f_1_world_grand_prix_i.gbc"
-  },
-  {
-   "id": "gbc-f_1_world_grand_prix_ii",
-   "name": "F-1 World Grand Prix II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/f_1_world_grand_prix_ii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "f_1_world_grand_prix_ii.gbc"
   },
   {
    "id": "gbc-f_18_thunder_strike",
@@ -8636,28 +7162,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "fifa_2000.gbc"
-  },
-  {
-   "id": "gbc-fish_files",
-   "name": "Fish Files",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/fish_files.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "fish_files.gbc"
-  },
-  {
-   "id": "gbc-fisher_price_rescue_heroes",
-   "name": "Fisher Price - Rescue Heroes",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/fisher_price_rescue_heroes.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "fisher_price_rescue_heroes.gbc"
   },
   {
    "id": "gbc-flintstones_burgertime_bedrock",
@@ -8726,17 +7230,6 @@
    "fileName": "frogger_i.gbc"
   },
   {
-   "id": "gbc-frogger_ii_swampy_s_revenge",
-   "name": "Frogger II - Swampy's Revenge",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/frogger_ii_swampy_s_revenge.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "frogger_ii_swampy_s_revenge.gbc"
-  },
-  {
    "id": "gbc-galaga_destination_earth",
    "name": "Galaga - Destination Earth",
    "console": "gbc",
@@ -8779,17 +7272,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "game_boy_wars_ii.gbc"
-  },
-  {
-   "id": "gbc-gen_the_carpenter",
-   "name": "Gen the Carpenter",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/gen_the_carpenter.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "gen_the_carpenter.gbc"
   },
   {
    "id": "gbc-gex_enter_the_gecko",
@@ -8845,17 +7327,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "gobs_of_games.gbc"
-  },
-  {
-   "id": "gbc-godzilla_monster_wars",
-   "name": "Godzilla - Monster Wars",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/godzilla_monster_wars.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "godzilla_monster_wars.gbc"
   },
   {
    "id": "gbc-godzilla_the_series",
@@ -8955,17 +7426,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "hands_of_time.gbc"
-  },
-  {
-   "id": "gbc-harley_davidson_race_america",
-   "name": "Harley Davidson - Race America",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/harley_davidson_race_america.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "harley_davidson_race_america.gbc"
   },
   {
    "id": "gbc-harry_potter_sorcerer_s_stone",
@@ -9199,28 +7659,6 @@
    "fileName": "indiana_jones_infernal_machine.gbc"
   },
   {
-   "id": "gbc-inspector_gadget",
-   "name": "Inspector Gadget",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/inspector_gadget.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "inspector_gadget.gbc"
-  },
-  {
-   "id": "gbc-international_karate",
-   "name": "International Karate",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/international_karate.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "international_karate.gbc"
-  },
-  {
    "id": "gbc-international_rally",
    "name": "International Rally",
    "console": "gbc",
@@ -9331,61 +7769,6 @@
    "fileName": "jimmy_white_s_cueball.gbc"
   },
   {
-   "id": "gbc-joust_defender",
-   "name": "Joust & Defender",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/joust_defender.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "joust_defender.gbc"
-  },
-  {
-   "id": "gbc-jumpstart_dino_adventure",
-   "name": "Jumpstart Dino Adventure",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/jumpstart_dino_adventure.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "jumpstart_dino_adventure.gbc"
-  },
-  {
-   "id": "gbc-jurassic_boy_ii",
-   "name": "Jurassic Boy II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/jurassic_boy_ii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "jurassic_boy_ii.gbc"
-  },
-  {
-   "id": "gbc-kaept_n_blaubaer_die_verrueckt",
-   "name": "Kaept'n Blaubaer - Die verrueckt",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/kaept_n_blaubaer_die_verrueckt.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "kaept_n_blaubaer_die_verrueckt.gbc"
-  },
-  {
-   "id": "gbc-karate_joe",
-   "name": "Karate Joe",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/karate_joe.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "karate_joe.gbc"
-  },
-  {
    "id": "gbc-keep_the_balance",
    "name": "Keep the Balance",
    "console": "gbc",
@@ -9395,17 +7778,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "keep_the_balance.gbc"
-  },
-  {
-   "id": "gbc-kelly_club_clubhouse_fun",
-   "name": "Kelly Club - Clubhouse Fun",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/kelly_club_clubhouse_fun.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "kelly_club_clubhouse_fun.gbc"
   },
   {
    "id": "gbc-ken_griffey_jr_s_slugfest",
@@ -9472,17 +7844,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "knockout_kings.gbc"
-  },
-  {
-   "id": "gbc-konami_gb_collection_volume_i",
-   "name": "Konami GB Collection Volume I",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/konami_gb_collection_volume_i.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "konami_gb_collection_volume_i.gbc"
   },
   {
    "id": "gbc-konami_gb_collection_volume_ii",
@@ -9683,17 +8044,6 @@
    "fileName": "little_magic.gbc"
   },
   {
-   "id": "gbc-little_mermaid_ii_pinball",
-   "name": "Little Mermaid II - Pinball",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/little_mermaid_ii_pinball.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "little_mermaid_ii_pinball.gbc"
-  },
-  {
    "id": "gbc-little_nicky",
    "name": "Little Nicky",
    "console": "gbc",
@@ -9791,17 +8141,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "lufia_the_legend_returns.gbc"
-  },
-  {
-   "id": "gbc-lupo",
-   "name": "Lupo",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/lupo.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "lupo.gbc"
   },
   {
    "id": "gbc-m_m_s_minis_madness",
@@ -10090,17 +8429,6 @@
    "fileName": "metal_gear_solid.gbc"
   },
   {
-   "id": "gbc-metal_slug_2001",
-   "name": "Metal Slug 2001",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/metal_slug_2001.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "metal_slug_2001.gbc"
-  },
-  {
    "id": "gbc-metal_walker",
    "name": "Metal Walker",
    "console": "gbc",
@@ -10145,17 +8473,6 @@
    "fileName": "mickey_s_speedway_usa.gbc"
   },
   {
-   "id": "gbc-micro_machines_i_ii_twin_turbo",
-   "name": "Micro Machines I&II - Twin Turbo",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/micro_machines_i_ii_twin_turbo.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "micro_machines_i_ii_twin_turbo.gbc"
-  },
-  {
    "id": "gbc-micro_machines_v3",
    "name": "Micro Machines V3",
    "console": "gbc",
@@ -10178,17 +8495,6 @@
    "fileName": "micro_maniacs.gbc"
   },
   {
-   "id": "gbc-microsoft_entertainment_pack",
-   "name": "Microsoft Entertainment Pack",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/microsoft_entertainment_pack.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "microsoft_entertainment_pack.gbc"
-  },
-  {
    "id": "gbc-microsoft_pinball_arcade",
    "name": "Microsoft Pinball Arcade",
    "console": "gbc",
@@ -10198,17 +8504,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "microsoft_pinball_arcade.gbc"
-  },
-  {
-   "id": "gbc-microsoft_puzzle_collection",
-   "name": "Microsoft Puzzle Collection",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/microsoft_puzzle_collection.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "microsoft_puzzle_collection.gbc"
   },
   {
    "id": "gbc-millenium_winter_sports",
@@ -10310,39 +8605,6 @@
    "fileName": "moomin_s_tale.gbc"
   },
   {
-   "id": "gbc-moon_patrol_spy_hunter",
-   "name": "Moon Patrol & Spy Hunter",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/moon_patrol_spy_hunter.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "moon_patrol_spy_hunter.gbc"
-  },
-  {
-   "id": "gbc-moorhen_iii_the_chicken_chase",
-   "name": "Moorhen III - The Chicken Chase!",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/moorhen_iii_the_chicken_chase.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "moorhen_iii_the_chicken_chase.gbc"
-  },
-  {
-   "id": "gbc-moorhuhn_ii",
-   "name": "Moorhuhn II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/moorhuhn_ii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "moorhuhn_ii.gbc"
-  },
-  {
    "id": "gbc-mortal_kombat_iv",
    "name": "Mortal Kombat IV",
    "console": "gbc",
@@ -10407,39 +8669,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "mtv_sports_pure_ride.gbc"
-  },
-  {
-   "id": "gbc-mtv_sports_skateboarding",
-   "name": "MTV Sports - Skateboarding",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/mtv_sports_skateboarding.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "mtv_sports_skateboarding.gbc"
-  },
-  {
-   "id": "gbc-mtv_sports_tj_lavin_s_bmx",
-   "name": "MTV Sports - TJ Lavin's BMX",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/mtv_sports_tj_lavin_s_bmx.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "mtv_sports_tj_lavin_s_bmx.gbc"
-  },
-  {
-   "id": "gbc-mummy",
-   "name": "Mummy",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/mummy.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "mummy.gbc"
   },
   {
    "id": "gbc-mummy_returns",
@@ -10739,17 +8968,6 @@
    "fileName": "o_leary_manager_2000.gbc"
   },
   {
-   "id": "gbc-obelix",
-   "name": "Obelix",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/obelix.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "obelix.gbc"
-  },
-  {
    "id": "gbc-oddworld_adventures_ii",
    "name": "Oddworld Adventures II",
    "console": "gbc",
@@ -10781,17 +8999,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "pac_man_special_color_edition.gbc"
-  },
-  {
-   "id": "gbc-painter",
-   "name": "Painter",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/painter.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "painter.gbc"
   },
   {
    "id": "gbc-paperboy",
@@ -10937,17 +9144,6 @@
    "fileName": "pokemon_crystal.gbc"
   },
   {
-   "id": "gbc-pokemon_diamond",
-   "name": "Pokemon - Diamond",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/pokemon_diamond.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "pokemon_diamond.gbc"
-  },
-  {
    "id": "gbc-pokemon_gold",
    "name": "Pokemon - Gold",
    "console": "gbc",
@@ -11001,17 +9197,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "pokemon_puzzle_challenge.gbc"
-  },
-  {
-   "id": "gbc-pokemon_trading_card_game",
-   "name": "Pokemon Trading Card Game",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/pokemon_trading_card_game.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "pokemon_trading_card_game.gbc"
   },
   {
    "id": "gbc-polaris_snocross",
@@ -11122,17 +9307,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "powerpuff_girls_battle_him.gbc"
-  },
-  {
-   "id": "gbc-powerpuff_girls_townsville",
-   "name": "Powerpuff Girls - Townsville",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/powerpuff_girls_townsville.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "powerpuff_girls_townsville.gbc"
   },
   {
    "id": "gbc-prince_naseem_boxing",
@@ -11289,28 +9463,6 @@
    "fileName": "r_type_dx.gbc"
   },
   {
-   "id": "gbc-race_time",
-   "name": "Race Time",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/race_time.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "race_time.gbc"
-  },
-  {
-   "id": "gbc-radikal_bikers",
-   "name": "Radikal Bikers",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/radikal_bikers.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "radikal_bikers.gbc"
-  },
-  {
    "id": "gbc-rainbow_islands",
    "name": "Rainbow Islands",
    "console": "gbc",
@@ -11375,17 +9527,6 @@
    "size": "4.0 MB",
    "category": "",
    "fileName": "rayman_i.gbc"
-  },
-  {
-   "id": "gbc-rayman_ii_the_great_escape",
-   "name": "Rayman II - The Great Escape",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/rayman_ii_the_great_escape.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "rayman_ii_the_great_escape.gbc"
   },
   {
    "id": "gbc-razor_freestyle_scooter",
@@ -11487,28 +9628,6 @@
    "fileName": "road_rash.gbc"
   },
   {
-   "id": "gbc-roadsters_98",
-   "name": "Roadsters '98",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/roadsters_98.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "roadsters_98.gbc"
-  },
-  {
-   "id": "gbc-roadsters_trophy",
-   "name": "Roadsters Trophy",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/roadsters_trophy.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "roadsters_trophy.gbc"
-  },
-  {
    "id": "gbc-robin_hood",
    "name": "Robin Hood",
    "console": "gbc",
@@ -11597,17 +9716,6 @@
    "fileName": "ronaldo_v_soccer.gbc"
   },
   {
-   "id": "gbc-roswell_conspiracies",
-   "name": "Roswell Conspiracies",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/roswell_conspiracies.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "roswell_conspiracies.gbc"
-  },
-  {
    "id": "gbc-rox",
    "name": "Rox",
    "console": "gbc",
@@ -11661,28 +9769,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "rugrats_movie.gbc"
-  },
-  {
-   "id": "gbc-sabrina_spooked",
-   "name": "Sabrina Spooked",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/sabrina_spooked.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "sabrina_spooked.gbc"
-  },
-  {
-   "id": "gbc-sabrina_zapped",
-   "name": "Sabrina Zapped!",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/sabrina_zapped.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "sabrina_zapped.gbc"
   },
   {
    "id": "gbc-san_francisco_rush_2049",
@@ -11817,17 +9903,6 @@
    "fileName": "shrek_fairy_tale_freakdown.gbc"
   },
   {
-   "id": "gbc-simpsons_treehouse_of_horror",
-   "name": "Simpsons - Treehouse of Horror",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/simpsons_treehouse_of_horror.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "simpsons_treehouse_of_horror.gbc"
-  },
-  {
    "id": "gbc-smurfs_nightmare",
    "name": "Smurfs Nightmare",
    "console": "gbc",
@@ -11861,17 +9936,6 @@
    "fileName": "soccer_manager.gbc"
   },
   {
-   "id": "gbc-sonic_vii",
-   "name": "Sonic VII",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/sonic_vii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "sonic_vii.gbc"
-  },
-  {
    "id": "gbc-space_invaders",
    "name": "Space Invaders",
    "console": "gbc",
@@ -11881,17 +9945,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "space_invaders.gbc"
-  },
-  {
-   "id": "gbc-space_invasion",
-   "name": "Space Invasion",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/space_invasion.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "space_invasion.gbc"
   },
   {
    "id": "gbc-space_marauder",
@@ -11927,17 +9980,6 @@
    "fileName": "spawn.gbc"
   },
   {
-   "id": "gbc-speedy_gonzales",
-   "name": "Speedy Gonzales",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/speedy_gonzales.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "speedy_gonzales.gbc"
-  },
-  {
    "id": "gbc-spider_man_i",
    "name": "Spider-Man I",
    "console": "gbc",
@@ -11960,28 +10002,6 @@
    "fileName": "spider_man_ii_the_sinister_six.gbc"
   },
   {
-   "id": "gbc-spirou_robbedoes_robot_invasion",
-   "name": "Spirou Robbedoes -Robot Invasion",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/spirou_robbedoes_robot_invasion.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "spirou_robbedoes_robot_invasion.gbc"
-  },
-  {
-   "id": "gbc-spongebob_squarepants_lotls",
-   "name": "SpongeBob SquarePants - LotLS",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/spongebob_squarepants_lotls.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "spongebob_squarepants_lotls.gbc"
-  },
-  {
    "id": "gbc-spy_vs_spy",
    "name": "Spy vs Spy",
    "console": "gbc",
@@ -11991,17 +10011,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "spy_vs_spy.gbc"
-  },
-  {
-   "id": "gbc-star_wars_episode_i_obi_wan",
-   "name": "Star Wars - Episode I - Obi-Wan",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/star_wars_episode_i_obi_wan.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "star_wars_episode_i_obi_wan.gbc"
   },
   {
    "id": "gbc-star_wars_episode_i_racer",
@@ -12092,17 +10101,6 @@
    "fileName": "super_mario_bros_deluxe.gbc"
   },
   {
-   "id": "gbc-super_mario_iii_special",
-   "name": "Super Mario III Special",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/super_mario_iii_special.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "super_mario_iii_special.gbc"
-  },
-  {
    "id": "gbc-supercross_freestyle",
    "name": "Supercross Freestyle",
    "console": "gbc",
@@ -12158,28 +10156,6 @@
    "fileName": "swiv.gbc"
   },
   {
-   "id": "gbc-sylvanian_families",
-   "name": "Sylvanian Families",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/sylvanian_families.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "sylvanian_families.gbc"
-  },
-  {
-   "id": "gbc-sylvanian_melodies",
-   "name": "Sylvanian Melodies",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/sylvanian_melodies.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "sylvanian_melodies.gbc"
-  },
-  {
    "id": "gbc-taxi_ii",
    "name": "Taxi II",
    "console": "gbc",
@@ -12200,17 +10176,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "taxi_iii.gbc"
-  },
-  {
-   "id": "gbc-tazmanian_devil",
-   "name": "Tazmanian Devil",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/tazmanian_devil.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "tazmanian_devil.gbc"
   },
   {
    "id": "gbc-tech_deck_skateboarding",
@@ -12301,17 +10266,6 @@
    "fileName": "three_lions.gbc"
   },
   {
-   "id": "gbc-thunder_blast_man",
-   "name": "Thunder Blast Man",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/thunder_blast_man.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "thunder_blast_man.gbc"
-  },
-  {
    "id": "gbc-thunderbirds",
    "name": "Thunderbirds",
    "console": "gbc",
@@ -12356,28 +10310,6 @@
    "fileName": "tintin_in_tibet.gbc"
   },
   {
-   "id": "gbc-tiny_toon_adventures_bstd",
-   "name": "Tiny Toon Adventures - BStD",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/tiny_toon_adventures_bstd.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "tiny_toon_adventures_bstd.gbc"
-  },
-  {
-   "id": "gbc-tiny_toon_adventures_dcq",
-   "name": "Tiny Toon Adventures - DCQ",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/tiny_toon_adventures_dcq.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "tiny_toon_adventures_dcq.gbc"
-  },
-  {
    "id": "gbc-titus_the_fox",
    "name": "Titus the Fox",
    "console": "gbc",
@@ -12420,17 +10352,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "toki_tori.gbc"
-  },
-  {
-   "id": "gbc-tom_jerry",
-   "name": "Tom & Jerry",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/tom_jerry.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "tom_jerry.gbc"
   },
   {
    "id": "gbc-tom_jerry_mouse_hunt",
@@ -12609,17 +10530,6 @@
    "fileName": "top_gun_fire_storm.gbc"
   },
   {
-   "id": "gbc-total_soccer_2000",
-   "name": "Total Soccer 2000",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/total_soccer_2000.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "total_soccer_2000.gbc"
-  },
-  {
    "id": "gbc-towers_lord_baniff_s_deceit",
    "name": "Towers - Lord Baniff's Deceit",
    "console": "gbc",
@@ -12741,28 +10651,6 @@
    "fileName": "tweety_s_high_flying_adventures.gbc"
   },
   {
-   "id": "gbc-tyco_rc_racin_ratz",
-   "name": "Tyco RC - Racin' Ratz",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/tyco_rc_racin_ratz.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "tyco_rc_racin_ratz.gbc"
-  },
-  {
-   "id": "gbc-tyrian_2000",
-   "name": "Tyrian 2000",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/tyrian_2000.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "tyrian_2000.gbc"
-  },
-  {
    "id": "gbc-ultimate_fighting_championship",
    "name": "Ultimate Fighting Championship",
    "console": "gbc",
@@ -12807,17 +10695,6 @@
    "fileName": "uno.gbc"
   },
   {
-   "id": "gbc-v_rally_99",
-   "name": "V-Rally '99",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/v_rally_99.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "v_rally_99.gbc"
-  },
-  {
    "id": "gbc-vegas_games",
    "name": "Vegas Games",
    "console": "gbc",
@@ -12860,17 +10737,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "wacky_races.gbc"
-  },
-  {
-   "id": "gbc-walt_disney_world_quest",
-   "name": "Walt Disney World Quest",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/walt_disney_world_quest.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "walt_disney_world_quest.gbc"
   },
   {
    "id": "gbc-wario_land_ii",
@@ -12950,17 +10816,6 @@
    "fileName": "wetrix_gb.gbc"
   },
   {
-   "id": "gbc-who_wants_to_be_a_millionaire_ii",
-   "name": "Who Wants To Be A Millionaire II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/who_wants_to_be_a_millionaire_ii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "who_wants_to_be_a_millionaire_ii.gbc"
-  },
-  {
    "id": "gbc-wild_thornberrys_rambler",
    "name": "Wild Thornberrys - Rambler",
    "console": "gbc",
@@ -12983,50 +10838,6 @@
    "fileName": "wings_of_fury.gbc"
   },
   {
-   "id": "gbc-winnie_the_pooh_adventures",
-   "name": "Winnie the Pooh Adventures",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/winnie_the_pooh_adventures.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "winnie_the_pooh_adventures.gbc"
-  },
-  {
-   "id": "gbc-wizardry_i",
-   "name": "Wizardry I",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/wizardry_i.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "wizardry_i.gbc"
-  },
-  {
-   "id": "gbc-wizardry_ii",
-   "name": "Wizardry II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/wizardry_ii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "wizardry_ii.gbc"
-  },
-  {
-   "id": "gbc-wizardry_iii",
-   "name": "Wizardry III",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/wizardry_iii.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "wizardry_iii.gbc"
-  },
-  {
    "id": "gbc-woody_woodpecker",
    "name": "Woody Woodpecker",
    "console": "gbc",
@@ -13047,17 +10858,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "woody_woodpecker_racing.gbc"
-  },
-  {
-   "id": "gbc-world_destruction_league",
-   "name": "World Destruction League",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/world_destruction_league.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "world_destruction_league.gbc"
   },
   {
    "id": "gbc-worms_armageddon",
@@ -13170,17 +10970,6 @@
    "fileName": "xtreme_wheels.gbc"
   },
   {
-   "id": "gbc-yars_revenge_quotile_ultimatum",
-   "name": "Yars Revenge - Quotile Ultimatum",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/yars_revenge_quotile_ultimatum.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "yars_revenge_quotile_ultimatum.gbc"
-  },
-  {
    "id": "gbc-yogi_bear_great_balloon_blast",
    "name": "Yogi Bear - Great Balloon Blast",
    "console": "gbc",
@@ -13225,17 +11014,6 @@
    "fileName": "zidane_football_generation.gbc"
   },
   {
-   "id": "gbc-zoboomafoo",
-   "name": "Zoboomafoo",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/zoboomafoo.gbc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "zoboomafoo.gbc"
-  },
-  {
    "id": "nes-10_yard_fight",
    "name": "10-Yard Fight",
    "console": "nes",
@@ -13267,17 +11045,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "1943_the_battle_of_midway.nes"
-  },
-  {
-   "id": "nes-2048",
-   "name": "2048",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/2048.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "16 KB",
-   "category": "",
-   "fileName": "2048.nes"
   },
   {
    "id": "nes-8_eyes",
@@ -13555,17 +11322,6 @@
    "fileName": "alpha_mission.nes"
   },
   {
-   "id": "nes-alter_ego",
-   "name": "Alter Ego",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/alter_ego.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "alter_ego.nes"
-  },
-  {
    "id": "nes-amagon",
    "name": "Amagon",
    "console": "nes",
@@ -13575,28 +11331,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "amagon.nes"
-  },
-  {
-   "id": "nes-amazon_diet",
-   "name": "Amazon Diet",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/amazon_diet.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "amazon_diet.nes"
-  },
-  {
-   "id": "nes-antarctic_adventure",
-   "name": "Antarctic Adventure",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/antarctic_adventure.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "antarctic_adventure.nes"
   },
   {
    "id": "nes-archon",
@@ -13676,17 +11410,6 @@
    "fileName": "armadillo.nes"
   },
   {
-   "id": "nes-armed_dragon_fantasy_villgust",
-   "name": "Armed Dragon Fantasy Villgust",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/armed_dragon_fantasy_villgust.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "armed_dragon_fantasy_villgust.nes"
-  },
-  {
    "id": "nes-astro_robo_sasa",
    "name": "Astro Robo Sasa",
    "console": "nes",
@@ -13729,17 +11452,6 @@
    "size": "48 KB",
    "category": "",
    "fileName": "atlantis_no_nazo.nes"
-  },
-  {
-   "id": "nes-atmo_sphere",
-   "name": "Atmo Sphere",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/atmo_sphere.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "atmo_sphere.nes"
   },
   {
    "id": "nes-attack_animal_gakuen",
@@ -13973,17 +11685,6 @@
    "fileName": "battle_city.nes"
   },
   {
-   "id": "nes-battle_tank",
-   "name": "Battle Tank",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/battle_tank.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "battle_tank.nes"
-  },
-  {
    "id": "nes-battleship",
    "name": "Battleship",
    "console": "nes",
@@ -14103,17 +11804,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "blaster_master.nes"
-  },
-  {
-   "id": "nes-blobquest",
-   "name": "BlobQuest",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/blobquest.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "blobquest.nes"
   },
   {
    "id": "nes-bomberman",
@@ -14279,17 +11969,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "burgertime.nes"
-  },
-  {
-   "id": "nes-bobl",
-   "name": "Böbl",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/bobl.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "bobl.nes"
   },
   {
    "id": "nes-cabal",
@@ -14532,17 +12211,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "championship_rally.nes"
-  },
-  {
-   "id": "nes-chase",
-   "name": "Chase",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/chase.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "chase.nes"
   },
   {
    "id": "nes-chip_n_dale_rescue_rangers",
@@ -15326,17 +12994,6 @@
    "fileName": "double_dragon_iii_the_sacred_stones.nes"
   },
   {
-   "id": "nes-double_dragon_remastered",
-   "name": "Double Dragon Remastered",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/double_dragon_remastered.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "double_dragon_remastered.nes"
-  },
-  {
    "id": "nes-double_dribble",
    "name": "Double Dribble",
    "console": "nes",
@@ -15346,17 +13003,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "double_dribble.nes"
-  },
-  {
-   "id": "nes-double_strike",
-   "name": "Double Strike",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/double_strike.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "double_strike.nes"
   },
   {
    "id": "nes-dough_boy",
@@ -15390,17 +13036,6 @@
    "size": "160 KB",
    "category": "",
    "fileName": "dr_jekyll_and_mr_hyde.nes"
-  },
-  {
-   "id": "nes-dr_jekyll_and_mr_hyde_houma_ga_toki",
-   "name": "Dr. Jekyll and Mr. Hyde - Houma ga Toki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dr_jekyll_and_mr_hyde_houma_ga_toki.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "dr_jekyll_and_mr_hyde_houma_ga_toki.nes"
   },
   {
    "id": "nes-dr_mario",
@@ -15480,17 +13115,6 @@
    "fileName": "dragon_fighter.nes"
   },
   {
-   "id": "nes-dragon_slayer_jr_romancia",
-   "name": "Dragon Slayer Jr. Romancia",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dragon_slayer_jr_romancia.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "dragon_slayer_jr_romancia.nes"
-  },
-  {
    "id": "nes-dragon_spirit_the_new_legend",
    "name": "Dragon Spirit - The New Legend",
    "console": "nes",
@@ -15555,17 +13179,6 @@
    "size": "768 KB",
    "category": "",
    "fileName": "dream_master.nes"
-  },
-  {
-   "id": "nes-driar",
-   "name": "Driar",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/driar.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "driar.nes"
   },
   {
    "id": "nes-dropzone",
@@ -15634,28 +13247,6 @@
    "fileName": "dynowarz_the_destruction_of_spondylus.nes"
   },
   {
-   "id": "nes-earth_bound_zero",
-   "name": "Earth Bound Zero",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/earth_bound_zero.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "earth_bound_zero.nes"
-  },
-  {
-   "id": "nes-el_destructor",
-   "name": "El Destructor",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/el_destructor.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "el_destructor.nes"
-  },
-  {
    "id": "nes-elevator_action",
    "name": "Elevator Action",
    "console": "nes",
@@ -15665,17 +13256,6 @@
    "size": "40 KB",
    "category": "",
    "fileName": "elevator_action.nes"
-  },
-  {
-   "id": "nes-evil_dead_ash_vive",
-   "name": "Evil Dead -  ¡Ash vive!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/evil_dead_ash_vive.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "evil_dead_ash_vive.nes"
   },
   {
    "id": "nes-excitebike",
@@ -15722,17 +13302,6 @@
    "fileName": "f_1_sensation.nes"
   },
   {
-   "id": "nes-f15_city_war",
-   "name": "F15 City War",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/f15_city_war.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "f15_city_war.nes"
-  },
-  {
    "id": "nes-famicom_jump_eiyuu_retsuden",
    "name": "Famicom Jump - Eiyuu Retsuden",
    "console": "nes",
@@ -15753,17 +13322,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "fantasy_zone.nes"
-  },
-  {
-   "id": "nes-fantasy_zone_2_the_teardrop_of_opa_opa",
-   "name": "Fantasy Zone 2 - The Teardrop of Opa-Opa",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/fantasy_zone_2_the_teardrop_of_opa_opa.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "fantasy_zone_2_the_teardrop_of_opa_opa.nes"
   },
   {
    "id": "nes-faxanadu",
@@ -15898,17 +13456,6 @@
    "fileName": "fist_of_the_north_star.nes"
   },
   {
-   "id": "nes-fist_of_the_north_star_hokuto_no_ken_2",
-   "name": "Fist of the North Star - Hokuto no Ken 2",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/fist_of_the_north_star_hokuto_no_ken_2.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "fist_of_the_north_star_hokuto_no_ken_2.nes"
-  },
-  {
    "id": "nes-flappy",
    "name": "Flappy",
    "console": "nes",
@@ -16008,17 +13555,6 @@
    "fileName": "friday_the_13th.nes"
   },
   {
-   "id": "nes-from_below",
-   "name": "From Below",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/from_below.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "from_below.nes"
-  },
-  {
    "id": "nes-front_line",
    "name": "Front Line",
    "console": "nes",
@@ -16085,17 +13621,6 @@
    "fileName": "galaxian.nes"
   },
   {
-   "id": "nes-galaxy_5000",
-   "name": "Galaxy 5000",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/galaxy_5000.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "galaxy_5000.nes"
-  },
-  {
    "id": "nes-galaxy_patrol",
    "name": "Galaxy Patrol",
    "console": "nes",
@@ -16140,17 +13665,6 @@
    "fileName": "ganbare_goemon_gaiden_kieta_ougon_kiseru.nes"
   },
   {
-   "id": "nes-ganbare_goemon_gaiden_2_tesoros_del_mundo",
-   "name": "Ganbare Goemon Gaiden 2 - Tesoros del Mundo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ganbare_goemon_gaiden_2_tesoros_del_mundo.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "ganbare_goemon_gaiden_2_tesoros_del_mundo.nes"
-  },
-  {
    "id": "nes-ganbare_goemon_karakuri_douchuu",
    "name": "Ganbare Goemon! - Karakuri Douchuu",
    "console": "nes",
@@ -16182,17 +13696,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "garry_kitchen_s_battletank.nes"
-  },
-  {
-   "id": "nes-gatsby",
-   "name": "Gatsby",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/gatsby.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "gatsby.nes"
   },
   {
    "id": "nes-gauntlet",
@@ -16281,17 +13784,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "ghosts_n_goblins.nes"
-  },
-  {
-   "id": "nes-ghosts_n_goblins_makaimura",
-   "name": "Ghosts 'N Goblins - Makaimura",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ghosts_n_goblins_makaimura.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "ghosts_n_goblins_makaimura.nes"
   },
   {
    "id": "nes-ghoul_school",
@@ -16657,39 +14149,6 @@
    "fileName": "hudson_s_adventure_island.nes"
   },
   {
-   "id": "nes-hudson_s_adventure_island_ii",
-   "name": "Hudson's Adventure Island II",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/hudson_s_adventure_island_ii.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "hudson_s_adventure_island_ii.nes"
-  },
-  {
-   "id": "nes-hudson_s_adventure_island_iii",
-   "name": "Hudson's Adventure Island III",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/hudson_s_adventure_island_iii.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "hudson_s_adventure_island_iii.nes"
-  },
-  {
-   "id": "nes-hudson_s_adventure_island_iv_takahashi_meijin_no_bouken_shima_iv",
-   "name": "Hudson's Adventure Island IV - Takahashi Meijin no Bouken Shima IV",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/hudson_s_adventure_island_iv_takahashi_meijin_no_bouken_shima_iv.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "hudson_s_adventure_island_iv_takahashi_meijin_no_bouken_shima_iv.nes"
-  },
-  {
    "id": "nes-hydlide",
    "name": "Hydlide",
    "console": "nes",
@@ -16831,17 +14290,6 @@
    "size": "192 KB",
    "category": "",
    "fileName": "indiana_jones_and_the_temple_of_doom.nes"
-  },
-  {
-   "id": "nes-indivisible",
-   "name": "Indivisible",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/indivisible.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "indivisible.nes"
   },
   {
    "id": "nes-insector_x",
@@ -17185,39 +14633,6 @@
    "fileName": "kid_icarus.nes"
   },
   {
-   "id": "nes-kid_klown_en_night_mayor_world_mickey_mouse_iii_yume_fuusen",
-   "name": "Kid Klown en Night Mayor World - Mickey Mouse III - Yume Fuusen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kid_klown_en_night_mayor_world_mickey_mouse_iii_yume_fuusen.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kid_klown_en_night_mayor_world_mickey_mouse_iii_yume_fuusen.nes"
-  },
-  {
-   "id": "nes-kid_klown_esp",
-   "name": "Kid Klown ESP)",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kid_klown_esp.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kid_klown_esp.nes"
-  },
-  {
-   "id": "nes-kid_kool_and_the_quest_for_the_7_wonder_herbs",
-   "name": "Kid Kool and the Quest for the 7 Wonder Herbs",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kid_kool_and_the_quest_for_the_7_wonder_herbs.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "kid_kool_and_the_quest_for_the_7_wonder_herbs.nes"
-  },
-  {
    "id": "nes-kid_niki_radical_ninja",
    "name": "Kid Niki - Radical Ninja",
    "console": "nes",
@@ -17526,17 +14941,6 @@
    "fileName": "loopz.nes"
   },
   {
-   "id": "nes-los_gatos_samurai_kyattou_ninden_teyandee",
-   "name": "Los Gatos Samurai - Kyattou Ninden Teyandee",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/los_gatos_samurai_kyattou_ninden_teyandee.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "los_gatos_samurai_kyattou_ninden_teyandee.nes"
-  },
-  {
    "id": "nes-lot_lot",
    "name": "Lot Lot",
    "console": "nes",
@@ -17592,17 +14996,6 @@
    "fileName": "lupin_sansei_pandora_no_isan.nes"
   },
   {
-   "id": "nes-m_u_s_c_l_e",
-   "name": "M.U.S.C.L.E.",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/m_u_s_c_l_e.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "m_u_s_c_l_e.nes"
-  },
-  {
    "id": "nes-mach_rider",
    "name": "Mach Rider",
    "console": "nes",
@@ -17612,28 +15005,6 @@
    "size": "40 KB",
    "category": "",
    "fileName": "mach_rider.nes"
-  },
-  {
-   "id": "nes-machine_cave",
-   "name": "Machine Cave",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/machine_cave.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "machine_cave.nes"
-  },
-  {
-   "id": "nes-mafat_conspiracy_golgo_13",
-   "name": "Mafat Conspiracy - Golgo 13",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mafat_conspiracy_golgo_13.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "mafat_conspiracy_golgo_13.nes"
   },
   {
    "id": "nes-magic_darts",
@@ -17735,17 +15106,6 @@
    "fileName": "mega_man.nes"
   },
   {
-   "id": "nes-mega_man_rockman",
-   "name": "Mega Man - Rockman",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mega_man_rockman.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "mega_man_rockman.nes"
-  },
-  {
    "id": "nes-mega_man_2",
    "name": "Mega Man 2",
    "console": "nes",
@@ -17755,17 +15115,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "mega_man_2.nes"
-  },
-  {
-   "id": "nes-mega_man_2_rockman_2_dr_wily_no_nazo",
-   "name": "Mega Man 2 - Rockman 2 - Dr. Wily no Nazo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mega_man_2_rockman_2_dr_wily_no_nazo.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "mega_man_2_rockman_2_dr_wily_no_nazo.nes"
   },
   {
    "id": "nes-mega_man_3",
@@ -17832,17 +15181,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "megaman_iii.nes"
-  },
-  {
-   "id": "nes-megaman_v",
-   "name": "Megaman V",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/megaman_v.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "megaman_v.nes"
   },
   {
    "id": "nes-megaman_vi",
@@ -17986,17 +15324,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "mighty_final_fight.nes"
-  },
-  {
-   "id": "nes-mike_tyson_s_punch_out_punch_out",
-   "name": "Mike Tyson's Punch Out!! - Punch-Out!!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mike_tyson_s_punch_out_punch_out.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "135 KB",
-   "category": "",
-   "fileName": "mike_tyson_s_punch_out_punch_out.nes"
   },
   {
    "id": "nes-mike_tyson_s_punch_out",
@@ -18219,28 +15546,6 @@
    "fileName": "mottomo_abunai_deka.nes"
   },
   {
-   "id": "nes-mr_gimmick",
-   "name": "Mr. Gimmick",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mr_gimmick.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "mr_gimmick.nes"
-  },
-  {
-   "id": "nes-mr_gimmick",
-   "name": "Mr. Gimmick!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mr_gimmick.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "mr_gimmick.nes"
-  },
-  {
    "id": "nes-ms_pac_man",
    "name": "Ms. Pac-Man",
    "console": "nes",
@@ -18439,17 +15744,6 @@
    "fileName": "nintendo_world_cup.nes"
   },
   {
-   "id": "nes-no_good_choice",
-   "name": "No Good Choice",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/no_good_choice.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "no_good_choice.nes"
-  },
-  {
    "id": "nes-noah_s_ark",
    "name": "Noah's Ark",
    "console": "nes",
@@ -18525,17 +15819,6 @@
    "size": "192 KB",
    "category": "",
    "fileName": "orb_3d.nes"
-  },
-  {
-   "id": "nes-orphea",
-   "name": "Orphea",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/orphea.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "orphea.nes"
   },
   {
    "id": "nes-othello",
@@ -18637,17 +15920,6 @@
    "fileName": "panic_restaurant.nes"
   },
   {
-   "id": "nes-panic_restaurant_wanpaku_kokkun_no_gourmet_world",
-   "name": "Panic Restaurant - Wanpaku Kokkun no Gourmet World",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/panic_restaurant_wanpaku_kokkun_no_gourmet_world.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "panic_restaurant_wanpaku_kokkun_no_gourmet_world.nes"
-  },
-  {
    "id": "nes-paperboy",
    "name": "Paperboy",
    "console": "nes",
@@ -18668,17 +15940,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "paperboy_2.nes"
-  },
-  {
-   "id": "nes-parasol_stars_the_story_of_bubble_bobble_3",
-   "name": "Parasol Stars - The Story of Bubble Bobble 3",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/parasol_stars_the_story_of_bubble_bobble_3.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "parasol_stars_the_story_of_bubble_bobble_3.nes"
   },
   {
    "id": "nes-paris_dakar_rally_special",
@@ -19605,17 +16866,6 @@
    "fileName": "solar_jetman_hunt_for_the_golden_warpship.nes"
   },
   {
-   "id": "nes-solbrain_tokkyuu_shirei",
-   "name": "Solbrain - Tokkyuu Shirei",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/solbrain_tokkyuu_shirei.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "solbrain_tokkyuu_shirei.nes"
-  },
-  {
    "id": "nes-solomon_s_key",
    "name": "Solomon's Key",
    "console": "nes",
@@ -19680,17 +16930,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "space_invaders.nes"
-  },
-  {
-   "id": "nes-spacegulls",
-   "name": "Spacegulls",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/spacegulls.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "spacegulls.nes"
   },
   {
    "id": "nes-spartan_x",
@@ -19858,28 +17097,6 @@
    "fileName": "startropics.nes"
   },
   {
-   "id": "nes-startropics_ii_zoda_s_revenge",
-   "name": "Startropics II Zoda's Revenge",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/startropics_ii_zoda_s_revenge.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "startropics_ii_zoda_s_revenge.nes"
-  },
-  {
-   "id": "nes-sting",
-   "name": "Sting",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sting.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "sting.nes"
-  },
-  {
    "id": "nes-stinger",
    "name": "Stinger",
    "console": "nes",
@@ -19911,17 +17128,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "strider.nes"
-  },
-  {
-   "id": "nes-strike_wolf",
-   "name": "Strike Wolf",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/strike_wolf.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "strike_wolf.nes"
   },
   {
    "id": "nes-super_arabian",
@@ -20045,17 +17251,6 @@
    "fileName": "super_spike_v_ball.nes"
   },
   {
-   "id": "nes-super_spike_v_ball_us_championship_v_ball",
-   "name": "Super Spike V'Ball - US Championship V'Ball",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/super_spike_v_ball_us_championship_v_ball.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "super_spike_v_ball_us_championship_v_ball.nes"
-  },
-  {
    "id": "nes-super_spy_hunter",
    "name": "Super Spy Hunter",
    "console": "nes",
@@ -20065,17 +17260,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "super_spy_hunter.nes"
-  },
-  {
-   "id": "nes-super_spy_hunter_battle_formula",
-   "name": "Super Spy Hunter - Battle Formula",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/super_spy_hunter_battle_formula.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "super_spy_hunter_battle_formula.nes"
   },
   {
    "id": "nes-super_turrican",
@@ -20254,17 +17438,6 @@
    "fileName": "teenage_mutant_ninja_turtles_iii_the_manhattan_project.nes"
   },
   {
-   "id": "nes-temple_dilemma",
-   "name": "Temple Dilemma",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/temple_dilemma.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "temple_dilemma.nes"
-  },
-  {
    "id": "nes-tennis",
    "name": "Tennis",
    "console": "nes",
@@ -20331,17 +17504,6 @@
    "fileName": "tetsudou_ou_famicom_boardgame.nes"
   },
   {
-   "id": "nes-the_3_d_battles_of_world_runner",
-   "name": "The 3-D Battles of World Runner",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/the_3_d_battles_of_world_runner.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "the_3_d_battles_of_world_runner.nes"
-  },
-  {
    "id": "nes-the_addams_family",
    "name": "The Addams Family",
    "console": "nes",
@@ -20373,17 +17535,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "the_adventures_of_bayou_billy.nes"
-  },
-  {
-   "id": "nes-the_adventures_of_captain_comic",
-   "name": "The Adventures of Captain Comic",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/the_adventures_of_captain_comic.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "124 KB",
-   "category": "",
-   "fileName": "the_adventures_of_captain_comic.nes"
   },
   {
    "id": "nes-the_adventures_of_rad_gravity",
@@ -20582,17 +17733,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "the_krion_conquest.nes"
-  },
-  {
-   "id": "nes-the_krion_conquest_magical_kid_s_doropie",
-   "name": "The Krion Conquest - Magical Kid's Doropie",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/the_krion_conquest_magical_kid_s_doropie.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "the_krion_conquest_magical_kid_s_doropie.nes"
   },
   {
    "id": "nes-the_last_ninja",
@@ -20826,17 +17966,6 @@
    "fileName": "the_uncanny_x_men.nes"
   },
   {
-   "id": "nes-the_wing_of_madoola",
-   "name": "The Wing of Madoola",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/the_wing_of_madoola.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "the_wing_of_madoola.nes"
-  },
-  {
    "id": "nes-the_young_indiana_jones_chronicles",
    "name": "The Young Indiana Jones Chronicles",
    "console": "nes",
@@ -20958,17 +18087,6 @@
    "fileName": "tiny_toon_adventures_2_trouble_in_wackyland.nes"
   },
   {
-   "id": "nes-titanic",
-   "name": "Titanic",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/titanic.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "titanic.nes"
-  },
-  {
    "id": "nes-to_the_earth",
    "name": "To the Earth",
    "console": "nes",
@@ -20989,17 +18107,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "toki.nes"
-  },
-  {
-   "id": "nes-toki_arcade",
-   "name": "Toki - Arcade",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/toki_arcade.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "toki_arcade.nes"
   },
   {
    "id": "nes-tom_jerry",
@@ -21077,17 +18184,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "totsuzen_macchoman.nes"
-  },
-  {
-   "id": "nes-toujin_makyou_den_heracles_no_eikou",
-   "name": "Toujin Makyou Den Heracles no Eikou",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/toujin_makyou_den_heracles_no_eikou.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "toujin_makyou_den_heracles_no_eikou.nes"
   },
   {
    "id": "nes-town_country_surf_designs_thrilla_s_surfari",
@@ -21200,17 +18296,6 @@
    "fileName": "u_four_ia_the_saga.nes"
   },
   {
-   "id": "nes-u_four_ia_the_saga_hebereke",
-   "name": "U-four-ia - The Saga - Hebereke",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/u_four_ia_the_saga_hebereke.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "u_four_ia_the_saga_hebereke.nes"
-  },
-  {
    "id": "nes-uchuu_keibitai_sdf",
    "name": "Uchuu Keibitai SDF",
    "console": "nes",
@@ -21220,17 +18305,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "uchuu_keibitai_sdf.nes"
-  },
-  {
-   "id": "nes-ultraman_chou_toushi_gekiden",
-   "name": "Ultraman Chou Toushi Gekiden",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ultraman_chou_toushi_gekiden.gb",
-   "coverUrl": "",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "ultraman_chou_toushi_gekiden.gb"
   },
   {
    "id": "nes-ultraman_club_kaijuu_daikessen",
@@ -21275,17 +18349,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "valkyrie_no_bouken_toki_no_kagi_densetsu.nes"
-  },
-  {
-   "id": "nes-vice_project_doom_gun_dec",
-   "name": "Vice Project Doom - Gun-Dec",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/vice_project_doom_gun_dec.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "vice_project_doom_gun_dec.nes"
   },
   {
    "id": "nes-volguard_ii",
@@ -21462,17 +18525,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "wizards_warriors_iii_kuros_visions_of_power.nes"
-  },
-  {
-   "id": "nes-wolfling",
-   "name": "Wolfling",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/wolfling.nes",
-   "coverUrl": "",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "wolfling.nes"
   },
   {
    "id": "nes-wolverine",
@@ -21992,17 +19044,6 @@
    "fileName": "bastard_ankoku_no_hakai_shin.smc"
   },
   {
-   "id": "snes-batman_revenge_of_the_joker",
-   "name": "Batman - Revenge of the Joker",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/batman_revenge_of_the_joker.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "batman_revenge_of_the_joker.smc"
-  },
-  {
    "id": "snes-batman_returns",
    "name": "Batman Returns",
    "console": "snes",
@@ -22179,17 +19220,6 @@
    "fileName": "brandish.smc"
   },
   {
-   "id": "snes-brandish_2_the_planet_buster",
-   "name": "Brandish 2 - The Planet Buster",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/brandish_2_the_planet_buster.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "brandish_2_the_planet_buster.smc"
-  },
-  {
    "id": "snes-brawl_brothers",
    "name": "Brawl Brothers",
    "console": "snes",
@@ -22243,17 +19273,6 @@
    "size": "2.2 MB",
    "category": "",
    "fileName": "brutal_paws_of_fury.sfc"
-  },
-  {
-   "id": "snes-bs_radical_dreamers",
-   "name": "BS Radical Dreamers",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/bs_radical_dreamers.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "bs_radical_dreamers.smc"
   },
   {
    "id": "snes-bubsy_ii",
@@ -22344,17 +19363,6 @@
    "fileName": "captain_novolin.smc"
   },
   {
-   "id": "snes-captain_tsubasa_iii_challenge_of_kaiser",
-   "name": "Captain Tsubasa III - Challenge of Kaiser",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/captain_tsubasa_iii_challenge_of_kaiser.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "captain_tsubasa_iii_challenge_of_kaiser.smc"
-  },
-  {
    "id": "snes-captain_tsubasa_iv_pro_no_rival_tachi",
    "name": "Captain Tsubasa IV - Pro no Rival Tachi",
    "console": "snes",
@@ -22375,17 +19383,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "captain_tsubasa_v_hasha_no_shougou_canpione.smc"
-  },
-  {
-   "id": "snes-carmen_sandiego_where_in_time",
-   "name": "Carmen Sandiego - Where in Time",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/carmen_sandiego_where_in_time.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "carmen_sandiego_where_in_time.smc"
   },
   {
    "id": "snes-champions_world_class_soccer",
@@ -22487,17 +19484,6 @@
    "fileName": "cliffhanger.smc"
   },
   {
-   "id": "snes-clock_tower",
-   "name": "Clock Tower",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/clock_tower.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "3.1 MB",
-   "category": "",
-   "fileName": "clock_tower.smc"
-  },
-  {
    "id": "snes-clue",
    "name": "Clue",
    "console": "snes",
@@ -22540,17 +19526,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "cool_spot.sfc"
-  },
-  {
-   "id": "snes-cooly_skunk",
-   "name": "Cooly Skunk",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/cooly_skunk.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "cooly_skunk.sfc"
   },
   {
    "id": "snes-crystal_beans_from_dungeon_explorer",
@@ -22817,17 +19792,6 @@
    "fileName": "dragon_ball_z_hyper_dimension.smc"
   },
   {
-   "id": "snes-dragon_ball_z_super_butouden_3_ultime_menace",
-   "name": "Dragon Ball Z - Super Butouden 3 Ultime Menace",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dragon_ball_z_super_butouden_3_ultime_menace.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dragon_ball_z_super_butouden_3_ultime_menace.smc"
-  },
-  {
    "id": "snes-dragon_ball_z_super_saiya_densetsu",
    "name": "Dragon Ball Z - Super Saiya Densetsu",
    "console": "snes",
@@ -22982,17 +19946,6 @@
    "fileName": "faceball_2000.sfc"
   },
   {
-   "id": "snes-famicom_tantei_club_part_ii",
-   "name": "Famicom Tantei Club Part II",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/famicom_tantei_club_part_ii.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "famicom_tantei_club_part_ii.smc"
-  },
-  {
    "id": "snes-fifa_98_road_to_world_cup",
    "name": "FIFA '98 - Road to World Cup",
    "console": "snes",
@@ -23002,28 +19955,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "fifa_98_road_to_world_cup.smc"
-  },
-  {
-   "id": "snes-fifa_96",
-   "name": "FIFA 96",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/fifa_96.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "fifa_96.smc"
-  },
-  {
-   "id": "snes-fifa_97_gold_edition",
-   "name": "FIFA 97 - Gold Edition",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/fifa_97_gold_edition.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "fifa_97_gold_edition.smc"
   },
   {
    "id": "snes-final_fantasy_magic_quest",
@@ -23147,17 +20078,6 @@
    "fileName": "fire_emblem_thracia_776.sfc"
   },
   {
-   "id": "snes-fire_risker",
-   "name": "Fire Risker",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/fire_risker.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "fire_risker.smc"
-  },
-  {
    "id": "snes-fire_strike",
    "name": "Fire Strike",
    "console": "snes",
@@ -23222,39 +20142,6 @@
    "size": "4.0 MB",
    "category": "",
    "fileName": "fushigi_no_dungeon_2_fuurai_no_shiren.smc"
-  },
-  {
-   "id": "snes-futbol_argentino_96",
-   "name": "Futbol Argentino '96",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/futbol_argentino_96.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "futbol_argentino_96.smc"
-  },
-  {
-   "id": "snes-futbol_colombiano_96",
-   "name": "Futbol Colombiano '96",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/futbol_colombiano_96.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "futbol_colombiano_96.smc"
-  },
-  {
-   "id": "snes-futbol_excitante_horrible_oye",
-   "name": "Futbol Excitante Horrible Oye",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/futbol_excitante_horrible_oye.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "futbol_excitante_horrible_oye.smc"
   },
   {
    "id": "snes-ganbare_goemon_2_kiteretsu_shougun_magginesu",
@@ -23345,17 +20232,6 @@
    "fileName": "goof_troop.sfc"
   },
   {
-   "id": "snes-gourmet_squadron_barayarou",
-   "name": "Gourmet Squadron Barayarou",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/gourmet_squadron_barayarou.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "gourmet_squadron_barayarou.smc"
-  },
-  {
    "id": "snes-gradius_iii",
    "name": "Gradius III",
    "console": "snes",
@@ -23365,17 +20241,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "gradius_iii.sfc"
-  },
-  {
-   "id": "snes-gunforce_battle_fire_engulfed_terror_island",
-   "name": "Gunforce - Battle Fire Engulfed Terror Island",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/gunforce_battle_fire_engulfed_terror_island.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "gunforce_battle_fire_engulfed_terror_island.smc"
   },
   {
    "id": "snes-hameln_no_violin_hiki",
@@ -23543,17 +20408,6 @@
    "fileName": "inspector_gadget.sfc"
   },
   {
-   "id": "snes-iron_commando",
-   "name": "Iron Commando",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/iron_commando.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "iron_commando.sfc"
-  },
-  {
    "id": "snes-izzy_s_quest_for_the_olympic_rings",
    "name": "Izzy's Quest for the Olympic Rings",
    "console": "snes",
@@ -23574,17 +20428,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "james_bond_jr.sfc"
-  },
-  {
-   "id": "snes-james_pond_3_operation_starfish",
-   "name": "James Pond 3 - Operation Starfish",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/james_pond_3_operation_starfish.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "james_pond_3_operation_starfish.sfc"
   },
   {
    "id": "snes-jelly_boy",
@@ -23961,28 +20804,6 @@
    "fileName": "little_magic.sfc"
   },
   {
-   "id": "snes-live_a_live",
-   "name": "Live A Live",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/live_a_live.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "live_a_live.sfc"
-  },
-  {
-   "id": "snes-lobo",
-   "name": "Lobo",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/lobo.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "lobo.sfc"
-  },
-  {
    "id": "snes-lucky_luke",
    "name": "Lucky Luke",
    "console": "snes",
@@ -24102,50 +20923,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "majin_tensei.sfc"
-  },
-  {
-   "id": "snes-majuu_ou_king_of_demons",
-   "name": "Majuu Ou  - King of Demons",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/majuu_ou_king_of_demons.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "majuu_ou_king_of_demons.sfc"
-  },
-  {
-   "id": "snes-mario_hack_3",
-   "name": "Mario Hack 3",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/mario_hack_3.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "mario_hack_3.smc"
-  },
-  {
-   "id": "snes-mario_mushroom_kingdom_hack",
-   "name": "Mario Mushroom Kingdom - Hack -",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/mario_mushroom_kingdom_hack.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "mario_mushroom_kingdom_hack.smc"
-  },
-  {
-   "id": "snes-mario_treasure_hunt_2_hack",
-   "name": "Mario Treasure Hunt 2 - Hack -",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/mario_treasure_hunt_2_hack.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "mario_treasure_hunt_2_hack.smc"
   },
   {
    "id": "snes-marko_s_magic_football",
@@ -24280,17 +21057,6 @@
    "fileName": "mega_man_x3.smc"
   },
   {
-   "id": "snes-megaman_iv_port_nes",
-   "name": "Megaman IV - Port - NES -",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/megaman_iv_port_nes.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "megaman_iv_port_nes.smc"
-  },
-  {
    "id": "snes-metal_max_returns",
    "name": "Metal Max Returns",
    "console": "snes",
@@ -24355,17 +21121,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "micro_machines_2_turbo_tournament.sfc"
-  },
-  {
-   "id": "snes-mobile_suit_gundam_wing_endless_duel",
-   "name": "Mobile Suit Gundam Wing Endless Duel",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/mobile_suit_gundam_wing_endless_duel.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "mobile_suit_gundam_wing_endless_duel.sfc"
   },
   {
    "id": "snes-mohawk_headphone_jack",
@@ -24454,17 +21209,6 @@
    "size": "2.5 MB",
    "category": "",
    "fileName": "nekketsu_tairiku_burning_heroes.sfc"
-  },
-  {
-   "id": "snes-neugier",
-   "name": "Neugier",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/neugier.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "neugier.smc"
   },
   {
    "id": "snes-neugier_umi_to_kaze_no_kodou",
@@ -24709,17 +21453,6 @@
    "fileName": "prince_of_persia.smc"
   },
   {
-   "id": "snes-prince_of_persia_2_the_shadow_the_flame",
-   "name": "Prince of Persia 2 - The Shadow & The Flame",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/prince_of_persia_2_the_shadow_the_flame.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "prince_of_persia_2_the_shadow_the_flame.smc"
-  },
-  {
    "id": "snes-push_over",
    "name": "Push-Over",
    "console": "snes",
@@ -24751,17 +21484,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "raiden_trad.sfc"
-  },
-  {
-   "id": "snes-ranma_12",
-   "name": "Ranma ½",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ranma_12.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "ranma_12.smc"
   },
   {
    "id": "snes-rendering_ranger_r2",
@@ -25116,17 +21838,6 @@
    "fileName": "side_pocket.smc"
   },
   {
-   "id": "snes-sim_city_2000",
-   "name": "Sim City 2000",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/sim_city_2000.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "sim_city_2000.smc"
-  },
-  {
    "id": "snes-sky_blazer",
    "name": "Sky Blazer",
    "console": "snes",
@@ -25136,17 +21847,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "sky_blazer.smc"
-  },
-  {
-   "id": "snes-slayers",
-   "name": "Slayers",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/slayers.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "slayers.sfc"
   },
   {
    "id": "snes-smart_ball",
@@ -25270,17 +21970,6 @@
    "fileName": "sparkster.sfc"
   },
   {
-   "id": "snes-spawn",
-   "name": "Spawn",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/spawn.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "spawn.sfc"
-  },
-  {
    "id": "snes-speedy_gonzales_los_gatos_bandidos",
    "name": "Speedy Gonzales - Los Gatos Bandidos",
    "console": "snes",
@@ -25345,17 +22034,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "star_fox.smc"
-  },
-  {
-   "id": "snes-star_fox_2_beta",
-   "name": "Star Fox 2 Beta",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/star_fox_2_beta.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "star_fox_2_beta.smc"
   },
   {
    "id": "snes-star_ocean",
@@ -25545,17 +22223,6 @@
    "fileName": "super_copa.smc"
   },
   {
-   "id": "snes-super_descentralizado_95",
-   "name": "Super Descentralizado 95",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_descentralizado_95.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "super_descentralizado_95.smc"
-  },
-  {
    "id": "snes-super_ghouls_n_ghosts",
    "name": "Super Ghouls'n Ghosts",
    "console": "snes",
@@ -25666,17 +22333,6 @@
    "fileName": "super_morph.smc"
   },
   {
-   "id": "snes-super_nova_darius_force",
-   "name": "Super Nova - Darius Force",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_nova_darius_force.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "super_nova_darius_force.smc"
-  },
-  {
    "id": "snes-super_off_road",
    "name": "Super Off Road",
    "console": "snes",
@@ -25686,17 +22342,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "super_off_road.smc"
-  },
-  {
-   "id": "snes-super_pac_man",
-   "name": "Super Pac-Man",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_pac_man.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "super_pac_man.smc"
   },
   {
    "id": "snes-super_pang",
@@ -25730,28 +22375,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "super_r_type.sfc"
-  },
-  {
-   "id": "snes-super_shadow_of_the_beast",
-   "name": "Super Shadow of the Beast",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_shadow_of_the_beast.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "super_shadow_of_the_beast.sfc"
-  },
-  {
-   "id": "snes-super_shell_monsters_story",
-   "name": "Super Shell Monsters Story",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_shell_monsters_story.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "super_shell_monsters_story.sfc"
   },
   {
    "id": "snes-super_soccer",
@@ -26005,17 +22628,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "the_adventures_of_batman_robin.sfc"
-  },
-  {
-   "id": "snes-the_adventures_of_tintin_prisoners_of_the_sun",
-   "name": "The Adventures of Tintin - Prisoners of the Sun",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_adventures_of_tintin_prisoners_of_the_sun.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "the_adventures_of_tintin_prisoners_of_the_sun.smc"
   },
   {
    "id": "snes-the_amazing_spider_man_lethal_foes",
@@ -26293,17 +22905,6 @@
    "fileName": "the_pagemaster.sfc"
   },
   {
-   "id": "snes-the_shadow",
-   "name": "The Shadow",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_shadow.sfc",
-   "coverUrl": "",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "the_shadow.sfc"
-  },
-  {
    "id": "snes-the_smurfs",
    "name": "The Smurfs",
    "console": "snes",
@@ -26313,17 +22914,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "the_smurfs.smc"
-  },
-  {
-   "id": "snes-the_smurfs_2",
-   "name": "The Smurfs 2",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_smurfs_2.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.3 MB",
-   "category": "",
-   "fileName": "the_smurfs_2.smc"
   },
   {
    "id": "snes-the_terminator",
@@ -26401,17 +22991,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "tin_star.sfc"
-  },
-  {
-   "id": "snes-tinhead",
-   "name": "Tinhead",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/tinhead.smc",
-   "coverUrl": "",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "tinhead.smc"
   },
   {
    "id": "snes-tiny_toon_adventures_buster_busts_loose",
