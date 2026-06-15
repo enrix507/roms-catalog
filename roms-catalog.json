@@ -1785,17 +1785,6 @@
    "fileName": "frank_thomas_big_hurt_baseball.gb"
   },
   {
-   "id": "gb-galaga_galaxian",
-   "name": "Galaga & Galaxian",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/galaga_galaxian.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/galaga_galaxian.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "galaga_galaxian.gb"
-  },
-  {
    "id": "gb-game_watch_gallery",
    "name": "Game & Watch Gallery",
    "console": "gb",
@@ -1827,17 +1816,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "gameboy_camera.gb"
-  },
-  {
-   "id": "gb-gameboy_gallery",
-   "name": "Gameboy Gallery",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/gameboy_gallery.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/game_boy_gallery.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "gameboy_gallery.gb"
   },
   {
    "id": "gb-garfield_labyrinth",
@@ -4381,28 +4359,6 @@
    "fileName": "sneaky_snakes.gb"
   },
   {
-   "id": "gb-snoopy_magic_show",
-   "name": "Snoopy - Magic Show",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/snoopy_magic_show.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/snoopy_magic_show.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "snoopy_magic_show.gb"
-  },
-  {
-   "id": "gb-snow_bros_jr",
-   "name": "Snow Bros Jr.",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/snow_bros_jr.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/snow_bros_jr.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "snow_bros_jr.gb"
-  },
-  {
    "id": "gb-soccer",
    "name": "Soccer",
    "console": "gb",
@@ -4566,17 +4522,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "sports_illustrated_for_kids_the_ultimate_triple_dare.gb"
-  },
-  {
-   "id": "gb-spot",
-   "name": "Spot",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/spot.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/spot.webp",
-   "description": "",
-   "size": "32 KB",
-   "category": "",
-   "fileName": "spot.gb"
   },
   {
    "id": "gb-spot_the_cool_adventure",
@@ -5745,17 +5690,6 @@
    "fileName": "wwf_warzone.gb"
   },
   {
-   "id": "gb-xenon_2_megablast",
-   "name": "Xenon 2 - Megablast",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/xenon_2_megablast.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/xenon_2_megablast.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "xenon_2_megablast.gb"
-  },
-  {
    "id": "gb-yogi_bear_in_yogi_bear_s_goldrush",
    "name": "Yogi Bear in Yogi Bear's Goldrush",
    "console": "gb",
@@ -6196,17 +6130,6 @@
    "fileName": "ballistic.gbc"
   },
   {
-   "id": "gbc-balloon_fight_gb",
-   "name": "Balloon Fight GB",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/balloon_fight_gb.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/balloon_fight_gb.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "balloon_fight_gb.gbc"
-  },
-  {
    "id": "gbc-barbie_fashion_pack_games",
    "name": "Barbie - Fashion Pack Games",
    "console": "gbc",
@@ -6460,17 +6383,6 @@
    "fileName": "bugs_bunny_crazy_castle_iii.gbc"
   },
   {
-   "id": "gbc-bugs_bunny_crazy_castle_iv",
-   "name": "Bugs Bunny - Crazy Castle IV",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/bugs_bunny_crazy_castle_iv.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/bugs_bunny_crazy_castle_4.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "bugs_bunny_crazy_castle_iv.gbc"
-  },
-  {
    "id": "gbc-bust_a_move_iv",
    "name": "Bust-a-Move IV",
    "console": "gbc",
@@ -6702,72 +6614,6 @@
    "fileName": "daffy_duck_fowl_play.gbc"
   },
   {
-   "id": "gbc-daikatana",
-   "name": "Daikatana",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/daikatana.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/daikatana_gb.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "daikatana.gbc"
-  },
-  {
-   "id": "gbc-dance_dance_revolution_disney",
-   "name": "Dance Dance Revolution - Disney",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dance_dance_revolution_disney.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/dance_dance_revolution_gb_disney_mix.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dance_dance_revolution_disney.gbc"
-  },
-  {
-   "id": "gbc-dance_dance_revolution_i",
-   "name": "Dance Dance Revolution I",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dance_dance_revolution_i.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/dance_dance_revolution_gb.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dance_dance_revolution_i.gbc"
-  },
-  {
-   "id": "gbc-dance_dance_revolution_ii",
-   "name": "Dance Dance Revolution II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dance_dance_revolution_ii.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/dance_dance_revolution_gb_2.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dance_dance_revolution_ii.gbc"
-  },
-  {
-   "id": "gbc-dance_dance_revolution_iii",
-   "name": "Dance Dance Revolution III",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dance_dance_revolution_iii.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/dance_dance_revolution_gb_3.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dance_dance_revolution_iii.gbc"
-  },
-  {
-   "id": "gbc-dancing_furby",
-   "name": "Dancing Furby",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/dancing_furby.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/dancing_furby.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "dancing_furby.gbc"
-  },
-  {
    "id": "gbc-dave_mirra_freestyle_bmx",
    "name": "Dave Mirra Freestyle BMX",
    "console": "gbc",
@@ -6799,17 +6645,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "deer_hunter.gbc"
-  },
-  {
-   "id": "gbc-deja_vu_i_ii",
-   "name": "Deja Vu I & II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/deja_vu_i_ii.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/deja_vu_i_ii.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "deja_vu_i_ii.gbc"
   },
   {
    "id": "gbc-denki_blocks",
@@ -7263,17 +7098,6 @@
    "fileName": "game_watch_gallery_iii.gbc"
   },
   {
-   "id": "gbc-game_boy_wars_ii",
-   "name": "Game Boy Wars II",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/game_boy_wars_ii.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/game_boy_wars_2.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "game_boy_wars_ii.gbc"
-  },
-  {
    "id": "gbc-gex_enter_the_gecko",
    "name": "Gex - Enter the Gecko",
    "console": "gbc",
@@ -7384,17 +7208,6 @@
    "fileName": "gremlins_unleashed.gbc"
   },
   {
-   "id": "gbc-grinch",
-   "name": "Grinch",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/grinch.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/grinch.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "grinch.gbc"
-  },
-  {
    "id": "gbc-halloween_racer",
    "name": "Halloween Racer",
    "console": "gbc",
@@ -7481,17 +7294,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "harvest_moon_iii.gbc"
-  },
-  {
-   "id": "gbc-hello_kitty_no_magical_museum",
-   "name": "Hello Kitty no Magical Museum",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/hello_kitty_no_magical_museum.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/hello_kitty_no_magical_museum.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "hello_kitty_no_magical_museum.gbc"
   },
   {
    "id": "gbc-hello_kitty_s_cube_frenzy",
@@ -8031,17 +7833,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "lil_monster.gbc"
-  },
-  {
-   "id": "gbc-little_magic",
-   "name": "Little Magic",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/little_magic.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/little_magic.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "little_magic.gbc"
   },
   {
    "id": "gbc-little_nicky",
@@ -9067,17 +8858,6 @@
    "fileName": "player_manager_2001.gbc"
   },
   {
-   "id": "gbc-pocket_billiards_funk_the_9_ball",
-   "name": "Pocket Billiards-Funk the 9 Ball",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/pocket_billiards_funk_the_9_ball.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/pocket_billiards_funk_the_9_ball.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "pocket_billiards_funk_the_9_ball.gbc"
-  },
-  {
    "id": "gbc-pocket_bomberman",
    "name": "Pocket Bomberman",
    "console": "gbc",
@@ -10057,17 +9837,6 @@
    "fileName": "stuart_little_the_journey_home.gbc"
   },
   {
-   "id": "gbc-super_bombliss_dx",
-   "name": "Super Bombliss DX",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/super_bombliss_dx.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/super_bombliss_dx.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "super_bombliss_dx.gbc"
-  },
-  {
    "id": "gbc-super_breakout",
    "name": "Super Breakout!",
    "console": "gbc",
@@ -10077,17 +9846,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "super_breakout.gbc"
-  },
-  {
-   "id": "gbc-super_chinese_fighter_ex",
-   "name": "Super Chinese Fighter EX",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/super_chinese_fighter_ex.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/super_chinese_fighter_ex.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "super_chinese_fighter_ex.gbc"
   },
   {
    "id": "gbc-super_mario_bros_deluxe",
@@ -10253,17 +10011,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "tetris_dx.gbc"
-  },
-  {
-   "id": "gbc-three_lions",
-   "name": "Three Lions",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/three_lions.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/three_lions.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "three_lions.gbc"
   },
   {
    "id": "gbc-thunderbirds",
@@ -10805,17 +10552,6 @@
    "fileName": "wendy_every_witch_way.gbc"
   },
   {
-   "id": "gbc-wetrix_gb",
-   "name": "Wetrix GB",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/wetrix_gb.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/wetrix_gb.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "wetrix_gb.gbc"
-  },
-  {
    "id": "gbc-wild_thornberrys_rambler",
    "name": "Wild Thornberrys - Rambler",
    "console": "gbc",
@@ -11113,17 +10849,6 @@
    "fileName": "advanced_dungeons_dragons_dragon_strike.nes"
   },
   {
-   "id": "nes-advanced_dungeons_dragons_dragons_of_flame",
-   "name": "Advanced Dungeons & Dragons - Dragons of Flame",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/advanced_dungeons_dragons_dragons_of_flame.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/advanced_dungeons_dragons_dragons_of_flame.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "advanced_dungeons_dragons_dragons_of_flame.nes"
-  },
-  {
    "id": "nes-advanced_dungeons_dragons_heroes_of_the_lance",
    "name": "Advanced Dungeons & Dragons - Heroes of the Lance",
    "console": "nes",
@@ -11210,28 +10935,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "after_burner.nes"
-  },
-  {
-   "id": "nes-after_burner_ii",
-   "name": "After Burner II",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/after_burner_ii.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/after_burner_ii.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "after_burner_ii.nes"
-  },
-  {
-   "id": "nes-aigina_no_yogen_balubalouk_no_densetsu_yori",
-   "name": "Aigina no Yogen - Balubalouk no Densetsu Yori",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/aigina_no_yogen_balubalouk_no_densetsu_yori.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/aigina_no_yogen_balubalouk_no_densetsu_yori.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "aigina_no_yogen_balubalouk_no_densetsu_yori.nes"
   },
   {
    "id": "nes-air_fortress",
@@ -11344,28 +11047,6 @@
    "fileName": "archon.nes"
   },
   {
-   "id": "nes-argos_no_senshi",
-   "name": "Argos no Senshi",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/argos_no_senshi.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/argos_no_senshi.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "argos_no_senshi.nes"
-  },
-  {
-   "id": "nes-argus",
-   "name": "Argus",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/argus.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/argus.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "argus.nes"
-  },
-  {
    "id": "nes-arkanoid",
    "name": "Arkanoid",
    "console": "nes",
@@ -11377,17 +11058,6 @@
    "fileName": "arkanoid.nes"
   },
   {
-   "id": "nes-arkanoid_ii",
-   "name": "Arkanoid II",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/arkanoid_ii.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/arkanoid_ii.webp",
-   "description": "",
-   "size": "212 KB",
-   "category": "",
-   "fileName": "arkanoid_ii.nes"
-  },
-  {
    "id": "nes-arkista_s_ring",
    "name": "Arkista's Ring",
    "console": "nes",
@@ -11397,28 +11067,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "arkista_s_ring.nes"
-  },
-  {
-   "id": "nes-armadillo",
-   "name": "Armadillo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/armadillo.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/armadillo.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "armadillo.nes"
-  },
-  {
-   "id": "nes-astro_robo_sasa",
-   "name": "Astro Robo Sasa",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/astro_robo_sasa.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/astro_robo_sasa.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "astro_robo_sasa.nes"
   },
   {
    "id": "nes-astyanax",
@@ -11443,28 +11091,6 @@
    "fileName": "athena.nes"
   },
   {
-   "id": "nes-atlantis_no_nazo",
-   "name": "Atlantis no Nazo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/atlantis_no_nazo.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/atlantis_no_nazo.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "atlantis_no_nazo.nes"
-  },
-  {
-   "id": "nes-attack_animal_gakuen",
-   "name": "Attack Animal Gakuen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/attack_animal_gakuen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/attack_animal_gakuen.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "attack_animal_gakuen.nes"
-  },
-  {
    "id": "nes-attack_of_the_killer_tomatoes",
    "name": "Attack of the Killer Tomatoes",
    "console": "nes",
@@ -11474,28 +11100,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "attack_of_the_killer_tomatoes.nes"
-  },
-  {
-   "id": "nes-b_wings",
-   "name": "B-Wings",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/b_wings.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/b_wings.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "b_wings.nes"
-  },
-  {
-   "id": "nes-babel_no_tou",
-   "name": "Babel no Tou",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/babel_no_tou.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/babel_no_tou.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "babel_no_tou.nes"
   },
   {
    "id": "nes-baby_boomer",
@@ -11542,17 +11146,6 @@
    "fileName": "bad_street_brawler.nes"
   },
   {
-   "id": "nes-ballblazer",
-   "name": "Ballblazer",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ballblazer.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ballblazer.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "ballblazer.nes"
-  },
-  {
    "id": "nes-balloon_fight",
    "name": "Balloon Fight",
    "console": "nes",
@@ -11564,28 +11157,6 @@
    "fileName": "balloon_fight.nes"
   },
   {
-   "id": "nes-baltron",
-   "name": "Baltron",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/baltron.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/baltron.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "baltron.nes"
-  },
-  {
-   "id": "nes-banana",
-   "name": "Banana",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/banana.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/banana.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "banana.nes"
-  },
-  {
    "id": "nes-baseball",
    "name": "Baseball",
    "console": "nes",
@@ -11595,17 +11166,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "baseball.nes"
-  },
-  {
-   "id": "nes-batman",
-   "name": "Batman",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/batman.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/batman.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "batman.nes"
   },
   {
    "id": "nes-batman_return_of_the_joker",
@@ -11650,17 +11210,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "batman_the_video_game.nes"
-  },
-  {
-   "id": "nes-batsu_terry_makyou_no_tetsujin_race",
-   "name": "Batsu & Terry - Makyou no Tetsujin Race",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/batsu_terry_makyou_no_tetsujin_race.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/batsu_terry_makyou_no_tetsujin_race.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "batsu_terry_makyou_no_tetsujin_race.nes"
   },
   {
    "id": "nes-battle_chess",
@@ -11740,39 +11289,6 @@
    "fileName": "bigfoot.nes"
   },
   {
-   "id": "nes-binary_land",
-   "name": "Binary Land",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/binary_land.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/binary_land.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "binary_land.nes"
-  },
-  {
-   "id": "nes-bio_miracle_bokutte_upa",
-   "name": "Bio Miracle Bokutte Upa",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/bio_miracle_bokutte_upa.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/bio_miracle_bokutte_upa.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "bio_miracle_bokutte_upa.nes"
-  },
-  {
-   "id": "nes-bio_senshi_dan_increaser_tono_tatakai",
-   "name": "Bio Senshi Dan - Increaser Tono Tatakai",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/bio_senshi_dan_increaser_tono_tatakai.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/bio_senshi_dan_increaser_tono_tatakai.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "bio_senshi_dan_increaser_tono_tatakai.nes"
-  },
-  {
    "id": "nes-bionic_commando",
    "name": "Bionic Commando",
    "console": "nes",
@@ -11837,17 +11353,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "bonk_s_adventure.nes"
-  },
-  {
-   "id": "nes-booby_kids",
-   "name": "Booby Kids",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/booby_kids.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/booby_kids.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "booby_kids.nes"
   },
   {
    "id": "nes-booky_man",
@@ -11927,17 +11432,6 @@
    "fileName": "bucky_o_hare.nes"
   },
   {
-   "id": "nes-bugtris",
-   "name": "BugTris",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/bugtris.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/bugtris.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "bugtris.nes"
-  },
-  {
    "id": "nes-bump_n_jump",
    "name": "Bump'n'Jump",
    "console": "nes",
@@ -12015,17 +11509,6 @@
    "fileName": "captain_planet_and_the_planeteers.nes"
   },
   {
-   "id": "nes-captain_silver",
-   "name": "Captain Silver",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/captain_silver.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/captain_silver.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "captain_silver.nes"
-  },
-  {
    "id": "nes-captain_skyhawk",
    "name": "Captain Skyhawk",
    "console": "nes",
@@ -12035,28 +11518,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "captain_skyhawk.nes"
-  },
-  {
-   "id": "nes-captain_tsubasa_vol_ii_super_striker",
-   "name": "Captain Tsubasa Vol. II - Super Striker",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/captain_tsubasa_vol_ii_super_striker.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/captain_tsubasa_ii_super_striker.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "captain_tsubasa_vol_ii_super_striker.nes"
-  },
-  {
-   "id": "nes-captain_tsubasa_vol_ii_super_striker",
-   "name": "Captain Tsubasa Vol. II Super Striker",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/captain_tsubasa_vol_ii_super_striker.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/captain_tsubasa_ii_super_striker.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "captain_tsubasa_vol_ii_super_striker.nes"
   },
   {
    "id": "nes-casino_kid",
@@ -12169,17 +11630,6 @@
    "fileName": "castlevania_iii_draculas_curse.nes"
   },
   {
-   "id": "nes-chack_n_pop",
-   "name": "Chack'n Pop",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/chack_n_pop.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/chack_n_pop.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "chack_n_pop.nes"
-  },
-  {
    "id": "nes-challenge_of_the_dragon",
    "name": "Challenge of the Dragon",
    "console": "nes",
@@ -12189,17 +11639,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "challenge_of_the_dragon.nes"
-  },
-  {
-   "id": "nes-challenger",
-   "name": "Challenger",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/challenger.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/challenger.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "challenger.nes"
   },
   {
    "id": "nes-championship_rally",
@@ -12235,50 +11674,6 @@
    "fileName": "chip_n_dale_rescue_rangers_2.nes"
   },
   {
-   "id": "nes-choplifter",
-   "name": "Choplifter",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/choplifter.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/choplifter.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "choplifter.nes"
-  },
-  {
-   "id": "nes-chou_fuyuu_yousai_exed_exes",
-   "name": "Chou Fuyuu Yousai Exed Exes",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/chou_fuyuu_yousai_exed_exes.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/chou_fuyuu_yousai_exed_exes.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "chou_fuyuu_yousai_exed_exes.nes"
-  },
-  {
-   "id": "nes-choujikuu_yousai_macross",
-   "name": "Choujikuu Yousai - Macross",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/choujikuu_yousai_macross.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/choujikuu_yousai_macross.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "choujikuu_yousai_macross.nes"
-  },
-  {
-   "id": "nes-choujin_sentai_jetman",
-   "name": "Choujin Sentai Jetman",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/choujin_sentai_jetman.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/choujin_sentai_jetman.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "choujin_sentai_jetman.nes"
-  },
-  {
    "id": "nes-chubby_cherub",
    "name": "Chubby Cherub",
    "console": "nes",
@@ -12299,28 +11694,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "circus_caper.nes"
-  },
-  {
-   "id": "nes-circus_charlie",
-   "name": "Circus Charlie",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/circus_charlie.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/circus_charlie.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "circus_charlie.nes"
-  },
-  {
-   "id": "nes-city_adventure_touch_mystery_of_triangle",
-   "name": "City Adventure Touch - Mystery of Triangle",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/city_adventure_touch_mystery_of_triangle.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/city_adventure_touch_mystery_of_triangle.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "city_adventure_touch_mystery_of_triangle.nes"
   },
   {
    "id": "nes-city_connection",
@@ -12387,17 +11760,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "cobra_triangle.nes"
-  },
-  {
-   "id": "nes-cocoron",
-   "name": "Cocoron",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/cocoron.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/cocoron.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "cocoron.nes"
   },
   {
    "id": "nes-code_name_viper",
@@ -12477,39 +11839,6 @@
    "fileName": "cool_world.nes"
   },
   {
-   "id": "nes-cosmic_epsilon",
-   "name": "Cosmic Epsilon",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/cosmic_epsilon.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/cosmic_epsilon.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "cosmic_epsilon.nes"
-  },
-  {
-   "id": "nes-cosmo_genesis",
-   "name": "Cosmo Genesis",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/cosmo_genesis.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/cosmo_genesis.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "cosmo_genesis.nes"
-  },
-  {
-   "id": "nes-cosmo_police_galivan",
-   "name": "Cosmo Police Galivan",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/cosmo_police_galivan.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/cosmo_police_galivan.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "cosmo_police_galivan.nes"
-  },
-  {
    "id": "nes-cosmos_cop",
    "name": "Cosmos Cop",
    "console": "nes",
@@ -12532,17 +11861,6 @@
    "fileName": "cowboy_kid.nes"
   },
   {
-   "id": "nes-crazy_climber",
-   "name": "Crazy Climber",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/crazy_climber.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/crazy_climber.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "crazy_climber.nes"
-  },
-  {
    "id": "nes-creatom",
    "name": "Creatom",
    "console": "nes",
@@ -12552,17 +11870,6 @@
    "size": "96 KB",
    "category": "",
    "fileName": "creatom.nes"
-  },
-  {
-   "id": "nes-crisis_force",
-   "name": "Crisis Force",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/crisis_force.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/crisis_force.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "crisis_force.nes"
   },
   {
    "id": "nes-cross_fire",
@@ -12609,17 +11916,6 @@
    "fileName": "cybernoid_the_fighting_machine.nes"
   },
   {
-   "id": "nes-dai_2_ji_super_robot_taisen",
-   "name": "Dai-2-ji Super Robot Taisen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dai_2_ji_super_robot_taisen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dai_2_ji_super_robot_taisen.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "dai_2_ji_super_robot_taisen.nes"
-  },
-  {
    "id": "nes-darkman",
    "name": "Darkman",
    "console": "nes",
@@ -12662,17 +11958,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "day_dreamin_davey.nes"
-  },
-  {
-   "id": "nes-dead_fox",
-   "name": "Dead Fox",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dead_fox.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dead_fox.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "dead_fox.nes"
   },
   {
    "id": "nes-deadly_towers",
@@ -12730,17 +12015,6 @@
    "fileName": "destination_earthstar.nes"
   },
   {
-   "id": "nes-devil_man",
-   "name": "Devil Man",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/devil_man.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/devil_man.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "devil_man.nes"
-  },
-  {
    "id": "nes-devil_world",
    "name": "Devil World",
    "console": "nes",
@@ -12750,17 +12024,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "devil_world.nes"
-  },
-  {
-   "id": "nes-dezaemon",
-   "name": "Dezaemon",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dezaemon.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dezaemon.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "dezaemon.nes"
   },
   {
    "id": "nes-die_hard",
@@ -12818,72 +12081,6 @@
    "fileName": "digger_t_rock_the_legend_of_the_lost_city.nes"
   },
   {
-   "id": "nes-digital_devil_story_megami_tensei",
-   "name": "Digital Devil Story - Megami Tensei",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/digital_devil_story_megami_tensei.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/digital_devil_story_megami_tensei.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "digital_devil_story_megami_tensei.nes"
-  },
-  {
-   "id": "nes-digital_devil_story_megami_tensei_ii",
-   "name": "Digital Devil Story - Megami Tensei II",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/digital_devil_story_megami_tensei_ii.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/digital_devil_story_megami_tensei_ii.webp",
-   "description": "",
-   "size": "768 KB",
-   "category": "",
-   "fileName": "digital_devil_story_megami_tensei_ii.nes"
-  },
-  {
-   "id": "nes-doki_doki_yuuenchi_crazy_land_daisakusen",
-   "name": "Doki!Doki! Yuuenchi - Crazy Land Daisakusen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/doki_doki_yuuenchi_crazy_land_daisakusen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/doki_doki_yuuenchi_crazy_land_daisakusen.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "doki_doki_yuuenchi_crazy_land_daisakusen.nes"
-  },
-  {
-   "id": "nes-don_doko_don",
-   "name": "Don Doko Don",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/don_doko_don.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/don_doko_don.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "don_doko_don.nes"
-  },
-  {
-   "id": "nes-don_doko_don_2",
-   "name": "Don Doko Don 2",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/don_doko_don_2.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/don_doko_don_2.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "don_doko_don_2.nes"
-  },
-  {
-   "id": "nes-donald_land",
-   "name": "Donald Land",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/donald_land.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/donald_land.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "donald_land.nes"
-  },
-  {
    "id": "nes-donkey_kong",
    "name": "Donkey Kong",
    "console": "nes",
@@ -12939,28 +12136,6 @@
    "fileName": "donkey_kong_jr_math.nes"
   },
   {
-   "id": "nes-door_door",
-   "name": "Door Door",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/door_door.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/door_door.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "door_door.nes"
-  },
-  {
-   "id": "nes-doraemon",
-   "name": "Doraemon",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/doraemon.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/doraemon.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "doraemon.nes"
-  },
-  {
    "id": "nes-double_dragon",
    "name": "Double Dragon",
    "console": "nes",
@@ -13005,17 +12180,6 @@
    "fileName": "double_dribble.nes"
   },
   {
-   "id": "nes-dough_boy",
-   "name": "Dough Boy",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dough_boy.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dough_boy.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "dough_boy.nes"
-  },
-  {
    "id": "nes-dr_chaos",
    "name": "Dr. Chaos",
    "console": "nes",
@@ -13049,17 +12213,6 @@
    "fileName": "dr_mario.nes"
   },
   {
-   "id": "nes-dragon_ball_shen_long_no_nazo",
-   "name": "Dragon Ball - Shen Long no Nazo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dragon_ball_shen_long_no_nazo.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dragon_ball_shen_long_no_nazo.webp",
-   "description": "",
-   "size": "161 KB",
-   "category": "",
-   "fileName": "dragon_ball_shen_long_no_nazo.nes"
-  },
-  {
    "id": "nes-dragon_ball_z_super_butouden_2",
    "name": "Dragon Ball Z - Super Butouden 2",
    "console": "nes",
@@ -13069,17 +12222,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "dragon_ball_z_super_butouden_2.nes"
-  },
-  {
-   "id": "nes-dragon_ball_z_iii_ressen_jinzou_ningen",
-   "name": "Dragon Ball Z III - Ressen Jinzou Ningen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dragon_ball_z_iii_ressen_jinzou_ningen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dragon_ball_z_iii_ressen_jinzou_ningen.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "dragon_ball_z_iii_ressen_jinzou_ningen.nes"
   },
   {
    "id": "nes-dragon_buster",
@@ -13170,17 +12312,6 @@
    "fileName": "dragon_s_lair.nes"
   },
   {
-   "id": "nes-dream_master",
-   "name": "Dream Master",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/dream_master.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/dream_master.webp",
-   "description": "",
-   "size": "768 KB",
-   "category": "",
-   "fileName": "dream_master.nes"
-  },
-  {
    "id": "nes-dropzone",
    "name": "Dropzone",
    "console": "nes",
@@ -13269,50 +12400,6 @@
    "fileName": "excitebike.nes"
   },
   {
-   "id": "nes-exerion",
-   "name": "Exerion",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/exerion.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/exerion.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "exerion.nes"
-  },
-  {
-   "id": "nes-f_1_race",
-   "name": "F-1 Race",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/f_1_race.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/f_1_race.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "f_1_race.nes"
-  },
-  {
-   "id": "nes-f_1_sensation",
-   "name": "F-1 Sensation",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/f_1_sensation.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/f_1_sensation.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "f_1_sensation.nes"
-  },
-  {
-   "id": "nes-famicom_jump_eiyuu_retsuden",
-   "name": "Famicom Jump - Eiyuu Retsuden",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/famicom_jump_eiyuu_retsuden.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/famicom_jump_eiyuu_retsuden.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "famicom_jump_eiyuu_retsuden.nes"
-  },
-  {
    "id": "nes-fantasy_zone",
    "name": "Fantasy Zone",
    "console": "nes",
@@ -13357,28 +12444,6 @@
    "fileName": "fester_s_quest.nes"
   },
   {
-   "id": "nes-field_combat",
-   "name": "Field Combat",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/field_combat.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/field_combat.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "field_combat.nes"
-  },
-  {
-   "id": "nes-fighting_road",
-   "name": "Fighting Road",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/fighting_road.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/fighting_road.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "fighting_road.nes"
-  },
-  {
    "id": "nes-final_fantasy",
    "name": "Final Fantasy",
    "console": "nes",
@@ -13401,28 +12466,6 @@
    "fileName": "final_fantasy_ii.nes"
   },
   {
-   "id": "nes-final_fantasy_iii",
-   "name": "Final Fantasy III",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/final_fantasy_iii.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/final_fantasy_iii.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "final_fantasy_iii.nes"
-  },
-  {
-   "id": "nes-final_fight_3",
-   "name": "Final Fight 3",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/final_fight_3.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/final_fight_3.webp",
-   "description": "",
-   "size": "768 KB",
-   "category": "",
-   "fileName": "final_fight_3.nes"
-  },
-  {
    "id": "nes-fire_n_ice",
    "name": "Fire 'n Ice",
    "console": "nes",
@@ -13432,17 +12475,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "fire_n_ice.nes"
-  },
-  {
-   "id": "nes-fire_emblem_ankoku_ryuu_to_hikari_no_tsurugi",
-   "name": "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/fire_emblem_ankoku_ryuu_to_hikari_no_tsurugi.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/fire_emblem_ankoku_ryuu_to_hikari_no_tsurugi.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "fire_emblem_ankoku_ryuu_to_hikari_no_tsurugi.nes"
   },
   {
    "id": "nes-fist_of_the_north_star",
@@ -13456,17 +12488,6 @@
    "fileName": "fist_of_the_north_star.nes"
   },
   {
-   "id": "nes-flappy",
-   "name": "Flappy",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/flappy.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/flappy.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "flappy.nes"
-  },
-  {
    "id": "nes-flight_of_the_intruder",
    "name": "Flight of the Intruder",
    "console": "nes",
@@ -13478,17 +12499,6 @@
    "fileName": "flight_of_the_intruder.nes"
   },
   {
-   "id": "nes-flipull_an_exciting_cube_game",
-   "name": "Flipull - An Exciting Cube Game",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/flipull_an_exciting_cube_game.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/flipull_an_exciting_cube_game.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "flipull_an_exciting_cube_game.nes"
-  },
-  {
    "id": "nes-flying_dragon_the_secret_scroll",
    "name": "Flying Dragon - The Secret Scroll",
    "console": "nes",
@@ -13498,17 +12508,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "flying_dragon_the_secret_scroll.nes"
-  },
-  {
-   "id": "nes-formation_z",
-   "name": "Formation Z",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/formation_z.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/formation_z.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "formation_z.nes"
   },
   {
    "id": "nes-formula_one_built_to_win",
@@ -13553,17 +12552,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "friday_the_13th.nes"
-  },
-  {
-   "id": "nes-front_line",
-   "name": "Front Line",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/front_line.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/front_line.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "front_line.nes"
   },
   {
    "id": "nes-g_i_joe_a_real_american_hero",
@@ -13621,72 +12609,6 @@
    "fileName": "galaxian.nes"
   },
   {
-   "id": "nes-galaxy_patrol",
-   "name": "Galaxy Patrol",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/galaxy_patrol.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/galaxy_patrol.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "galaxy_patrol.nes"
-  },
-  {
-   "id": "nes-game_party",
-   "name": "Game Party",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/game_party.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/game_party.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "game_party.nes"
-  },
-  {
-   "id": "nes-ganbare_goemon_2",
-   "name": "Ganbare Goemon 2",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ganbare_goemon_2.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ganbare_goemon_2.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "ganbare_goemon_2.nes"
-  },
-  {
-   "id": "nes-ganbare_goemon_gaiden_kieta_ougon_kiseru",
-   "name": "Ganbare Goemon Gaiden - Kieta Ougon Kiseru",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ganbare_goemon_gaiden_kieta_ougon_kiseru.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ganbare_goemon_gaiden_kieta_ougon_kiseru.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "ganbare_goemon_gaiden_kieta_ougon_kiseru.nes"
-  },
-  {
-   "id": "nes-ganbare_goemon_karakuri_douchuu",
-   "name": "Ganbare Goemon! - Karakuri Douchuu",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ganbare_goemon_karakuri_douchuu.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ganbare_goemon_karakuri_douchuu.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "ganbare_goemon_karakuri_douchuu.nes"
-  },
-  {
-   "id": "nes-garfield_a_week_of_garfield",
-   "name": "Garfield - A Week of Garfield",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/garfield_a_week_of_garfield.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/garfield_a_week_of_garfield.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "garfield_a_week_of_garfield.nes"
-  },
-  {
    "id": "nes-garry_kitchen_s_battletank",
    "name": "Garry Kitchen's Battletank",
    "console": "nes",
@@ -13718,39 +12640,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "gauntlet_ii.nes"
-  },
-  {
-   "id": "nes-geimos",
-   "name": "Geimos",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/geimos.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/geimos.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "geimos.nes"
-  },
-  {
-   "id": "nes-gekitotsu_yonku_battle",
-   "name": "Gekitotsu Yonku Battle",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/gekitotsu_yonku_battle.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/gekitotsu_yonku_battle.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "gekitotsu_yonku_battle.nes"
-  },
-  {
-   "id": "nes-getsu_fuuma_den",
-   "name": "Getsu Fuuma Den",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/getsu_fuuma_den.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/getsu_fuuma_den.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "getsu_fuuma_den.nes"
   },
   {
    "id": "nes-ghostbusters",
@@ -13852,28 +12741,6 @@
    "fileName": "gradius.nes"
   },
   {
-   "id": "nes-gradius_ii",
-   "name": "Gradius II",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/gradius_ii.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/gradius_ii.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "gradius_ii.nes"
-  },
-  {
-   "id": "nes-grand_master",
-   "name": "Grand Master",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/grand_master.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/grand_master.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "grand_master.nes"
-  },
-  {
    "id": "nes-gremlins_2_the_new_batch",
    "name": "Gremlins 2 - The New Batch",
    "console": "nes",
@@ -13927,17 +12794,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "gun_smoke.nes"
-  },
-  {
-   "id": "nes-gyrodine",
-   "name": "Gyrodine",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/gyrodine.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/gyrodine.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "gyrodine.nes"
   },
   {
    "id": "nes-gyromite",
@@ -14006,17 +12862,6 @@
    "fileName": "heavy_shreddin.nes"
   },
   {
-   "id": "nes-heracles_no_eikou_ii_titan_no_metsubou",
-   "name": "Heracles no Eikou II - Titan no Metsubou",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/heracles_no_eikou_ii_titan_no_metsubou.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/heracles_no_eikou_ii_titan_no_metsubou.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "heracles_no_eikou_ii_titan_no_metsubou.nes"
-  },
-  {
    "id": "nes-high_speed",
    "name": "High Speed",
    "console": "nes",
@@ -14026,17 +12871,6 @@
    "size": "192 KB",
    "category": "",
    "fileName": "high_speed.nes"
-  },
-  {
-   "id": "nes-hinotori_houou_hen_gaou_no_bouken",
-   "name": "Hinotori - Houou Hen - Gaou no Bouken",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/hinotori_houou_hen_gaou_no_bouken.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/hino_tori_houou_hen_gaou_no_bouken.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "hinotori_houou_hen_gaou_no_bouken.nes"
   },
   {
    "id": "nes-hogan_s_alley",
@@ -14050,39 +12884,6 @@
    "fileName": "hogan_s_alley.nes"
   },
   {
-   "id": "nes-hokuto_no_ken",
-   "name": "Hokuto no Ken",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/hokuto_no_ken.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/hokuto_no_ken.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "hokuto_no_ken.nes"
-  },
-  {
-   "id": "nes-hokuto_no_ken_3_shin_seiki_souzou_seiken_restuden",
-   "name": "Hokuto no Ken 3 - Shin Seiki Souzou Seiken Restuden",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/hokuto_no_ken_3_shin_seiki_souzou_seiken_restuden.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/hokuto_no_ken_3_shin_seiki_souzou_seiken_retsuden.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "hokuto_no_ken_3_shin_seiki_souzou_seiken_restuden.nes"
-  },
-  {
-   "id": "nes-holy_diver",
-   "name": "Holy Diver",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/holy_diver.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/holy_diver.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "holy_diver.nes"
-  },
-  {
    "id": "nes-home_alone",
    "name": "Home Alone",
    "console": "nes",
@@ -14092,17 +12893,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "home_alone.nes"
-  },
-  {
-   "id": "nes-honoo_no_toukyuuji_dodge_danpei",
-   "name": "Honoo no Toukyuuji - Dodge Danpei",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/honoo_no_toukyuuji_dodge_danpei.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/honoo_no_toukyuuji_dodge_danpei.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "honoo_no_toukyuuji_dodge_danpei.nes"
   },
   {
    "id": "nes-hook",
@@ -14160,17 +12950,6 @@
    "fileName": "hydlide.nes"
   },
   {
-   "id": "nes-i_love_softball",
-   "name": "I Love Softball",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/i_love_softball.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/i_love_softball.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "i_love_softball.nes"
-  },
-  {
    "id": "nes-ice_climber",
    "name": "Ice Climber",
    "console": "nes",
@@ -14191,17 +12970,6 @@
    "size": "40 KB",
    "category": "",
    "fileName": "ice_hockey.nes"
-  },
-  {
-   "id": "nes-idol_hakkenden",
-   "name": "Idol Hakkenden",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/idol_hakkenden.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/idol_hakkenden.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "idol_hakkenden.nes"
   },
   {
    "id": "nes-ikari_iii_the_rescue",
@@ -14235,17 +13003,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "ikari_warriors_ii_victory_road.nes"
-  },
-  {
-   "id": "nes-ikki",
-   "name": "Ikki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ikki.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ikki.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "ikki.nes"
   },
   {
    "id": "nes-image_fight",
@@ -14290,17 +13047,6 @@
    "size": "192 KB",
    "category": "",
    "fileName": "indiana_jones_and_the_temple_of_doom.nes"
-  },
-  {
-   "id": "nes-insector_x",
-   "name": "Insector X",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/insector_x.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/insector_x.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "insector_x.nes"
   },
   {
    "id": "nes-iron_tank_the_invasion_of_normandy",
@@ -14369,17 +13115,6 @@
    "fileName": "jackie_chan_s_action_kung_fu.nes"
   },
   {
-   "id": "nes-jajamaru_no_daibouken",
-   "name": "Jajamaru no Daibouken",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/jajamaru_no_daibouken.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/jajamaru_no_daibouken.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "jajamaru_no_daibouken.nes"
-  },
-  {
    "id": "nes-jaws",
    "name": "Jaws",
    "console": "nes",
@@ -14389,17 +13124,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "jaws.nes"
-  },
-  {
-   "id": "nes-jj",
-   "name": "JJ",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/jj.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/jj.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "jj.nes"
   },
   {
    "id": "nes-joe_mac_caveman_ninja",
@@ -14435,28 +13159,6 @@
    "fileName": "joust.nes"
   },
   {
-   "id": "nes-joy_mech_fight",
-   "name": "Joy Mech Fight",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/joy_mech_fight.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/joy_mech_fight.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "joy_mech_fight.nes"
-  },
-  {
-   "id": "nes-jumpin_kid_jack_to_mame_no_ki_monogatari",
-   "name": "Jumpin' Kid - Jack to Mame no Ki Monogatari",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/jumpin_kid_jack_to_mame_no_ki_monogatari.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/jumpin_kid_jack_to_mame_no_ki_monogatari.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "jumpin_kid_jack_to_mame_no_ki_monogatari.nes"
-  },
-  {
    "id": "nes-jurassic_park",
    "name": "Jurassic Park",
    "console": "nes",
@@ -14466,28 +13168,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "jurassic_park.nes"
-  },
-  {
-   "id": "nes-just_breed",
-   "name": "Just Breed",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/just_breed.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/just_breed.webp",
-   "description": "",
-   "size": "768 KB",
-   "category": "",
-   "fileName": "just_breed.nes"
-  },
-  {
-   "id": "nes-juuouki",
-   "name": "Juuouki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/juuouki.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/juuouki.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "juuouki.nes"
   },
   {
    "id": "nes-kabuki_quantum_fighter",
@@ -14501,28 +13181,6 @@
    "fileName": "kabuki_quantum_fighter.nes"
   },
   {
-   "id": "nes-kaiketsu_yancha_maru_2_karakuri_land",
-   "name": "Kaiketsu Yancha Maru 2 - Karakuri Land",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kaiketsu_yancha_maru_2_karakuri_land.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kaiketsu_yancha_maru_2_karakuri_land.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kaiketsu_yancha_maru_2_karakuri_land.nes"
-  },
-  {
-   "id": "nes-kaiketsu_yancha_maru_3_taiketsu_zouringen",
-   "name": "Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kaiketsu_yancha_maru_3_taiketsu_zouringen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kaiketsu_yancha_maru_3_taiketsu_zouringen.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kaiketsu_yancha_maru_3_taiketsu_zouringen.nes"
-  },
-  {
    "id": "nes-karate_champ",
    "name": "Karate Champ",
    "console": "nes",
@@ -14534,17 +13192,6 @@
    "fileName": "karate_champ.nes"
   },
   {
-   "id": "nes-karateka",
-   "name": "Karateka",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/karateka.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/karateka.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "karateka.nes"
-  },
-  {
    "id": "nes-karnov",
    "name": "Karnov",
    "console": "nes",
@@ -14554,50 +13201,6 @@
    "size": "192 KB",
    "category": "",
    "fileName": "karnov.nes"
-  },
-  {
-   "id": "nes-kero_kero_keroppi_no_daibouken",
-   "name": "Kero Kero Keroppi no Daibouken",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kero_kero_keroppi_no_daibouken.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kero_kero_keroppi_no_daibouken.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "kero_kero_keroppi_no_daibouken.nes"
-  },
-  {
-   "id": "nes-kero_kero_keroppi_no_daibouken_2_donuts_ike_wa_oosawagi",
-   "name": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kero_kero_keroppi_no_daibouken_2_donuts_ike_wa_oosawagi.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kero_kero_keroppi_no_daibouken_2_donuts_ike_wa_oosawagi.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kero_kero_keroppi_no_daibouken_2_donuts_ike_wa_oosawagi.nes"
-  },
-  {
-   "id": "nes-keroppi_to_keroriinu_no_splash_bomb",
-   "name": "Keroppi to Keroriinu no Splash Bomb!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/keroppi_to_keroriinu_no_splash_bomb.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/keroppi_to_keroriinu_no_splash_bomb.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "keroppi_to_keroriinu_no_splash_bomb.nes"
-  },
-  {
-   "id": "nes-ki_no_bouken_the_quest_of_ki",
-   "name": "Ki no Bouken - The Quest of Ki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ki_no_bouken_the_quest_of_ki.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ki_no_bouken_the_quest_of_ki.webp",
-   "description": "",
-   "size": "192 KB",
-   "category": "",
-   "fileName": "ki_no_bouken_the_quest_of_ki.nes"
   },
   {
    "id": "nes-kick_master",
@@ -14642,17 +13245,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "kid_niki_radical_ninja.nes"
-  },
-  {
-   "id": "nes-king_kong_2_ikari_no_megaton_punch",
-   "name": "King Kong 2 - Ikari no Megaton Punch",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/king_kong_2_ikari_no_megaton_punch.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/king_kong_2_ikari_no_megaton_punch.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "king_kong_2_ikari_no_megaton_punch.nes"
   },
   {
    "id": "nes-king_neptune_s_adventure",
@@ -14721,17 +13313,6 @@
    "fileName": "konami_hyper_soccer.nes"
   },
   {
-   "id": "nes-kouryuu_densetsu_villgust_gaiden",
-   "name": "Kouryuu Densetsu Villgust Gaiden",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kouryuu_densetsu_villgust_gaiden.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kouryuu_densetsu_villgust_gaiden.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "kouryuu_densetsu_villgust_gaiden.nes"
-  },
-  {
    "id": "nes-krusty_s_fun_house",
    "name": "Krusty's Fun House",
    "console": "nes",
@@ -14765,50 +13346,6 @@
    "fileName": "kung_fu_heroes.nes"
   },
   {
-   "id": "nes-kunio_kun_no_nekketsu_soccer_league",
-   "name": "Kunio-kun no Nekketsu Soccer League",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kunio_kun_no_nekketsu_soccer_league.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kunio_kun_no_nekketsu_soccer_league.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kunio_kun_no_nekketsu_soccer_league.nes"
-  },
-  {
-   "id": "nes-kyouryuu_sentai_zyuranger",
-   "name": "Kyouryuu Sentai Zyuranger",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/kyouryuu_sentai_zyuranger.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kyouryuu_sentai_zyuranger.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "kyouryuu_sentai_zyuranger.nes"
-  },
-  {
-   "id": "nes-lagrange_point",
-   "name": "Lagrange Point",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/lagrange_point.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/lagrange_point.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "lagrange_point.nes"
-  },
-  {
-   "id": "nes-lasalle_ishii_no_child_s_quest",
-   "name": "Lasalle Ishii no Child's Quest",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/lasalle_ishii_no_child_s_quest.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/lasalle_ishii_no_child_s_quest.webp",
-   "description": "",
-   "size": "192 KB",
-   "category": "",
-   "fileName": "lasalle_ishii_no_child_s_quest.nes"
-  },
-  {
    "id": "nes-laser_invasion",
    "name": "Laser Invasion",
    "console": "nes",
@@ -14818,17 +13355,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "laser_invasion.nes"
-  },
-  {
-   "id": "nes-layla",
-   "name": "Layla",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/layla.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/layla.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "layla.nes"
   },
   {
    "id": "nes-legacy_of_the_wizard",
@@ -14941,17 +13467,6 @@
    "fileName": "loopz.nes"
   },
   {
-   "id": "nes-lot_lot",
-   "name": "Lot Lot",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/lot_lot.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/lot_lot.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "lot_lot.nes"
-  },
-  {
    "id": "nes-low_g_man_the_low_gravity_man",
    "name": "Low G Man - The Low Gravity Man",
    "console": "nes",
@@ -14963,17 +13478,6 @@
    "fileName": "low_g_man_the_low_gravity_man.nes"
   },
   {
-   "id": "nes-lunar_ball",
-   "name": "Lunar Ball",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/lunar_ball.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/lunar_ball.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "lunar_ball.nes"
-  },
-  {
    "id": "nes-lunar_pool",
    "name": "Lunar Pool",
    "console": "nes",
@@ -14983,17 +13487,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "lunar_pool.nes"
-  },
-  {
-   "id": "nes-lupin_sansei_pandora_no_isan",
-   "name": "Lupin Sansei - Pandora no Isan",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/lupin_sansei_pandora_no_isan.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/lupin_sansei_pandora_no_isan.webp",
-   "description": "",
-   "size": "192 KB",
-   "category": "",
-   "fileName": "lupin_sansei_pandora_no_isan.nes"
   },
   {
    "id": "nes-mach_rider",
@@ -15016,17 +13509,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "magic_darts.nes"
-  },
-  {
-   "id": "nes-magic_john",
-   "name": "Magic John",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/magic_john.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/magic_john.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "magic_john.nes"
   },
   {
    "id": "nes-magmax",
@@ -15194,17 +13676,6 @@
    "fileName": "megaman_vi.nes"
   },
   {
-   "id": "nes-megaman_vi_rockman_6_shijou_saidai_no_tatakai",
-   "name": "Megaman VI - Rockman 6 - Shijou Saidai no Tatakai!!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/megaman_vi_rockman_6_shijou_saidai_no_tatakai.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/rockman_6_shijou_saidai_no_tatakai.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "megaman_vi_rockman_6_shijou_saidai_no_tatakai.nes"
-  },
-  {
    "id": "nes-mendel_palace",
    "name": "Mendel Palace",
    "console": "nes",
@@ -15214,17 +13685,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "mendel_palace.nes"
-  },
-  {
-   "id": "nes-metal_force",
-   "name": "Metal Force",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/metal_force.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/metal_force.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "metal_force.nes"
   },
   {
    "id": "nes-metal_gear",
@@ -15238,17 +13698,6 @@
    "fileName": "metal_gear.nes"
   },
   {
-   "id": "nes-metal_slader_glory",
-   "name": "Metal Slader Glory",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/metal_slader_glory.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/metal_slader_glory.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "metal_slader_glory.nes"
-  },
-  {
    "id": "nes-metal_storm",
    "name": "Metal Storm",
    "console": "nes",
@@ -15258,17 +13707,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "metal_storm.nes"
-  },
-  {
-   "id": "nes-metro_cross",
-   "name": "Metro-Cross",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/metro_cross.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/metro_cross.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "metro_cross.nes"
   },
   {
    "id": "nes-metroid",
@@ -15359,28 +13797,6 @@
    "fileName": "milon_s_secret_castle.nes"
   },
   {
-   "id": "nes-mini_putt",
-   "name": "Mini Putt",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mini_putt.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/mini_putt.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "mini_putt.nes"
-  },
-  {
-   "id": "nes-miracle_ropit_s_2100_nen_no_daibouken",
-   "name": "Miracle Ropit's - 2100 Nen no Daibouken",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/miracle_ropit_s_2100_nen_no_daibouken.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/miracle_ropit_s_2100_nen_no_daibouken.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "miracle_ropit_s_2100_nen_no_daibouken.nes"
-  },
-  {
    "id": "nes-mission_cobra",
    "name": "Mission Cobra",
    "console": "nes",
@@ -15401,50 +13817,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "mission_impossible.nes"
-  },
-  {
-   "id": "nes-mitsume_ga_tooru",
-   "name": "Mitsume ga Tooru",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mitsume_ga_tooru.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/mitsume_ga_tooru.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "mitsume_ga_tooru.nes"
-  },
-  {
-   "id": "nes-moai_kun",
-   "name": "Moai-kun",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/moai_kun.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/moai_kun.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "moai_kun.nes"
-  },
-  {
-   "id": "nes-mobile_suit_z_gundam_hot_scramble",
-   "name": "Mobile Suit Z Gundam - Hot Scramble",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mobile_suit_z_gundam_hot_scramble.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/mobile_suit_z_gundam_hot_scramble.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "mobile_suit_z_gundam_hot_scramble.nes"
-  },
-  {
-   "id": "nes-moero_juudou_warriors",
-   "name": "Moero!! Juudou Warriors",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/moero_juudou_warriors.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/moero_juudou_warriors.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "moero_juudou_warriors.nes"
   },
   {
    "id": "nes-monopoly",
@@ -15491,17 +13863,6 @@
    "fileName": "monster_truck_rally.nes"
   },
   {
-   "id": "nes-moon_crystal",
-   "name": "Moon Crystal",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/moon_crystal.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/moon_crystal.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "moon_crystal.nes"
-  },
-  {
    "id": "nes-moon_ranger",
    "name": "Moon Ranger",
    "console": "nes",
@@ -15513,17 +13874,6 @@
    "fileName": "moon_ranger.nes"
   },
   {
-   "id": "nes-motocross_champion",
-   "name": "Motocross Champion",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/motocross_champion.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/motocross_champion.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "motocross_champion.nes"
-  },
-  {
    "id": "nes-motorcity_patrol",
    "name": "MotorCity Patrol",
    "console": "nes",
@@ -15533,17 +13883,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "motorcity_patrol.nes"
-  },
-  {
-   "id": "nes-mottomo_abunai_deka",
-   "name": "Mottomo Abunai Deka",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/mottomo_abunai_deka.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/mottomo_abunai_deka.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "mottomo_abunai_deka.nes"
   },
   {
    "id": "nes-ms_pac_man",
@@ -15579,17 +13918,6 @@
    "fileName": "mystery_quest.nes"
   },
   {
-   "id": "nes-nangoku_shirei_spy_vs_spy",
-   "name": "Nangoku Shirei!! - Spy vs Spy",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/nangoku_shirei_spy_vs_spy.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/nangoku_shirei_spy_vs_spy.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "nangoku_shirei_spy_vs_spy.nes"
-  },
-  {
    "id": "nes-narc",
    "name": "NARC",
    "console": "nes",
@@ -15599,17 +13927,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "narc.nes"
-  },
-  {
-   "id": "nes-nekketsu_street_basket_ganbare_dunk_heroes",
-   "name": "Nekketsu! Street Basket - Ganbare Dunk Heroes",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/nekketsu_street_basket_ganbare_dunk_heroes.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/nekketsu_street_basket_ganbare_dunk_heroes.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "nekketsu_street_basket_ganbare_dunk_heroes.nes"
   },
   {
    "id": "nes-new_ghostbusters_ii",
@@ -15645,17 +13962,6 @@
    "fileName": "ninja_crusaders.nes"
   },
   {
-   "id": "nes-ninja_crusaders_ryuuga",
-   "name": "Ninja Crusaders - Ryuuga",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ninja_crusaders_ryuuga.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ninja_crusaders_ryuuga.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "ninja_crusaders_ryuuga.nes"
-  },
-  {
    "id": "nes-ninja_gaiden",
    "name": "Ninja Gaiden",
    "console": "nes",
@@ -15689,28 +13995,6 @@
    "fileName": "ninja_gaiden_iii_the_ancient_ship_of_doom.nes"
   },
   {
-   "id": "nes-ninja_hattori_kun_ninja_wa_syugyou_de_gozaru",
-   "name": "Ninja Hattori-kun - Ninja wa Syugyou de Gozaru",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ninja_hattori_kun_ninja_wa_syugyou_de_gozaru.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ninja_hattori_kun_ninja_wa_syugyou_de_gozaru_no_maki.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "ninja_hattori_kun_ninja_wa_syugyou_de_gozaru.nes"
-  },
-  {
-   "id": "nes-ninja_jajamaru_ginga_daisakusen",
-   "name": "Ninja Jajamaru - Ginga Daisakusen",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ninja_jajamaru_ginga_daisakusen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ninja_jajamaru_ginga_daisakusen.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "ninja_jajamaru_ginga_daisakusen.nes"
-  },
-  {
    "id": "nes-ninja_kid",
    "name": "Ninja Kid",
    "console": "nes",
@@ -15720,17 +14004,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "ninja_kid.nes"
-  },
-  {
-   "id": "nes-ninja_kun_majou_no_bouken",
-   "name": "Ninja-kun - Majou no Bouken",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ninja_kun_majou_no_bouken.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ninja_kun_majou_no_bouken.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "ninja_kun_majou_no_bouken.nes"
   },
   {
    "id": "nes-nintendo_world_cup",
@@ -15764,28 +14037,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "north_and_south.nes"
-  },
-  {
-   "id": "nes-nuts_milk",
-   "name": "Nuts & Milk",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/nuts_milk.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/nuts_milk.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "nuts_milk.nes"
-  },
-  {
-   "id": "nes-onyanko_town",
-   "name": "Onyanko Town",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/onyanko_town.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/onyanko_town.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "onyanko_town.nes"
   },
   {
    "id": "nes-operation_secret_storm",
@@ -15865,17 +14116,6 @@
    "fileName": "paaman_enban_wo_torikaese.nes"
   },
   {
-   "id": "nes-paaman_part_2_himitsu_kessha_madoodan_wo_taose",
-   "name": "Paaman Part 2 - Himitsu Kessha Madoodan wo Taose!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/paaman_part_2_himitsu_kessha_madoodan_wo_taose.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/perman_part_2_himitsu_kessha_madoodan_o_taose.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "paaman_part_2_himitsu_kessha_madoodan_wo_taose.nes"
-  },
-  {
    "id": "nes-pac_land",
    "name": "Pac-Land",
    "console": "nes",
@@ -15942,17 +14182,6 @@
    "fileName": "paperboy_2.nes"
   },
   {
-   "id": "nes-paris_dakar_rally_special",
-   "name": "Paris-Dakar Rally Special",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/paris_dakar_rally_special.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/paris_dakar_rally_special.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "paris_dakar_rally_special.nes"
-  },
-  {
    "id": "nes-parodius",
    "name": "Parodius",
    "console": "nes",
@@ -15962,50 +14191,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "parodius.nes"
-  },
-  {
-   "id": "nes-parodius_da",
-   "name": "Parodius da!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/parodius_da.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/parodius_da.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "parodius_da.nes"
-  },
-  {
-   "id": "nes-peepar_time",
-   "name": "Peepar Time",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/peepar_time.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/peepar_time.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "peepar_time.nes"
-  },
-  {
-   "id": "nes-penguin_kun_wars",
-   "name": "Penguin-kun Wars",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/penguin_kun_wars.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/penguin_kun_wars.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "penguin_kun_wars.nes"
-  },
-  {
-   "id": "nes-perman_part_2_himitsu_kessha_madoodan_o_taose",
-   "name": "Perman Part 2 - Himitsu Kessha Madoodan o Taose!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/perman_part_2_himitsu_kessha_madoodan_o_taose.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/perman_part_2_himitsu_kessha_madoodan_o_taose.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "perman_part_2_himitsu_kessha_madoodan_o_taose.nes"
   },
   {
    "id": "nes-pesterminator_the_western_exterminator",
@@ -16074,17 +14259,6 @@
    "fileName": "pipe_dream.nes"
   },
   {
-   "id": "nes-pizza_pop",
-   "name": "Pizza Pop!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/pizza_pop.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/pizza_pop.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "pizza_pop.nes"
-  },
-  {
    "id": "nes-platoon",
    "name": "Platoon",
    "console": "nes",
@@ -16094,17 +14268,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "platoon.nes"
-  },
-  {
-   "id": "nes-pooyan",
-   "name": "Pooyan",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/pooyan.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/pooyan.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "pooyan.nes"
   },
   {
    "id": "nes-popeye",
@@ -16140,28 +14303,6 @@
    "fileName": "power_blade_2.nes"
   },
   {
-   "id": "nes-power_blazer",
-   "name": "Power Blazer",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/power_blazer.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/power_blazer.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "power_blazer.nes"
-  },
-  {
-   "id": "nes-power_soccer",
-   "name": "Power Soccer",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/power_soccer.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/power_soccer.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "power_soccer.nes"
-  },
-  {
    "id": "nes-predator",
    "name": "Predator",
    "console": "nes",
@@ -16193,17 +14334,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "puss_n_boots_pero_s_great_adventure.nes"
-  },
-  {
-   "id": "nes-puyo_puyo",
-   "name": "Puyo Puyo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/puyo_puyo.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/puyo_puyo.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "puyo_puyo.nes"
   },
   {
    "id": "nes-puzznic",
@@ -16248,17 +14378,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "qix.nes"
-  },
-  {
-   "id": "nes-quarth",
-   "name": "Quarth",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/quarth.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/quarth.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "quarth.nes"
   },
   {
    "id": "nes-r_c_pro_am",
@@ -16325,17 +14444,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "raid_on_bungeling_bay.nes"
-  },
-  {
-   "id": "nes-rainbow_islands_the_story_of_bubble_bobble_2",
-   "name": "Rainbow Islands - The Story of Bubble Bobble 2",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/rainbow_islands_the_story_of_bubble_bobble_2.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/rainbow_islands_the_story_of_bubble_bobble_2.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "rainbow_islands_the_story_of_bubble_bobble_2.nes"
   },
   {
    "id": "nes-rally_bike",
@@ -16435,17 +14543,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "robo_warrior.nes"
-  },
-  {
-   "id": "nes-robocco_wars",
-   "name": "Robocco Wars",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/robocco_wars.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/robocco_wars.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "robocco_wars.nes"
   },
   {
    "id": "nes-robocop",
@@ -16569,72 +14666,6 @@
    "fileName": "rygar.nes"
   },
   {
-   "id": "nes-saint_seiya_ougon_densetsu",
-   "name": "Saint Seiya Ougon Densetsu",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/saint_seiya_ougon_densetsu.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/saint_seiya_ougon_densetsu.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "saint_seiya_ougon_densetsu.nes"
-  },
-  {
-   "id": "nes-saiyuuki_world",
-   "name": "Saiyuuki World",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/saiyuuki_world.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/saiyuuki_world.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "saiyuuki_world.nes"
-  },
-  {
-   "id": "nes-sakigake_otoko_juku_shippuu_ichi_gou_sei",
-   "name": "Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sakigake_otoko_juku_shippuu_ichi_gou_sei.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/sakigake_otoko_juku_shippuu_ichi_gou_sei.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "sakigake_otoko_juku_shippuu_ichi_gou_sei.nes"
-  },
-  {
-   "id": "nes-sd_gundam_gachapon_senshi_2_capsule_senki",
-   "name": "SD Gundam - Gachapon Senshi 2 - Capsule Senki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sd_gundam_gachapon_senshi_2_capsule_senki.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/sd_gundam_gachapon_senshi_2_capsule_senki.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "sd_gundam_gachapon_senshi_2_capsule_senki.nes"
-  },
-  {
-   "id": "nes-sd_gundam_gachapon_senshi_3_eiyuu_senki",
-   "name": "SD Gundam - Gachapon Senshi 3 - Eiyuu Senki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sd_gundam_gachapon_senshi_3_eiyuu_senki.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/sd_gundam_gachapon_senshi_3_eiyuu_senki.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "sd_gundam_gachapon_senshi_3_eiyuu_senki.nes"
-  },
-  {
-   "id": "nes-sd_hero_soukessen_taose_aku_no_gundan",
-   "name": "SD Hero Soukessen - Taose! Aku no Gundan",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sd_hero_soukessen_taose_aku_no_gundan.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/sd_hero_soukessen_taose_aku_no_gundan.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "sd_hero_soukessen_taose_aku_no_gundan.nes"
-  },
-  {
    "id": "nes-secret_scout_in_the_temple_of_demise",
    "name": "Secret Scout in the Temple of Demise",
    "console": "nes",
@@ -16723,17 +14754,6 @@
    "fileName": "shooting_range.nes"
   },
   {
-   "id": "nes-shufflepuck_cafe",
-   "name": "Shufflepuck Cafe",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/shufflepuck_cafe.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/shufflepuck_cafe.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "shufflepuck_cafe.nes"
-  },
-  {
    "id": "nes-side_pocket",
    "name": "Side Pocket",
    "console": "nes",
@@ -16754,17 +14774,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "silver_surfer.nes"
-  },
-  {
-   "id": "nes-sky_destroyer",
-   "name": "Sky Destroyer",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sky_destroyer.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/sky_destroyer.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "sky_destroyer.nes"
   },
   {
    "id": "nes-sky_kid",
@@ -16886,72 +14895,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "solstice_the_quest_for_the_staff_of_demnos.nes"
-  },
-  {
-   "id": "nes-son_son",
-   "name": "Son Son",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/son_son.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/son_son.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "son_son.nes"
-  },
-  {
-   "id": "nes-space_harrier",
-   "name": "Space Harrier",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/space_harrier.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/space_harrier.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "space_harrier.nes"
-  },
-  {
-   "id": "nes-space_hunter",
-   "name": "Space Hunter",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/space_hunter.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/space_hunter.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "space_hunter.nes"
-  },
-  {
-   "id": "nes-space_invaders",
-   "name": "Space Invaders",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/space_invaders.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/space_invaders.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "space_invaders.nes"
-  },
-  {
-   "id": "nes-spartan_x",
-   "name": "Spartan X",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/spartan_x.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/spartan_x.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "spartan_x.nes"
-  },
-  {
-   "id": "nes-spartan_x_2",
-   "name": "Spartan X 2",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/spartan_x_2.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/spartan_x_2.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "spartan_x_2.nes"
   },
   {
    "id": "nes-spelunker",
@@ -17130,17 +15073,6 @@
    "fileName": "strider.nes"
   },
   {
-   "id": "nes-super_arabian",
-   "name": "Super Arabian",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/super_arabian.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/super_arabian.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "super_arabian.nes"
-  },
-  {
    "id": "nes-super_c",
    "name": "Super C",
    "console": "nes",
@@ -17172,17 +15104,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "super_dodge_ball.nes"
-  },
-  {
-   "id": "nes-super_dyna_mix_badminton",
-   "name": "Super Dyna'mix Badminton",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/super_dyna_mix_badminton.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/super_dyna_mix_badminton.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "super_dyna_mix_badminton.nes"
   },
   {
    "id": "nes-super_mario_bros",
@@ -17284,17 +15205,6 @@
    "fileName": "swamp_thing.nes"
   },
   {
-   "id": "nes-sweet_home",
-   "name": "Sweet Home",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/sweet_home.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/sweet_home.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "sweet_home.nes"
-  },
-  {
    "id": "nes-sword_master",
    "name": "Sword Master",
    "console": "nes",
@@ -17317,39 +15227,6 @@
    "fileName": "tag_team_wrestling.nes"
   },
   {
-   "id": "nes-taito_chase_h_q",
-   "name": "Taito Chase H.Q.",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/taito_chase_h_q.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/taito_chase_h_q.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "taito_chase_h_q.nes"
-  },
-  {
-   "id": "nes-taiyou_no_yuusha_firebird",
-   "name": "Taiyou no Yuusha Firebird",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/taiyou_no_yuusha_firebird.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/taiyou_no_yuusha_fighbird.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "taiyou_no_yuusha_firebird.nes"
-  },
-  {
-   "id": "nes-takahashi_meijin_no_bugutte_honey",
-   "name": "Takahashi Meijin no Bugutte Honey",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/takahashi_meijin_no_bugutte_honey.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/takahashi_meijin_no_bugutte_honey.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "takahashi_meijin_no_bugutte_honey.nes"
-  },
-  {
    "id": "nes-talespin",
    "name": "TaleSpin",
    "console": "nes",
@@ -17370,17 +15247,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "target_renegade.nes"
-  },
-  {
-   "id": "nes-tashiro_masashi_no_princess_ga_ippai",
-   "name": "Tashiro Masashi no Princess ga Ippai",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/tashiro_masashi_no_princess_ga_ippai.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/tashiro_masashi_no_princess_ga_ippai.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "tashiro_masashi_no_princess_ga_ippai.nes"
   },
   {
    "id": "nes-tecmo_world_cup_soccer",
@@ -17471,17 +15337,6 @@
    "fileName": "terra_cresta.nes"
   },
   {
-   "id": "nes-tetrastar_the_fighter",
-   "name": "Tetrastar - The Fighter",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/tetrastar_the_fighter.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/tetrastar_the_fighter.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "tetrastar_the_fighter.nes"
-  },
-  {
    "id": "nes-tetris",
    "name": "Tetris",
    "console": "nes",
@@ -17491,17 +15346,6 @@
    "size": "48 KB",
    "category": "",
    "fileName": "tetris.nes"
-  },
-  {
-   "id": "nes-tetsudou_ou_famicom_boardgame",
-   "name": "Tetsudou Ou - Famicom Boardgame",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/tetsudou_ou_famicom_boardgame.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/tetsudou_ou_famicom_boardgame.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "tetsudou_ou_famicom_boardgame.nes"
   },
   {
    "id": "nes-the_addams_family",
@@ -17823,17 +15667,6 @@
    "fileName": "the_lone_ranger.nes"
   },
   {
-   "id": "nes-the_lord_of_king",
-   "name": "The Lord of King",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/the_lord_of_king.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/lord_of_king_the.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "the_lord_of_king.nes"
-  },
-  {
    "id": "nes-the_magic_of_scheherazade",
    "name": "The Magic of Scheherazade",
    "console": "nes",
@@ -17977,17 +15810,6 @@
    "fileName": "the_young_indiana_jones_chronicles.nes"
   },
   {
-   "id": "nes-thexder",
-   "name": "Thexder",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/thexder.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/thexder.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "thexder.nes"
-  },
-  {
    "id": "nes-thunder_lightning",
    "name": "Thunder & Lightning",
    "console": "nes",
@@ -18054,17 +15876,6 @@
    "fileName": "time_lord.nes"
   },
   {
-   "id": "nes-time_zone",
-   "name": "Time Zone",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/time_zone.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/time_zone.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "time_zone.nes"
-  },
-  {
    "id": "nes-tiny_toon_adventures",
    "name": "Tiny Toon Adventures",
    "console": "nes",
@@ -18107,17 +15918,6 @@
    "size": "384 KB",
    "category": "",
    "fileName": "toki.nes"
-  },
-  {
-   "id": "nes-tom_jerry",
-   "name": "Tom & Jerry",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/tom_jerry.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/tom_jerry.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "tom_jerry.nes"
   },
   {
    "id": "nes-tombs_treasure",
@@ -18173,17 +15973,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "totally_rad.nes"
-  },
-  {
-   "id": "nes-totsuzen_macchoman",
-   "name": "Totsuzen! Macchoman",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/totsuzen_macchoman.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/totsuzen_macchoman.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "totsuzen_macchoman.nes"
   },
   {
    "id": "nes-town_country_surf_designs_thrilla_s_surfari",
@@ -18252,39 +16041,6 @@
    "fileName": "twin_cobra.nes"
   },
   {
-   "id": "nes-twin_eagle_revenge_joe_s_brother",
-   "name": "Twin Eagle - Revenge Joe's Brother",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/twin_eagle_revenge_joe_s_brother.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/twin_eagle_revenge_joe_s_brother.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "twin_eagle_revenge_joe_s_brother.nes"
-  },
-  {
-   "id": "nes-twinbee",
-   "name": "TwinBee",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/twinbee.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/twinbee.webp",
-   "description": "",
-   "size": "48 KB",
-   "category": "",
-   "fileName": "twinbee.nes"
-  },
-  {
-   "id": "nes-twinbee_3_poko_poko_dai_maou",
-   "name": "TwinBee 3 - Poko Poko Dai Maou",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/twinbee_3_poko_poko_dai_maou.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/twinbee_3_poko_poko_daimaou.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "twinbee_3_poko_poko_dai_maou.nes"
-  },
-  {
    "id": "nes-u_four_ia_the_saga",
    "name": "U-four-ia - The Saga",
    "console": "nes",
@@ -18296,28 +16052,6 @@
    "fileName": "u_four_ia_the_saga.nes"
   },
   {
-   "id": "nes-uchuu_keibitai_sdf",
-   "name": "Uchuu Keibitai SDF",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/uchuu_keibitai_sdf.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/uchuu_keibitai_sdf.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "uchuu_keibitai_sdf.nes"
-  },
-  {
-   "id": "nes-ultraman_club_kaijuu_daikessen",
-   "name": "Ultraman Club - Kaijuu Daikessen!!",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ultraman_club_kaijuu_daikessen.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ultraman_club_kaijuu_daikessen.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "ultraman_club_kaijuu_daikessen.nes"
-  },
-  {
    "id": "nes-urban_champion",
    "name": "Urban Champion",
    "console": "nes",
@@ -18327,39 +16061,6 @@
    "size": "24 KB",
    "category": "",
    "fileName": "urban_champion.nes"
-  },
-  {
-   "id": "nes-urusei_yatsura_lum_no_wedding_bell",
-   "name": "Urusei Yatsura - Lum no Wedding Bell",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/urusei_yatsura_lum_no_wedding_bell.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/urusei_yatsura_lum_no_wedding_bell.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "urusei_yatsura_lum_no_wedding_bell.nes"
-  },
-  {
-   "id": "nes-valkyrie_no_bouken_toki_no_kagi_densetsu",
-   "name": "Valkyrie no Bouken - Toki no Kagi Densetsu",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/valkyrie_no_bouken_toki_no_kagi_densetsu.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/valkyrie_no_bouken_toki_no_kagi_densetsu.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "valkyrie_no_bouken_toki_no_kagi_densetsu.nes"
-  },
-  {
-   "id": "nes-volguard_ii",
-   "name": "Volguard II",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/volguard_ii.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/volguard_ii.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "volguard_ii.nes"
   },
   {
    "id": "nes-volleyball",
@@ -18382,61 +16083,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "wacky_races.nes"
-  },
-  {
-   "id": "nes-wagyan_land",
-   "name": "Wagyan Land",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/wagyan_land.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/wagyan_land.webp",
-   "description": "",
-   "size": "192 KB",
-   "category": "",
-   "fileName": "wagyan_land.nes"
-  },
-  {
-   "id": "nes-wagyan_land_2",
-   "name": "Wagyan Land 2",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/wagyan_land_2.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/wagyan_land_2.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "wagyan_land_2.nes"
-  },
-  {
-   "id": "nes-wai_wai_world",
-   "name": "Wai Wai World",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/wai_wai_world.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/wai_wai_world.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "wai_wai_world.nes"
-  },
-  {
-   "id": "nes-wai_wai_world_2_sos_paseri_jou",
-   "name": "Wai Wai World 2 - SOS!! Paseri Jou",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/wai_wai_world_2_sos_paseri_jou.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/wai_wai_world_2_sos_paseri_jou.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "wai_wai_world_2_sos_paseri_jou.nes"
-  },
-  {
-   "id": "nes-warpman",
-   "name": "Warpman",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/warpman.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/warpman.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "warpman.nes"
   },
   {
    "id": "nes-wayne_s_world",
@@ -18637,17 +16283,6 @@
    "fileName": "xexyz.nes"
   },
   {
-   "id": "nes-yie_ar_kung_fu",
-   "name": "Yie Ar Kung-Fu",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/yie_ar_kung_fu.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/yie_ar_kung_fu.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "yie_ar_kung_fu.nes"
-  },
-  {
    "id": "nes-yo_noid",
    "name": "Yo! Noid",
    "console": "nes",
@@ -18657,61 +16292,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "yo_noid.nes"
-  },
-  {
-   "id": "nes-yo_noid_kamen_no_ninja_hanamaru",
-   "name": "Yo! Noid - Kamen no Ninja - Hanamaru",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/yo_noid_kamen_no_ninja_hanamaru.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/kamen_no_ninja_hanamaru.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "yo_noid_kamen_no_ninja_hanamaru.nes"
-  },
-  {
-   "id": "nes-youkai_club",
-   "name": "Youkai Club",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/youkai_club.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/youkai_club.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "youkai_club.nes"
-  },
-  {
-   "id": "nes-youkai_douchuuki",
-   "name": "Youkai Douchuuki",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/youkai_douchuuki.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/youkai_douchuuki.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "youkai_douchuuki.nes"
-  },
-  {
-   "id": "nes-ys",
-   "name": "Ys",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ys.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ys.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "ys.nes"
-  },
-  {
-   "id": "nes-ys_ii_ancient_ys_vanished_the_final_chapter",
-   "name": "Ys II - Ancient Ys Vanished - The Final Chapter",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/ys_ii_ancient_ys_vanished_the_final_chapter.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/ys_ii_ancient_ys_vanished_the_final_chapter.webp",
-   "description": "",
-   "size": "384 KB",
-   "category": "",
-   "fileName": "ys_ii_ancient_ys_vanished_the_final_chapter.nes"
   },
   {
    "id": "nes-zanac",
@@ -18747,28 +16327,6 @@
    "fileName": "zen_intergalactic_ninja.nes"
   },
   {
-   "id": "nes-zippy_race",
-   "name": "Zippy Race",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/zippy_race.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/zippy_race.webp",
-   "description": "",
-   "size": "24 KB",
-   "category": "",
-   "fileName": "zippy_race.nes"
-  },
-  {
-   "id": "nes-zombie_hunter",
-   "name": "Zombie Hunter",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/zombie_hunter.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/zombie_hunter.webp",
-   "description": "",
-   "size": "160 KB",
-   "category": "",
-   "fileName": "zombie_hunter.nes"
-  },
-  {
    "id": "nes-zombie_nation",
    "name": "Zombie Nation",
    "console": "nes",
@@ -18778,17 +16336,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "zombie_nation.nes"
-  },
-  {
-   "id": "nes-zunou_senkan_galg",
-   "name": "Zunou Senkan Galg",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/zunou_senkan_galg.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/zunou_senkan_galg.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "zunou_senkan_galg.nes"
   },
   {
    "id": "snes-3_ninjas_kick_back",
@@ -18811,17 +16358,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "aaahh_real_monsters.sfc"
-  },
-  {
-   "id": "snes-ace_o_nerae",
-   "name": "Ace o Nerae!",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ace_o_nerae.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ace_o_nerae.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "ace_o_nerae.sfc"
   },
   {
    "id": "snes-actraiser",
@@ -18945,17 +16481,6 @@
    "fileName": "american_tail_an_fievel_goes_west.sfc"
   },
   {
-   "id": "snes-ancient_magic_bazoo_mahou_sekai",
-   "name": "Ancient Magic - Bazoo! Mahou Sekai",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ancient_magic_bazoo_mahou_sekai.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ancient_magic_bazoe_mahou_sekai.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "ancient_magic_bazoo_mahou_sekai.smc"
-  },
-  {
    "id": "snes-animaniacs",
    "name": "Animaniacs",
    "console": "snes",
@@ -18989,17 +16514,6 @@
    "fileName": "arkanoid_doh_it_again.smc"
   },
   {
-   "id": "snes-ashita_no_joe",
-   "name": "Ashita No Joe",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ashita_no_joe.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ashita_no_joe.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "ashita_no_joe.sfc"
-  },
-  {
    "id": "snes-asterix",
    "name": "Asterix",
    "console": "snes",
@@ -19020,28 +16534,6 @@
    "size": "1.5 MB",
    "category": "",
    "fileName": "asterix_obelix.smc"
-  },
-  {
-   "id": "snes-bahamut_lagoon",
-   "name": "Bahamut Lagoon",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/bahamut_lagoon.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/bahamut_lagoon.webp",
-   "description": "",
-   "size": "8.0 MB",
-   "category": "",
-   "fileName": "bahamut_lagoon.sfc"
-  },
-  {
-   "id": "snes-bastard_ankoku_no_hakai_shin",
-   "name": "Bastard!! - Ankoku no Hakai-shin",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/bastard_ankoku_no_hakai_shin.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/bastard_ankoku_no_hakaishin.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "bastard_ankoku_no_hakai_shin.smc"
   },
   {
    "id": "snes-batman_returns",
@@ -19130,28 +16622,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "bio_metal.smc"
-  },
-  {
-   "id": "snes-bishoujo_senshi_sailor_moon_r",
-   "name": "Bishoujo Senshi Sailor Moon R",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/bishoujo_senshi_sailor_moon_r.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/bishoujo_senshi_sailor_moon_r.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "bishoujo_senshi_sailor_moon_r.sfc"
-  },
-  {
-   "id": "snes-bishoujo_senshi_sailor_moon_supers_zenin_sanka_shuyaku_soudatsusen",
-   "name": "Bishoujo Senshi Sailor Moon SuperS - Zenin Sanka!! Shuyaku Soudatsusen",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/bishoujo_senshi_sailor_moon_supers_zenin_sanka_shuyaku_soudatsusen.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/bishoujo_senshi_sailor_moon_supers_zenin_sanka_shuyaku_soudatsusen.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "bishoujo_senshi_sailor_moon_supers_zenin_sanka_shuyaku_soudatsusen.sfc"
   },
   {
    "id": "snes-black_thorne",
@@ -19363,28 +16833,6 @@
    "fileName": "captain_novolin.smc"
   },
   {
-   "id": "snes-captain_tsubasa_iv_pro_no_rival_tachi",
-   "name": "Captain Tsubasa IV - Pro no Rival Tachi",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/captain_tsubasa_iv_pro_no_rival_tachi.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/captain_tsubasa_iv_pro_no_rival_tachi.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "captain_tsubasa_iv_pro_no_rival_tachi.smc"
-  },
-  {
-   "id": "snes-captain_tsubasa_v_hasha_no_shougou_canpione",
-   "name": "Captain Tsubasa V - Hasha no Shougou Canpione",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/captain_tsubasa_v_hasha_no_shougou_canpione.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/captain_tsubasa_v_hasha_no_shougou_campione.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "captain_tsubasa_v_hasha_no_shougou_canpione.smc"
-  },
-  {
    "id": "snes-champions_world_class_soccer",
    "name": "Champions World Class Soccer",
    "console": "snes",
@@ -19528,17 +16976,6 @@
    "fileName": "cool_spot.sfc"
   },
   {
-   "id": "snes-crystal_beans_from_dungeon_explorer",
-   "name": "Crystal Beans From Dungeon Explorer",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/crystal_beans_from_dungeon_explorer.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/crystal_beans_from_dungeon_explorer.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "crystal_beans_from_dungeon_explorer.smc"
-  },
-  {
    "id": "snes-cutthroat_island",
    "name": "Cutthroat Island",
    "console": "snes",
@@ -19561,17 +16998,6 @@
    "fileName": "cybernator.smc"
   },
   {
-   "id": "snes-cyborg_009",
-   "name": "Cyborg 009",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/cyborg_009.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/cyborg_009.webp",
-   "description": "",
-   "size": "1.1 MB",
-   "category": "",
-   "fileName": "cyborg_009.sfc"
-  },
-  {
    "id": "snes-d_force",
    "name": "D-Force",
    "console": "snes",
@@ -19592,28 +17018,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "daffy_duck_the_marvin_missions.sfc"
-  },
-  {
-   "id": "snes-dai_3_ji_super_robot_taisen",
-   "name": "Dai-3-ji Super Robot Taisen",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dai_3_ji_super_robot_taisen.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/dai_3_ji_super_robot_taisen.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dai_3_ji_super_robot_taisen.sfc"
-  },
-  {
-   "id": "snes-daikaijuu_monogatari",
-   "name": "Daikaijuu Monogatari",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/daikaijuu_monogatari.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/daikaijuu_monogatari.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "daikaijuu_monogatari.sfc"
   },
   {
    "id": "snes-darius_twin",
@@ -19693,28 +17097,6 @@
    "fileName": "dirt_trax_fx.sfc"
   },
   {
-   "id": "snes-do_re_mi_fantasy_milon_no_dokidoki_daibouken",
-   "name": "Do-Re-Mi Fantasy - Milon no Dokidoki Daibouken",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/do_re_mi_fantasy_milon_no_dokidoki_daibouken.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/doremi_fantasy_milon_no_dokidoki_daibouken.webp",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "do_re_mi_fantasy_milon_no_dokidoki_daibouken.sfc"
-  },
-  {
-   "id": "snes-donald_duck_no_mahou_no_boushi",
-   "name": "Donald Duck no Mahou No Boushi",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/donald_duck_no_mahou_no_boushi.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/donald_duck_no_mahou_no_boushi.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "donald_duck_no_mahou_no_boushi.sfc"
-  },
-  {
    "id": "snes-donkey_kong_country",
    "name": "Donkey Kong Country",
    "console": "snes",
@@ -19746,17 +17128,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "doomsday_warrior.sfc"
-  },
-  {
-   "id": "snes-dossun_ganseki_battle",
-   "name": "Dossun! Ganseki Battle",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dossun_ganseki_battle.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/dossun_ganseki_battle.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "dossun_ganseki_battle.sfc"
   },
   {
    "id": "snes-double_dragon_v_the_shadow_falls",
@@ -19792,17 +17163,6 @@
    "fileName": "dragon_ball_z_hyper_dimension.smc"
   },
   {
-   "id": "snes-dragon_ball_z_super_saiya_densetsu",
-   "name": "Dragon Ball Z - Super Saiya Densetsu",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dragon_ball_z_super_saiya_densetsu.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/dragon_ball_z_super_saiya_densetsu.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "dragon_ball_z_super_saiya_densetsu.sfc"
-  },
-  {
    "id": "snes-dragon_ball_z_super_butoden",
    "name": "Dragon Ball Z Super Butoden",
    "console": "snes",
@@ -19812,28 +17172,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "dragon_ball_z_super_butoden.smc"
-  },
-  {
-   "id": "snes-dragon_quest_i_ii",
-   "name": "Dragon Quest I & II",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dragon_quest_i_ii.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/dragon_quest_i_ii.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "dragon_quest_i_ii.sfc"
-  },
-  {
-   "id": "snes-dragon_quest_iii_soshite_densetsu_e",
-   "name": "Dragon Quest III - Soshite Densetsu e...",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dragon_quest_iii_soshite_densetsu_e.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/dragon_quest_iii_soshite_densetsu_e.webp",
-   "description": "",
-   "size": "6.0 MB",
-   "category": "",
-   "fileName": "dragon_quest_iii_soshite_densetsu_e.sfc"
   },
   {
    "id": "snes-dragon_s_lair",
@@ -19856,17 +17194,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "dream_t_v.sfc"
-  },
-  {
-   "id": "snes-dual_orb_ii",
-   "name": "Dual Orb II",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/dual_orb_ii.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/dual_orb_ii.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "dual_orb_ii.sfc"
   },
   {
    "id": "snes-e_v_o_search_for_eden",
@@ -20122,83 +17449,6 @@
    "fileName": "frogger.sfc"
   },
   {
-   "id": "snes-front_mission",
-   "name": "Front Mission",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/front_mission.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/front_mission.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "front_mission.sfc"
-  },
-  {
-   "id": "snes-fushigi_no_dungeon_2_fuurai_no_shiren",
-   "name": "Fushigi no Dungeon 2 - Fuurai no Shiren",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/fushigi_no_dungeon_2_fuurai_no_shiren.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/fushigi_no_dungeon_2_fuurai_no_shiren.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "fushigi_no_dungeon_2_fuurai_no_shiren.smc"
-  },
-  {
-   "id": "snes-ganbare_goemon_2_kiteretsu_shougun_magginesu",
-   "name": "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ganbare_goemon_2_kiteretsu_shougun_magginesu.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ganbare_goemon_2_kiteretsu_shougun_magginesu.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "ganbare_goemon_2_kiteretsu_shougun_magginesu.sfc"
-  },
-  {
-   "id": "snes-ganbare_goemon_3_shishi_juurokubee_no_karakuri_manjigatame",
-   "name": "Ganbare Goemon 3 - Shishi Juurokubee no Karakuri Manjigatame",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ganbare_goemon_3_shishi_juurokubee_no_karakuri_manjigatame.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ganbare_goemon_3_shishi_juurokubee_no_karakuri_manjigatame.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "ganbare_goemon_3_shishi_juurokubee_no_karakuri_manjigatame.sfc"
-  },
-  {
-   "id": "snes-ganpuru_gunman_s_proof",
-   "name": "Ganpuru - Gunman's Proof",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ganpuru_gunman_s_proof.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ganpuru_gunman_s_proof.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "ganpuru_gunman_s_proof.sfc"
-  },
-  {
-   "id": "snes-gekitotsu_dangan_jidousha_kessen_battle_mobile",
-   "name": "Gekitotsu Dangan Jidousha Kessen - Battle Mobile",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/gekitotsu_dangan_jidousha_kessen_battle_mobile.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/gekitotsu_dangan_jidousha_kessen_battle_mobile.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "gekitotsu_dangan_jidousha_kessen_battle_mobile.sfc"
-  },
-  {
-   "id": "snes-ghost_chaser_densei",
-   "name": "Ghost Chaser Densei",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ghost_chaser_densei.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ghost_chaser_densei.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "ghost_chaser_densei.sfc"
-  },
-  {
    "id": "snes-ghoul_patrol",
    "name": "Ghoul Patrol",
    "console": "snes",
@@ -20208,17 +17458,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "ghoul_patrol.sfc"
-  },
-  {
-   "id": "snes-go_go_ackman",
-   "name": "Go Go Ackman",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/go_go_ackman.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/go_go_ackman.webp",
-   "description": "",
-   "size": "1.2 MB",
-   "category": "",
-   "fileName": "go_go_ackman.smc"
   },
   {
    "id": "snes-goof_troop",
@@ -20243,17 +17482,6 @@
    "fileName": "gradius_iii.sfc"
   },
   {
-   "id": "snes-hameln_no_violin_hiki",
-   "name": "Hameln no Violin Hiki",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/hameln_no_violin_hiki.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/hameln_no_violin_hiki.webp",
-   "description": "",
-   "size": "2.2 MB",
-   "category": "",
-   "fileName": "hameln_no_violin_hiki.sfc"
-  },
-  {
    "id": "snes-harvest_moon",
    "name": "Harvest Moon",
    "console": "snes",
@@ -20274,17 +17502,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "hebereke_s_popoon.sfc"
-  },
-  {
-   "id": "snes-holy_umbrella_dondera_no_mubou",
-   "name": "Holy Umbrella - Dondera no Mubou!!",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/holy_umbrella_dondera_no_mubou.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/holy_umbrella_dondera_no_mubou.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "holy_umbrella_dondera_no_mubou.sfc"
   },
   {
    "id": "snes-home_alone",
@@ -20331,17 +17548,6 @@
    "fileName": "hook.sfc"
   },
   {
-   "id": "snes-hourai_gakuen_no_bouken_tenkousei_scramble",
-   "name": "Hourai Gakuen no Bouken! - Tenkousei Scramble",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/hourai_gakuen_no_bouken_tenkousei_scramble.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/hourai_gakuen_no_bouken_tenkousei_scramble.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "hourai_gakuen_no_bouken_tenkousei_scramble.sfc"
-  },
-  {
    "id": "snes-hurricanes",
    "name": "Hurricanes",
    "console": "snes",
@@ -20362,17 +17568,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "hyper_v_ball.smc"
-  },
-  {
-   "id": "snes-ihatov_monogatari",
-   "name": "Ihatov Monogatari",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ihatov_monogatari.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ihatov_monogatari.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "ihatov_monogatari.sfc"
   },
   {
    "id": "snes-ilusion_of_time",
@@ -20441,17 +17636,6 @@
    "fileName": "jelly_boy.sfc"
   },
   {
-   "id": "snes-jikkyou_world_soccer_2_fighting_eleven",
-   "name": "Jikkyou World Soccer 2 - Fighting Eleven",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/jikkyou_world_soccer_2_fighting_eleven.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/jikkyou_world_soccer_2_fighting_eleven.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "jikkyou_world_soccer_2_fighting_eleven.smc"
-  },
-  {
    "id": "snes-jim_power_the_lost_dimension_in_3d",
    "name": "Jim Power - The Lost Dimension in 3D",
    "console": "snes",
@@ -20483,17 +17667,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "joe_mac_2_lost_in_the_tropics.smc"
-  },
-  {
-   "id": "snes-jojo_no_kimyou_na_bouken",
-   "name": "JoJo no Kimyou na Bouken",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/jojo_no_kimyou_na_bouken.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/jojo_no_kimyou_na_bouken.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "jojo_no_kimyou_na_bouken.sfc"
   },
   {
    "id": "snes-jrr_tolkien_s_the_lord_of_the_rings_volume_1",
@@ -20540,17 +17713,6 @@
    "fileName": "jurassic_park_part_2_the_chaos_continues.sfc"
   },
   {
-   "id": "snes-jutei_senki",
-   "name": "Jutei Senki",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/jutei_senki.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/jutei_senki.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "jutei_senki.sfc"
-  },
-  {
    "id": "snes-kendo_rage",
    "name": "Kendo Rage",
    "console": "snes",
@@ -20571,28 +17733,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "kick_off_3_european_challenge.smc"
-  },
-  {
-   "id": "snes-kidou_senshi_gundam_f91_formula_senki_0122",
-   "name": "Kidou Senshi Gundam F91 - Formula Senki 0122",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/kidou_senshi_gundam_f91_formula_senki_0122.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/kidou_senshi_gundam_f91_formula_senki_0122.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "kidou_senshi_gundam_f91_formula_senki_0122.sfc"
-  },
-  {
-   "id": "snes-kikou_keisatsu_metal_jack",
-   "name": "Kikou Keisatsu Metal Jack",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/kikou_keisatsu_metal_jack.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/kikou_keisatsu_metal_jack.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "kikou_keisatsu_metal_jack.sfc"
   },
   {
    "id": "snes-king_arthur_s_world",
@@ -20650,17 +17790,6 @@
    "fileName": "kirby_s_dream_course.sfc"
   },
   {
-   "id": "snes-kishin_douji_zenki_battle_raiden",
-   "name": "Kishin Douji Zenki - Battle Raiden",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/kishin_douji_zenki_battle_raiden.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/kishin_douji_zenki_battle_raiden.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "kishin_douji_zenki_battle_raiden.sfc"
-  },
-  {
    "id": "snes-knights_of_the_round",
    "name": "Knights of the Round",
    "console": "snes",
@@ -20670,17 +17799,6 @@
    "size": "1.5 MB",
    "category": "",
    "fileName": "knights_of_the_round.sfc"
-  },
-  {
-   "id": "snes-kouryuu_no_mimi",
-   "name": "Kouryuu no Mimi",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/kouryuu_no_mimi.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/kouryuu_no_mimi.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "kouryuu_no_mimi.sfc"
   },
   {
    "id": "snes-krusty_s_super_fun_house",
@@ -20694,17 +17812,6 @@
    "fileName": "krusty_s_super_fun_house.smc"
   },
   {
-   "id": "snes-kyuuyaku_megami_tensei",
-   "name": "Kyuuyaku Megami Tensei",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/kyuuyaku_megami_tensei.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/kyuuyaku_megami_tensei.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "kyuuyaku_megami_tensei.sfc"
-  },
-  {
    "id": "snes-lamborghini_american_challenge",
    "name": "Lamborghini American Challenge",
    "console": "snes",
@@ -20716,17 +17823,6 @@
    "fileName": "lamborghini_american_challenge.sfc"
   },
   {
-   "id": "snes-laplace_no_ma",
-   "name": "Laplace no Ma",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/laplace_no_ma.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/laplace_no_ma.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "laplace_no_ma.sfc"
-  },
-  {
    "id": "snes-last_action_hero",
    "name": "Last Action Hero",
    "console": "snes",
@@ -20736,17 +17832,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "last_action_hero.sfc"
-  },
-  {
-   "id": "snes-last_bible_iii",
-   "name": "Last Bible III",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/last_bible_iii.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/last_bible_iii.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "last_bible_iii.sfc"
   },
   {
    "id": "snes-legend",
@@ -20848,39 +17933,6 @@
    "fileName": "lufia_ii_rise_of_the_sinistrals.smc"
   },
   {
-   "id": "snes-madou_monogatari_hanamaru_daiyouchienji",
-   "name": "Madou Monogatari - Hanamaru Daiyouchienji",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/madou_monogatari_hanamaru_daiyouchienji.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/madou_monogatari_hanamaru_daiyouchienji.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "madou_monogatari_hanamaru_daiyouchienji.sfc"
-  },
-  {
-   "id": "snes-maerchen_adventure_cotton_100",
-   "name": "Maerchen Adventure Cotton 100%",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/maerchen_adventure_cotton_100.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/maerchen_adventure_cotton_100.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "maerchen_adventure_cotton_100.sfc"
-  },
-  {
-   "id": "snes-magic_knight_rayearth",
-   "name": "Magic Knight Rayearth",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/magic_knight_rayearth.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/magic_knight_rayearth.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "magic_knight_rayearth.smc"
-  },
-  {
    "id": "snes-magic_sword",
    "name": "Magic Sword",
    "console": "snes",
@@ -20890,39 +17942,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "magic_sword.sfc"
-  },
-  {
-   "id": "snes-magical_drop",
-   "name": "Magical Drop",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/magical_drop.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/magical_drop.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "magical_drop.sfc"
-  },
-  {
-   "id": "snes-magical_pop_n",
-   "name": "Magical Pop'n",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/magical_pop_n.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/magical_pop_n.webp",
-   "description": "",
-   "size": "2.1 MB",
-   "category": "",
-   "fileName": "magical_pop_n.sfc"
-  },
-  {
-   "id": "snes-majin_tensei",
-   "name": "Majin Tensei",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/majin_tensei.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/majin_tensei.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "majin_tensei.sfc"
   },
   {
    "id": "snes-marko_s_magic_football",
@@ -20945,17 +17964,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "marvel_super_heroes_war_of_the_gems.smc"
-  },
-  {
-   "id": "snes-marvelous_mouhitotsu_no_takarajima",
-   "name": "Marvelous - Mouhitotsu no Takarajima",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/marvelous_mouhitotsu_no_takarajima.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/marvelous_mouhitotsu_no_takara_jima.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "marvelous_mouhitotsu_no_takarajima.smc"
   },
   {
    "id": "snes-mary_shelley_s_frankenstein",
@@ -21057,17 +18065,6 @@
    "fileName": "mega_man_x3.smc"
   },
   {
-   "id": "snes-metal_max_returns",
-   "name": "Metal Max Returns",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/metal_max_returns.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/metal_max_returns.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "metal_max_returns.sfc"
-  },
-  {
    "id": "snes-metal_warriors",
    "name": "Metal Warriors",
    "console": "snes",
@@ -21088,17 +18085,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "mickey_mania_the_timeless_adventures_of_mickey_mouse.sfc"
-  },
-  {
-   "id": "snes-mickey_to_donald_magical_adventure_3",
-   "name": "Mickey to Donald - Magical Adventure 3",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/mickey_to_donald_magical_adventure_3.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/mickey_to_donald_magical_adventure_3.webp",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "mickey_to_donald_magical_adventure_3.sfc"
   },
   {
    "id": "snes-micro_machines",
@@ -21145,17 +18131,6 @@
    "fileName": "monopoly.smc"
   },
   {
-   "id": "snes-monstania",
-   "name": "Monstania",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/monstania.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/monstania.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "monstania.sfc"
-  },
-  {
    "id": "snes-mortal_kombat",
    "name": "Mortal Kombat",
    "console": "snes",
@@ -21200,28 +18175,6 @@
    "fileName": "musya_the_classic_japanese_tale_of_horror.sfc"
   },
   {
-   "id": "snes-nekketsu_tairiku_burning_heroes",
-   "name": "Nekketsu Tairiku Burning Heroes",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/nekketsu_tairiku_burning_heroes.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/nekketsu_tairiku_burning_heroes.webp",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "nekketsu_tairiku_burning_heroes.sfc"
-  },
-  {
-   "id": "snes-neugier_umi_to_kaze_no_kodou",
-   "name": "Neugier - Umi to Kaze no Kodou",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/neugier_umi_to_kaze_no_kodou.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/neugier_umi_to_kaze_no_kodou.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "neugier_umi_to_kaze_no_kodou.sfc"
-  },
-  {
    "id": "snes-ninja_gaiden_trilogy",
    "name": "Ninja Gaiden Trilogy",
    "console": "snes",
@@ -21231,28 +18184,6 @@
    "size": "1.5 MB",
    "category": "",
    "fileName": "ninja_gaiden_trilogy.smc"
-  },
-  {
-   "id": "snes-nishijin_pachinko_3",
-   "name": "Nishijin Pachinko 3",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/nishijin_pachinko_3.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/nishijin_pachinko_3.webp",
-   "description": "",
-   "size": "1.2 MB",
-   "category": "",
-   "fileName": "nishijin_pachinko_3.sfc"
-  },
-  {
-   "id": "snes-nishijin_pachinko_monogatari_2",
-   "name": "Nishijin Pachinko Monogatari 2",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/nishijin_pachinko_monogatari_2.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/nishijin_pachinko_monogatari_2.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "nishijin_pachinko_monogatari_2.sfc"
   },
   {
    "id": "snes-pac_in_time",
@@ -21297,17 +18228,6 @@
    "size": "1.5 MB",
    "category": "",
    "fileName": "paladin_s_quest.smc"
-  },
-  {
-   "id": "snes-panic_in_nakayoshi_world",
-   "name": "Panic in Nakayoshi World",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/panic_in_nakayoshi_world.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/panic_in_nakayoshi_world.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "panic_in_nakayoshi_world.sfc"
   },
   {
    "id": "snes-paperboy_2",
@@ -21420,17 +18340,6 @@
    "fileName": "power_moves.sfc"
   },
   {
-   "id": "snes-power_soukoban",
-   "name": "Power Soukoban",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/power_soukoban.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/power_soukoban.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "power_soukoban.sfc"
-  },
-  {
    "id": "snes-prehistorik_man",
    "name": "Prehistorik Man",
    "console": "snes",
@@ -21484,17 +18393,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "raiden_trad.sfc"
-  },
-  {
-   "id": "snes-rendering_ranger_r2",
-   "name": "Rendering Ranger R2",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/rendering_ranger_r2.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/rendering_ranger_r2.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "rendering_ranger_r2.sfc"
   },
   {
    "id": "snes-rise_of_the_robots",
@@ -21596,28 +18494,6 @@
    "fileName": "rocky_rodent.sfc"
   },
   {
-   "id": "snes-romancing_saga_3",
-   "name": "Romancing SaGa 3",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/romancing_saga_3.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/romancing_sa_ga_3.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "romancing_saga_3.smc"
-  },
-  {
-   "id": "snes-rudra_no_hihou",
-   "name": "Rudra no Hihou",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/rudra_no_hihou.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/rudra_no_hihou.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "rudra_no_hihou.smc"
-  },
-  {
    "id": "snes-run_saber",
    "name": "Run Saber",
    "console": "snes",
@@ -21629,28 +18505,6 @@
    "fileName": "run_saber.sfc"
   },
   {
-   "id": "snes-rushing_beat",
-   "name": "Rushing Beat",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/rushing_beat.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/rushing_beat.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "rushing_beat.sfc"
-  },
-  {
-   "id": "snes-ryuuki_heidan_danzarb",
-   "name": "Ryuuki Heidan Danzarb",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/ryuuki_heidan_danzarb.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/ryuukiheidan_dunzarv.webp",
-   "description": "",
-   "size": "1.5 MB",
-   "category": "",
-   "fileName": "ryuuki_heidan_danzarb.sfc"
-  },
-  {
    "id": "snes-samurai_shodown",
    "name": "Samurai Shodown",
    "console": "snes",
@@ -21660,17 +18514,6 @@
    "size": "4.0 MB",
    "category": "",
    "fileName": "samurai_shodown.sfc"
-  },
-  {
-   "id": "snes-sanrio_world_smash_ball",
-   "name": "Sanrio World Smash Ball!",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/sanrio_world_smash_ball.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/sanrio_world_smash_ball.webp",
-   "description": "",
-   "size": "288 KB",
-   "category": "",
-   "fileName": "sanrio_world_smash_ball.sfc"
   },
   {
    "id": "snes-saturday_night_slam_masters",
@@ -21693,17 +18536,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "scooby_doo_mystery.sfc"
-  },
-  {
-   "id": "snes-sd_the_great_battle_aratanaru_chousen",
-   "name": "SD The Great Battle - Aratanaru Chousen",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/sd_the_great_battle_aratanaru_chousen.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/sd_the_great_battle_aratanaru_chousen.webp",
-   "description": "",
-   "size": "2.2 MB",
-   "category": "",
-   "fileName": "sd_the_great_battle_aratanaru_chousen.sfc"
   },
   {
    "id": "snes-secret_of_evermore",
@@ -21739,28 +18571,6 @@
    "fileName": "secret_of_the_stars.smc"
   },
   {
-   "id": "snes-seiken_densetsu_3",
-   "name": "Seiken Densetsu 3",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/seiken_densetsu_3.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/seiken_densetsu_3.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "seiken_densetsu_3.smc"
-  },
-  {
-   "id": "snes-sengoku_denshou",
-   "name": "Sengoku Denshou",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/sengoku_denshou.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/sengoku_denshou.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "sengoku_denshou.sfc"
-  },
-  {
    "id": "snes-shaq_fu",
    "name": "Shaq-Fu",
    "console": "snes",
@@ -21770,61 +18580,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "shaq_fu.sfc"
-  },
-  {
-   "id": "snes-shin_kidou_senki_gundam_w_endless_duel",
-   "name": "Shin Kidou Senki Gundam W - Endless Duel",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/shin_kidou_senki_gundam_w_endless_duel.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/shin_kidou_senki_gundam_w_endless_duel.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "shin_kidou_senki_gundam_w_endless_duel.sfc"
-  },
-  {
-   "id": "snes-shin_megami_tensei",
-   "name": "Shin Megami Tensei",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/shin_megami_tensei.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/shin_megami_tensei.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "shin_megami_tensei.sfc"
-  },
-  {
-   "id": "snes-shin_megami_tensei_ii",
-   "name": "Shin Megami Tensei II",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/shin_megami_tensei_ii.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/shin_megami_tensei_ii.webp",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "shin_megami_tensei_ii.sfc"
-  },
-  {
-   "id": "snes-shin_nekketsu_kouha_kunio_tachi_no_banka",
-   "name": "Shin Nekketsu Kouha - Kunio-tachi no Banka",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/shin_nekketsu_kouha_kunio_tachi_no_banka.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/shin_nekketsu_kouha_kunio_tachi_no_banka.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "shin_nekketsu_kouha_kunio_tachi_no_banka.sfc"
-  },
-  {
-   "id": "snes-shodai_nekketsu_kouha_kunio_kun",
-   "name": "Shodai Nekketsu Kouha Kunio-kun",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/shodai_nekketsu_kouha_kunio_kun.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/shodai_nekketsu_kouha_kunio_kun.webp",
-   "description": "",
-   "size": "1.1 MB",
-   "category": "",
-   "fileName": "shodai_nekketsu_kouha_kunio_kun.smc"
   },
   {
    "id": "snes-side_pocket",
@@ -21858,17 +18613,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "smart_ball.sfc"
-  },
-  {
-   "id": "snes-snoopy_concert",
-   "name": "Snoopy Concert",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/snoopy_concert.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/snoopy_concert.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "snoopy_concert.sfc"
   },
   {
    "id": "snes-snow_white_in_happily_ever_after",
@@ -22036,17 +18780,6 @@
    "fileName": "star_fox.smc"
   },
   {
-   "id": "snes-star_ocean",
-   "name": "Star Ocean",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/star_ocean.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/star_ocean.webp",
-   "description": "",
-   "size": "6.0 MB",
-   "category": "",
-   "fileName": "star_ocean.sfc"
-  },
-  {
    "id": "snes-stargate",
    "name": "Stargate",
    "console": "snes",
@@ -22056,17 +18789,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "stargate.sfc"
-  },
-  {
-   "id": "snes-street_fighter_2_the_new_challengers",
-   "name": "Street Fighter 2 - The New Challengers",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/street_fighter_2_the_new_challengers.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/super_street_fighter_ii_the_new_challengers.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "street_fighter_2_the_new_challengers.smc"
   },
   {
    "id": "snes-street_fighter_alpha_2",
@@ -22155,17 +18877,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "super_alfred_chicken.sfc"
-  },
-  {
-   "id": "snes-super_back_to_the_future_part_ii",
-   "name": "Super Back to the Future Part II",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_back_to_the_future_part_ii.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/super_back_to_the_future_part_ii.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "super_back_to_the_future_part_ii.sfc"
   },
   {
    "id": "snes-super_battletank_2",
@@ -22276,17 +18987,6 @@
    "size": "768 KB",
    "category": "",
    "fileName": "super_mario_kart.sfc"
-  },
-  {
-   "id": "snes-super_mario_rpg",
-   "name": "Super Mario RPG",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_mario_rpg.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/super_mario_rpg.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "super_mario_rpg.smc"
   },
   {
    "id": "snes-super_mario_world",
@@ -22509,28 +19209,6 @@
    "fileName": "teenage_mutant_ninja_turtles_iv_turtles_in_time.sfc"
   },
   {
-   "id": "snes-tenchi_muyou_game_hen",
-   "name": "Tenchi Muyou - Game Hen",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/tenchi_muyou_game_hen.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/tenchi_muyou_game_hen.webp",
-   "description": "",
-   "size": "3.0 MB",
-   "category": "",
-   "fileName": "tenchi_muyou_game_hen.smc"
-  },
-  {
-   "id": "snes-tenshi_no_uta_shiroki_tsubasa_no_inori",
-   "name": "Tenshi no Uta - Shiroki Tsubasa no Inori",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/tenshi_no_uta_shiroki_tsubasa_no_inori.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/tenshi_no_uta_shiroki_tsubasa_no_inori.webp",
-   "description": "",
-   "size": "4.0 MB",
-   "category": "",
-   "fileName": "tenshi_no_uta_shiroki_tsubasa_no_inori.sfc"
-  },
-  {
    "id": "snes-terminator_2_judgment_day",
    "name": "Terminator 2 - Judgment Day",
    "console": "snes",
@@ -22562,17 +19240,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "tetris_attack.smc"
-  },
-  {
-   "id": "snes-tetris_battle_gaiden",
-   "name": "Tetris Battle Gaiden",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/tetris_battle_gaiden.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/tetris_battle_gaiden.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "tetris_battle_gaiden.sfc"
   },
   {
    "id": "snes-the_hunt_for_red_october",
@@ -22630,17 +19297,6 @@
    "fileName": "the_adventures_of_batman_robin.sfc"
   },
   {
-   "id": "snes-the_amazing_spider_man_lethal_foes",
-   "name": "The Amazing Spider-Man - Lethal Foes",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_amazing_spider_man_lethal_foes.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/amazing_spider_man_the_lethal_foes.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "the_amazing_spider_man_lethal_foes.sfc"
-  },
-  {
    "id": "snes-the_blues_brothers",
    "name": "The Blues Brothers",
    "console": "snes",
@@ -22694,50 +19350,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "the_flintstones.smc"
-  },
-  {
-   "id": "snes-the_great_battle_ii_last_fighter_twin",
-   "name": "The Great Battle II - Last Fighter Twin",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_great_battle_ii_last_fighter_twin.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/great_battle_ii_the_last_fighter_twin.webp",
-   "description": "",
-   "size": "2.2 MB",
-   "category": "",
-   "fileName": "the_great_battle_ii_last_fighter_twin.sfc"
-  },
-  {
-   "id": "snes-the_great_battle_iii",
-   "name": "The Great Battle III",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_great_battle_iii.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/great_battle_iii_the.webp",
-   "description": "",
-   "size": "2.2 MB",
-   "category": "",
-   "fileName": "the_great_battle_iii.sfc"
-  },
-  {
-   "id": "snes-the_great_battle_iv",
-   "name": "The Great Battle IV,",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_great_battle_iv.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/great_battle_iv_the.webp",
-   "description": "",
-   "size": "2.2 MB",
-   "category": "",
-   "fileName": "the_great_battle_iv.sfc"
-  },
-  {
-   "id": "snes-the_great_battle_v",
-   "name": "The Great Battle V",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_great_battle_v.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/great_battle_v_the.webp",
-   "description": "",
-   "size": "2.2 MB",
-   "category": "",
-   "fileName": "the_great_battle_v.sfc"
   },
   {
    "id": "snes-the_great_circus_mystery_starring_mickey_minnie",
@@ -22804,17 +19416,6 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "the_jungle_book.sfc"
-  },
-  {
-   "id": "snes-the_king_of_dragons",
-   "name": "The King of Dragons",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/the_king_of_dragons.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/king_of_dragons_the.webp",
-   "description": "",
-   "size": "2.0 MB",
-   "category": "",
-   "fileName": "the_king_of_dragons.sfc"
   },
   {
    "id": "snes-the_legend_of_the_mystical_ninja",
@@ -23004,17 +19605,6 @@
    "fileName": "tiny_toon_adventures_buster_busts_loose.smc"
   },
   {
-   "id": "snes-tom_jerry",
-   "name": "Tom & Jerry",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/tom_jerry.smc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/tom_to_jerry.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "tom_jerry.smc"
-  },
-  {
    "id": "snes-top_gear",
    "name": "Top Gear",
    "console": "snes",
@@ -23112,28 +19702,6 @@
    "size": "1.5 MB",
    "category": "",
    "fileName": "ultimate_fighter.sfc"
-  },
-  {
-   "id": "snes-umihara_kawase",
-   "name": "Umihara Kawase",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/umihara_kawase.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/umihara_kawase.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "umihara_kawase.sfc"
-  },
-  {
-   "id": "snes-undercover_cops",
-   "name": "Undercover Cops",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/undercover_cops.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/undercover_cops.webp",
-   "description": "",
-   "size": "2.5 MB",
-   "category": "",
-   "fileName": "undercover_cops.sfc"
   },
   {
    "id": "snes-uniracers",
@@ -23255,17 +19823,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "wolfchild.sfc"
-  },
-  {
-   "id": "snes-wonder_project_j_kikai_no_shounen_pino",
-   "name": "Wonder Project J - Kikai no Shounen Pino",
-   "console": "snes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/wonder_project_j_kikai_no_shounen_pino.sfc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/wonder_project_j_kikai_no_shounen_pino.webp",
-   "description": "",
-   "size": "3.1 MB",
-   "category": "",
-   "fileName": "wonder_project_j_kikai_no_shounen_pino.sfc"
   },
   {
    "id": "snes-world_heroes_2",
