@@ -1488,17 +1488,6 @@
    "fileName": "elevator_action.gb"
   },
   {
-   "id": "gb-elite_soccer",
-   "name": "Elite Soccer",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/elite_soccer.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/elite_soccer.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "elite_soccer.gb"
-  },
-  {
    "id": "gb-extra_bases",
    "name": "Extra Bases!",
    "console": "gb",
@@ -1585,39 +1574,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "fidgetts_the.gb"
-  },
-  {
-   "id": "gb-fifa_international_soccer",
-   "name": "FIFA International Soccer",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fifa_international_soccer.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/fifa_international_soccer.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "fifa_international_soccer.gb"
-  },
-  {
-   "id": "gb-fifa_soccer_96",
-   "name": "FIFA Soccer '96",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fifa_soccer_96.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/fifa_soccer_96.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "fifa_soccer_96.gb"
-  },
-  {
-   "id": "gb-fifa_soccer_97",
-   "name": "FIFA Soccer '97",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fifa_soccer_97.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/fifa_soccer_97.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "fifa_soccer_97.gb"
   },
   {
    "id": "gb-final_fantasy_adventure",
@@ -1805,17 +1761,6 @@
    "size": "32 KB",
    "category": "",
    "fileName": "game_of_harmony_the.gb"
-  },
-  {
-   "id": "gb-gameboy_camera",
-   "name": "Gameboy Camera",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/gameboy_camera.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/game_boy_camera.webp",
-   "description": "",
-   "size": "1.0 MB",
-   "category": "",
-   "fileName": "gameboy_camera.gb"
   },
   {
    "id": "gb-garfield_labyrinth",
@@ -2168,17 +2113,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "indiana_jones_and_the_last_crusade.gb"
-  },
-  {
-   "id": "gb-international_superstar_soccer",
-   "name": "International Superstar Soccer",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/international_superstar_soccer.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/international_superstar_soccer.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "international_superstar_soccer.gb"
   },
   {
    "id": "gb-ironman_x_o_manowar_in_heavy_metal",
@@ -2696,17 +2630,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "madden_97.gb"
-  },
-  {
-   "id": "gb-magnetic_soccer",
-   "name": "Magnetic Soccer",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/magnetic_soccer.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/magnetic_soccer.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "magnetic_soccer.gb"
   },
   {
    "id": "gb-malibu_beach_volleyball",
@@ -4357,28 +4280,6 @@
    "size": "128 KB",
    "category": "",
    "fileName": "sneaky_snakes.gb"
-  },
-  {
-   "id": "gb-soccer",
-   "name": "Soccer",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/soccer.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/soccer.webp",
-   "description": "",
-   "size": "128 KB",
-   "category": "",
-   "fileName": "soccer.gb"
-  },
-  {
-   "id": "gb-soccer_mania",
-   "name": "Soccer Mania",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/soccer_mania.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/soccer_mania.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "soccer_mania.gb"
   },
   {
    "id": "gb-solarstriker",
@@ -10748,17 +10649,6 @@
    "size": "1.0 MB",
    "category": "",
    "fileName": "zidane_football_generation.gbc"
-  },
-  {
-   "id": "nes-10_yard_fight",
-   "name": "10-Yard Fight",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/10_yard_fight.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/10_yard_fight.webp",
-   "description": "",
-   "size": "40 KB",
-   "category": "",
-   "fileName": "10_yard_fight.nes"
   },
   {
    "id": "nes-1942",
