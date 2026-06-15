@@ -10992,6 +10992,17 @@
    "fileName": "megaman_vi.nes"
   },
   {
+   "id": "nes-megaman_vi_rockman_6_shijou_saidai_no_tatakai",
+   "name": "Megaman VI - Rockman 6 - Shijou Saidai no Tatakai!!",
+   "console": "nes",
+   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/megaman_vi_rockman_6_shijou_saidai_no_tatakai.nes",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/rockman_6_shijou_saidai_no_tatakai.webp",
+   "description": "",
+   "size": "512 KB",
+   "category": "",
+   "fileName": "megaman_vi_rockman_6_shijou_saidai_no_tatakai.nes"
+  },
+  {
    "id": "nes-street_fighter_2010_the_final_fight",
    "name": "Street Fighter 2010 - The Final Fight",
    "console": "nes",
@@ -16294,6 +16305,17 @@
    "fileName": "super_mario_kart.sfc"
   },
   {
+   "id": "snes-super_mario_rpg",
+   "name": "Super Mario RPG",
+   "console": "snes",
+   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/super_mario_rpg.smc",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/super_mario_rpg_legend_of_the_seven_stars.webp",
+   "description": "",
+   "size": "4.0 MB",
+   "category": "",
+   "fileName": "super_mario_rpg.smc"
+  },
+  {
    "id": "snes-super_mario_world",
    "name": "Super Mario World",
    "console": "snes",
@@ -16534,6 +16556,17 @@
    "size": "2.0 MB",
    "category": "",
    "fileName": "mega_man_vii.smc"
+  },
+  {
+   "id": "snes-street_fighter_2_the_new_challengers",
+   "name": "Street Fighter 2 - The New Challengers",
+   "console": "snes",
+   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/snes/street_fighter_2_the_new_challengers.smc",
+   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/snes/super_street_fighter_ii_the_new_challengers.webp",
+   "description": "",
+   "size": "4.0 MB",
+   "category": "",
+   "fileName": "street_fighter_2_the_new_challengers.smc"
   },
   {
    "id": "snes-street_fighter_alpha_2",
