@@ -1,6 +1,6 @@
 {
  "version": "3.1.0",
- "updated": "2026-06-15",
+ "updated": "2026-06-16",
  "roms": [
   {
    "id": "gb-legend_of_zelda_the_link_s_awakening",
@@ -2454,17 +2454,6 @@
    "size": "512 KB",
    "category": "",
    "fileName": "fifa_soccer_96.gb"
-  },
-  {
-   "id": "gb-fifa_soccer_97",
-   "name": "FIFA Soccer '97",
-   "console": "gb",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gb/fifa_soccer_97.gb",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gb/fifa_soccer_97.webp",
-   "description": "",
-   "size": "512 KB",
-   "category": "",
-   "fileName": "fifa_soccer_97.gb"
   },
   {
    "id": "gb-fire_fighter",
@@ -6746,17 +6735,6 @@
    "fileName": "asteroids.gbc"
   },
   {
-   "id": "gbc-atv_racing",
-   "name": "ATV Racing",
-   "console": "gbc",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/gbc/atv_racing.gbc",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/gbc/antz_racing.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "atv_racing.gbc"
-  },
-  {
    "id": "gbc-austin_powers_oh_behave",
    "name": "Austin Powers - Oh Behave!",
    "console": "gbc",
@@ -10761,17 +10739,6 @@
    "fileName": "super_mario_bros_3.nes"
   },
   {
-   "id": "nes-super_mario_brothers",
-   "name": "Super Mario Brothers",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/super_mario_brothers.fds",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/super_mario_bros.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "super_mario_brothers.fds"
-  },
-  {
    "id": "nes-the_legend_of_zelda",
    "name": "The Legend of Zelda",
    "console": "nes",
@@ -11892,17 +11859,6 @@
    "size": "64 KB",
    "category": "",
    "fileName": "adventures_of_dino_riki.nes"
-  },
-  {
-   "id": "nes-adventures_of_lolo",
-   "name": "Adventures of Lolo",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/adventures_of_lolo.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/adventures_of_lolo.webp",
-   "description": "",
-   "size": "64 KB",
-   "category": "",
-   "fileName": "adventures_of_lolo.nes"
   },
   {
    "id": "nes-adventures_of_lolo_2",
@@ -14446,17 +14402,6 @@
    "fileName": "palamedes.nes"
   },
   {
-   "id": "nes-panic_restaurant",
-   "name": "Panic Restaurant",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/panic_restaurant.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/panic_restaurant.webp",
-   "description": "",
-   "size": "256 KB",
-   "category": "",
-   "fileName": "panic_restaurant.nes"
-  },
-  {
    "id": "nes-paperboy",
    "name": "Paperboy",
    "console": "nes",
@@ -15357,17 +15302,6 @@
    "size": "256 KB",
    "category": "",
    "fileName": "super_turrican.nes"
-  },
-  {
-   "id": "nes-swamp_thing",
-   "name": "Swamp Thing",
-   "console": "nes",
-   "romUrl": "https://pub-346889516bc3433c893d4104494368ac.r2.dev/nes/swamp_thing.nes",
-   "coverUrl": "https://cdn.jsdelivr.net/gh/enrix507/roms-catalog@main/covers/nes/swamp_thing.webp",
-   "description": "",
-   "size": "252 KB",
-   "category": "",
-   "fileName": "swamp_thing.nes"
   },
   {
    "id": "nes-sword_master",
