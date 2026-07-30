@@ -57785,7 +57785,7 @@
       "name": "After Burner",
       "slug": "after_burner",
       "file": "covers/nes/after_burner.webp",
-      "bytes": 8664
+      "bytes": 15200
     },
     {
       "console": "nes",
@@ -60634,7 +60634,7 @@
       "name": "Dragon Buster",
       "slug": "dragon_buster",
       "file": "covers/nes/dragon_buster.webp",
-      "bytes": 8644
+      "bytes": 11396
     },
     {
       "console": "nes",
@@ -62118,7 +62118,7 @@
       "name": "Goal!!",
       "slug": "goal",
       "file": "covers/nes/goal.webp",
-      "bytes": 10504
+      "bytes": 9828
     },
     {
       "console": "nes",
@@ -64876,7 +64876,7 @@
       "name": "Mario Bros.",
       "slug": "mario_bros",
       "file": "covers/nes/mario_bros.webp",
-      "bytes": 10118
+      "bytes": 12154
     },
     {
       "console": "nes",
@@ -68327,7 +68327,7 @@
       "name": "Splatterhouse - Wanpaku Graffiti",
       "slug": "splatterhouse_wanpaku_graffiti",
       "file": "covers/nes/splatterhouse_wanpaku_graffiti.webp",
-      "bytes": 8644
+      "bytes": 20374
     },
     {
       "console": "nes",
@@ -70378,7 +70378,7 @@
       "name": "Xevious",
       "slug": "xevious",
       "file": "covers/nes/xevious.webp",
-      "bytes": 8644
+      "bytes": 16362
     },
     {
       "console": "nes",
@@ -70742,7 +70742,7 @@
       "name": "ActRaiser",
       "slug": "actraiser",
       "file": "covers/snes/actraiser.webp",
-      "bytes": 21212
+      "bytes": 6464
     },
     {
       "console": "snes",
@@ -72506,7 +72506,7 @@
       "name": "Contra III - The Alien Wars",
       "slug": "contra_iii_the_alien_wars",
       "file": "covers/snes/contra_iii_the_alien_wars.webp",
-      "bytes": 21748
+      "bytes": 9194
     },
     {
       "console": "snes",
@@ -77567,7 +77567,7 @@
       "name": "Marvel Super Heroes - War of the Gems",
       "slug": "marvel_super_heroes_war_of_the_gems",
       "file": "covers/snes/marvel_super_heroes_war_of_the_gems.webp",
-      "bytes": 20318
+      "bytes": 10234
     },
     {
       "console": "snes",
@@ -79506,7 +79506,7 @@
       "name": "Plok",
       "slug": "plok",
       "file": "covers/snes/plok.webp",
-      "bytes": 15006
+      "bytes": 9132
     },
     {
       "console": "snes",
